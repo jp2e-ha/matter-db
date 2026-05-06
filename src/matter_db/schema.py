@@ -141,6 +141,7 @@ SELECT
     mv.cd_version_number,
     mv.ota_url,
     mv.firmware_information,
+    c.first_seen_at,
     c.last_updated_at
 FROM compliance_records AS c
 LEFT JOIN cert_status_lookup AS csl ON csl.status_int = c.certification_status
@@ -184,7 +185,12 @@ def connect(db_path: str) -> sqlite3.Connection:
 
 
 def initialize(conn: sqlite3.Connection) -> None:
-    """Create tables, seed the lookup, create the view. Idempotent."""
+    """Create tables, seed the lookup, create the views. Idempotent.
+
+    Views are dropped and recreated on every call so that schema edits
+    to a view's SELECT list propagate without needing a destructive
+    migration of an existing data/matter.db.
+    """
     with conn:
         for stmt in DDL_STATEMENTS:
             conn.execute(stmt)
@@ -192,5 +198,7 @@ def initialize(conn: sqlite3.Connection) -> None:
             "INSERT OR IGNORE INTO cert_status_lookup(status_int, label) VALUES (?, ?)",
             CERT_STATUS_SEED,
         )
+        conn.execute("DROP VIEW IF EXISTS matter_certified_products")
+        conn.execute("DROP VIEW IF EXISTS matter_vendor_watchlist")
         conn.execute(VIEW_DDL_CERTIFIED)
         conn.execute(VIEW_DDL_VENDOR_WATCHLIST)
