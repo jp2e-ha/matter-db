@@ -1,0 +1,20 @@
+{
+  "vendorProducts": {
+    "products": [
+      {
+        "name": "Google Nest Thermostat",
+        "partNumber": "GA01334-US",
+        "pid": 1,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Nest Learning Thermostat 4th gen",
+        "partNumber": "GA05551-US",
+        "pid": 13,
+        "schemaVersion": 0
+      }
+    ],
+    "schemaVersion": 0,
+    "vid": 24582
+  }
+}

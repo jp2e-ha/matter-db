@@ -1,0 +1,28 @@
+{
+  "complianceInfo": {
+    "OSVersion": "",
+    "cDCertificateId": "CSA24363MAT43542-24",
+    "cDVersionNumber": 1,
+    "certificationIdOfSoftwareComponent": "",
+    "certificationRoute": "",
+    "certificationType": "matter",
+    "compliantPlatformUsed": "",
+    "compliantPlatformVersion": "",
+    "date": "2024-06-23T00:00:00.000Z",
+    "familyId": "",
+    "history": [],
+    "owner": "cosmos1mwzp8lqmsw2fxq8w9y583xe8h5l6kxq52tl649",
+    "parentChild": "",
+    "pid": 13,
+    "programType": "",
+    "programTypeVersion": "",
+    "reason": "",
+    "schemaVersion": 0,
+    "softwareVersion": 2,
+    "softwareVersionCertificationStatus": 2,
+    "softwareVersionString": "2.1",
+    "supportedClusters": "",
+    "transport": "",
+    "vid": 24582
+  }
+}

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local secrets
+.env
+
+# OS
+.DS_Store
+
+# DCL mirror data — note: data/matter.db is committed by CI in subsequent
+# runs (see Session 3 workflow); only the transient SQLite sidecars and
+# the verbose sync log are ignored here.
+data/matter.db
+data/matter.db-shm
+data/matter.db-wal
+data/sync.log

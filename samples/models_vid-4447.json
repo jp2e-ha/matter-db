@@ -1,0 +1,632 @@
+{
+  "vendorProducts": {
+    "products": [
+      {
+        "name": "Aqara Hub",
+        "partNumber": "AG035",
+        "pid": 2050,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Door and Window Sensor P2",
+        "partNumber": "AS056",
+        "pid": 8194,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Motion and Light Sensor P2",
+        "partNumber": "AS057",
+        "pid": 8195,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Hub",
+        "partNumber": "AG042",
+        "pid": 2051,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock U200",
+        "partNumber": "AD041",
+        "pid": 20481,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Plug T2",
+        "partNumber": "AP022",
+        "pid": 4098,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Matter Test Device",
+        "partNumber": "Aqara Matter Test Device",
+        "pid": 63489,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock U300",
+        "partNumber": "AD030",
+        "pid": 10241,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock U200",
+        "partNumber": "AD040",
+        "pid": 10242,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Camera Hub",
+        "partNumber": "AC020",
+        "pid": 12291,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Thermostat Hub W200",
+        "partNumber": "AA014",
+        "pid": 18433,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK180",
+        "pid": 4104,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK181",
+        "pid": 4105,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK175",
+        "pid": 4099,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK176",
+        "pid": 4100,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK177",
+        "pid": 4101,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Dimmer Switch H2",
+        "partNumber": "AK105",
+        "pid": 4106,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Light",
+        "partNumber": "AL228",
+        "pid": 6146,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Light",
+        "partNumber": "AL229",
+        "pid": 6148,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Light",
+        "partNumber": "AL230",
+        "pid": 6150,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Light",
+        "partNumber": "AL228",
+        "pid": 6145,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Light",
+        "partNumber": "AL229",
+        "pid": 6147,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Light",
+        "partNumber": "AL230",
+        "pid": 6149,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock U400",
+        "partNumber": "AD051",
+        "pid": 10244,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Voice Mate H1",
+        "partNumber": "AR028",
+        "pid": 16386,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 0801",
+        "partNumber": "AG045",
+        "pid": 2049,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Climate Sensor W100",
+        "partNumber": "AA016",
+        "pid": 8196,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK179",
+        "pid": 4103,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Hub",
+        "partNumber": "AG046",
+        "pid": 2052,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Presence Multi-Sensor FP300",
+        "partNumber": "AS077",
+        "pid": 8197,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Dimmer Switch H2",
+        "partNumber": "AK178",
+        "pid": 4102,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Floor Heating Thermostat W500",
+        "partNumber": "AA016",
+        "pid": 18435,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Test Switch",
+        "partNumber": "1",
+        "pid": 1000,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Test Switch1",
+        "partNumber": "1",
+        "pid": 1007,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 2006",
+        "partNumber": "AS073",
+        "pid": 8198,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 3802",
+        "partNumber": "AM063",
+        "pid": 14338,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Shutter Switch H2",
+        "partNumber": "AK199",
+        "pid": 4109,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock U200 Lite",
+        "partNumber": "AD065",
+        "pid": 10247,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Wall Outlet H2 UK",
+        "partNumber": "AK191",
+        "pid": 4110,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Hub M200",
+        "partNumber": "AG047",
+        "pid": 2055,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Hub M300",
+        "partNumber": "AG048",
+        "pid": 2056,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Radiator Thermostat W600",
+        "partNumber": "AA014",
+        "pid": 18437,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Touchscreen Switch S100",
+        "partNumber": "AK179",
+        "pid": 4145,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Camera Hub G350",
+        "partNumber": "AC031",
+        "pid": 12307,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock J200 Set",
+        "partNumber": "AD056",
+        "pid": 10245,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock J200",
+        "partNumber": "AD066",
+        "pid": 10253,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 1825",
+        "partNumber": "AL241",
+        "pid": 6181,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Smart Constant Current Driver T3",
+        "partNumber": "AL232",
+        "pid": 6152,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 301c",
+        "partNumber": "AC037",
+        "pid": 12316,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Presence Switch H2 US",
+        "partNumber": "AK196",
+        "pid": 4112,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Presence Switch H2 US",
+        "partNumber": "AK197",
+        "pid": 4113,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Presence Switch H2 US",
+        "partNumber": "AK198",
+        "pid": 4114,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 380C",
+        "partNumber": "AM066",
+        "pid": 14348,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 2061",
+        "partNumber": "AG049",
+        "pid": 2061,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Light Switch H2",
+        "partNumber": "AK206",
+        "pid": 4150,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 4139",
+        "partNumber": "AR029",
+        "pid": 4139,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Power Plug H2 EU",
+        "partNumber": "AP026",
+        "pid": 4152,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Power Plug H2 EU\uff08RGB\uff09",
+        "partNumber": "AP026",
+        "pid": 4154,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Power Plug H2 UK",
+        "partNumber": "AP028",
+        "pid": 4160,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Power Plug H2 UK\uff08RGB\uff09",
+        "partNumber": "AP028",
+        "pid": 4162,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 1044",
+        "partNumber": "AP029",
+        "pid": 4164,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 1046",
+        "partNumber": "AP029",
+        "pid": 4166,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 103C",
+        "partNumber": "AP027",
+        "pid": 4156,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Outdoor Plug H2 EU (RGB)",
+        "partNumber": "AP027",
+        "pid": 4158,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Multi-State Sensor P100",
+        "partNumber": "AS080",
+        "pid": 8203,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Gate Lock U500",
+        "partNumber": "AD071",
+        "pid": 10254,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 4011",
+        "partNumber": "AR029",
+        "pid": 16401,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Rim Lock U500",
+        "partNumber": "AD072",
+        "pid": 10255,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Glass Door Lock U500",
+        "partNumber": "AD073",
+        "pid": 10256,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Thermostat W400",
+        "partNumber": "AA012",
+        "pid": 18446,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Panel Hub AX100S",
+        "partNumber": "AG051",
+        "pid": 2063,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Presence Multi-Sensor FP310",
+        "partNumber": "AS077",
+        "pid": 8206,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Smart Lock U200 US",
+        "partNumber": "AD075",
+        "pid": 10346,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Spatial Multi-Sensor FP400",
+        "partNumber": "AS078",
+        "pid": 8201,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Light Switch H2 JP (2 Buttons, 1 Channel)",
+        "partNumber": "AK212",
+        "pid": 4270,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Light Switch H2 JP (4 Buttons, 2 Channels)",
+        "partNumber": "AK213",
+        "pid": 4271,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 284a",
+        "partNumber": "AD077",
+        "pid": 10314,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 080e",
+        "partNumber": "AG050",
+        "pid": 2062,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 284e",
+        "partNumber": "AD078",
+        "pid": 10318,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 381b",
+        "partNumber": "AM069",
+        "pid": 14363,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 810",
+        "partNumber": "AG052",
+        "pid": 2064,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 2033",
+        "partNumber": "AS081",
+        "pid": 8243,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara Test Product 285B",
+        "partNumber": "AD079",
+        "pid": 10331,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 0813",
+        "partNumber": "AG054",
+        "pid": 2067,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 0814",
+        "partNumber": "AG055",
+        "pid": 2068,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 2042",
+        "partNumber": "AS088",
+        "pid": 8258,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Spotlight H1",
+        "partNumber": "AL253",
+        "pid": 6179,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Light Strip Driver Module H1",
+        "partNumber": "AL255",
+        "pid": 6180,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 1826",
+        "partNumber": "AL256",
+        "pid": 6182,
+        "schemaVersion": 0
+      },
+      {
+        "name": "LED Bulb T2",
+        "partNumber": "AL257",
+        "pid": 6184,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 181d",
+        "partNumber": "AL250",
+        "pid": 6173,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 1821",
+        "partNumber": "AL252",
+        "pid": 6177,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 181f",
+        "partNumber": "AL251",
+        "pid": 6175,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 2044",
+        "partNumber": "AS090",
+        "pid": 8260,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 2046",
+        "partNumber": "AS091",
+        "pid": 8262,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 1827",
+        "partNumber": "AL258",
+        "pid": 6183,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 2811",
+        "partNumber": "AD074",
+        "pid": 10257,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 3022",
+        "partNumber": "AC041",
+        "pid": 12322,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara 381D",
+        "partNumber": "AM075",
+        "pid": 14365,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Agara-3832",
+        "partNumber": "AM074",
+        "pid": 14386,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Agara-2875",
+        "partNumber": "AD083",
+        "pid": 10357,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara-1829",
+        "partNumber": "AL259",
+        "pid": 6185,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara-1847",
+        "partNumber": "AL259",
+        "pid": 6215,
+        "schemaVersion": 0
+      },
+      {
+        "name": "Aqara-081a",
+        "partNumber": "AK216",
+        "pid": 2074,
+        "schemaVersion": 0
+      }
+    ],
+    "schemaVersion": 0,
+    "vid": 4447
+  }
+}

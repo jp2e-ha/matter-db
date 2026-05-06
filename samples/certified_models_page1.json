@@ -1,0 +1,168 @@
+{
+  "certifiedModel": [
+    {
+      "certificationType": "matter",
+      "pid": 257,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 257,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 258,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 258,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 259,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 259,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 260,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 260,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 261,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 261,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 262,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 262,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 263,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 263,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 264,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 264,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 265,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 265,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 266,
+      "schemaVersion": 0,
+      "softwareVersion": 300,
+      "value": true,
+      "vid": 1
+    },
+    {
+      "certificationType": "matter",
+      "pid": 266,
+      "schemaVersion": 0,
+      "softwareVersion": 302,
+      "value": true,
+      "vid": 1
+    }
+  ],
+  "pagination": {
+    "next_key": "AAAAAS8AAAELLwAAASwvbWF0dGVyLw==",
+    "total": "4269"
+  }
+}
