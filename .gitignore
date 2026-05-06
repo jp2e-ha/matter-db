@@ -20,10 +20,9 @@ wheels/
 # OS
 .DS_Store
 
-# DCL mirror data — note: data/matter.db is committed by CI in subsequent
-# runs (see Session 3 workflow); only the transient SQLite sidecars and
-# the verbose sync log are ignored here.
-data/matter.db
+# DCL mirror data — data/matter.db IS committed by CI (see the sync
+# workflow). Only the transient SQLite sidecars and the verbose sync log
+# are kept out of git.
 data/matter.db-shm
 data/matter.db-wal
 data/sync.log

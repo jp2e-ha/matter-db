@@ -32,13 +32,19 @@ def make_transport(handler: Callable[[httpx.Request], httpx.Response]) -> httpx.
     return httpx.MockTransport(handler)
 
 
-def make_client(handler, *, sleep_between: float = 0.0,
-                max_retries: int = 3) -> DCLClient:
+def make_client(
+    handler: Callable[[httpx.Request], httpx.Response],
+    *,
+    sleep_between: float = 0.0,
+    max_retries: int = 3,
+    max_concurrency: int = 5,
+) -> DCLClient:
     return DCLClient(
         "https://dcl.test",
         transport=make_transport(handler),
         sleep_between=sleep_between,
         max_retries=max_retries,
+        max_concurrency=max_concurrency,
         timeout=2.0,
     )
 
@@ -50,11 +56,7 @@ def synthetic_scenario() -> dict[str, Any]:
 
       vid 1001 (Foo Corp)   — 1 model with 1 firmware version, certified
       vid 1002 (Bar Inc)    — 1 model, 1 firmware, certified
-      vid 1003 (Apple-like) — vendor record, but the Models endpoint 404s
-                              (we don't actually exercise it; the compliance
-                              walk drives lookups, and 1003 has no
-                              compliance records — the 404 case is exercised
-                              by an extra fan-out target below)
+      vid 1003 (Apple-like) — vendor record only; no compliance rows
 
     A fourth compliance row references vid 9999 / pid 7 — a model that
     will 404 — to verify "models 404" notes capture works.
@@ -85,13 +87,11 @@ def synthetic_scenario() -> dict[str, Any]:
          "date": "2025-02-20T00:00:00.000Z",
          "cDCertificateId": "CSA-BAR-1", "softwareVersionString": "2.0.0",
          "history": [], "schemaVersion": 0},
-        # zigbee row that should be excluded from the matter view
         {"vid": 1001, "pid": 2, "softwareVersion": 50,
          "certificationType": "zigbee", "softwareVersionCertificationStatus": 2,
          "date": "2024-09-10T00:00:00.000Z",
          "cDCertificateId": "CSA-FOO-2", "softwareVersionString": "0.5.0",
          "history": [], "schemaVersion": 0},
-        # ghost compliance referencing a vendor with no Model on the ledger
         {"vid": 9999, "pid": 7, "softwareVersion": 300,
          "certificationType": "matter", "softwareVersionCertificationStatus": 2,
          "date": "2025-03-01T00:00:00.000Z",
@@ -111,7 +111,6 @@ def synthetic_scenario() -> dict[str, Any]:
                     "partNumber": "BAR-005",
                     "productUrl": "https://bar.example/sensor",
                     "creator": "cosmos1bar", "schemaVersion": 0},
-        # zigbee compliance row's model
         (1001, 2): {"vid": 1001, "pid": 2, "deviceTypeId": 0,
                     "productName": "Foo Legacy Switch", "productLabel": "",
                     "partNumber": "FOO-LEGACY-002",
@@ -135,7 +134,6 @@ def synthetic_scenario() -> dict[str, Any]:
                         "softwareVersionString": "0.5.0", "cdVersionNumber": 1,
                         "otaUrl": "", "firmwareInformation": "",
                         "creator": "cosmos1foo", "schemaVersion": 0},
-        # (9999, 7, 300) absent → 404 ⇒ versions_404 entry
     }
 
     return {"vendors": vendors, "compliance": compliance,
@@ -151,9 +149,6 @@ def scenario_handler(scenario: dict[str, Any]) -> Callable[[httpx.Request], http
 
     def handler(req: httpx.Request) -> httpx.Response:
         path = req.url.path
-        # paginated lists — serve everything in one page; the client will
-        # still hit them with pagination params, but we ignore the cursor
-        # since the dataset is tiny.
         if path == "/dcl/vendorinfo/vendors":
             return httpx.Response(200, json={
                 "vendorInfo": vendors,
@@ -164,7 +159,6 @@ def scenario_handler(scenario: dict[str, Any]) -> Callable[[httpx.Request], http
                 "complianceInfo": compliance,
                 "pagination": {"next_key": None, "total": str(len(compliance))},
             })
-        # models/{vid}/{pid}
         parts = path.strip("/").split("/")
         if len(parts) == 5 and parts[:3] == ["dcl", "model", "models"]:
             vid, pid = int(parts[3]), int(parts[4])
@@ -173,7 +167,6 @@ def scenario_handler(scenario: dict[str, Any]) -> Callable[[httpx.Request], http
                 return httpx.Response(404, json={"code": 5,
                                                  "message": f"not found: {vid}/{pid}"})
             return httpx.Response(200, json={"model": m})
-        # versions/{vid}/{pid}/{sv}
         if len(parts) == 6 and parts[:3] == ["dcl", "model", "versions"]:
             vid, pid, sv = int(parts[3]), int(parts[4]), int(parts[5])
             v = versions.get((vid, pid, sv))
@@ -192,5 +185,9 @@ def scenario():
 
 
 @pytest.fixture
-def scenario_client(scenario):
-    return make_client(scenario_handler(scenario))
+async def scenario_client(scenario):
+    client = make_client(scenario_handler(scenario))
+    try:
+        yield client
+    finally:
+        await client.close()

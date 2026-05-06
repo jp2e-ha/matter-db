@@ -1,24 +1,33 @@
-"""Full-walk sync orchestrator.
+"""Async full-walk sync orchestrator.
 
 Walk order, driven by Session-1 findings:
 
-  1. vendors                    — paginated list
-  2. compliance_records         — paginated list (the source of truth for
-                                  certified products)
-  3. unique (vid, pid) from #2  — fetch each Model; 404 ⇒ no model exists
-  4. unique (vid, pid, sv) from #2 — fetch each ModelVersion; 404 ⇒ skip
+  1. vendors                    — paginated list (sequential pages)
+  2. compliance_records         — paginated list (sequential pages)
+  3. unique (vid, pid) from #2  — fetch each Model concurrently
+                                  (Semaphore(5) inside the client);
+                                  404 ⇒ no model exists.
+  4. unique (vid, pid, sv) from #2 — fetch each ModelVersion concurrently;
+                                     404 ⇒ skip.
 
-A single sync_runs row is opened with status='running', and on successful
-completion the counts and status='completed' are written. On failure the
-exception message is captured and status='failed'.
+The HTTP fan-out is driven by `asyncio.gather`, but every SQLite write
+runs from the main coroutine after results arrive — sqlite3 connections
+are not safe to share across coroutines, so we never let two coroutines
+touch the connection.
+
+Normal mode commits per phase, and inside the long fan-outs commits
+every `commit_every` (default 200) rows so a process kill mid-sync
+preserves everything that finished up to the last checkpoint. Dry-run
+keeps a single transaction open and ROLLBACKs at the end.
 """
 
 from __future__ import annotations
 
+import asyncio
 import logging
 import sqlite3
 from dataclasses import dataclass, field
-from typing import Iterable
+from typing import Any, Awaitable, Callable, Iterable
 
 from .client import DCLClient
 from .upsert import (
@@ -102,30 +111,42 @@ def finalize_sync_run(
 
 
 def _checkpoint(conn: sqlite3.Connection, dry_run: bool) -> None:
-    """Commit the current chunk in normal mode; in dry-run we hold the
-    single big transaction open until the end."""
     if not dry_run:
         conn.commit()
 
 
-def run_sync(
+async def _fanout(
+    targets: list[tuple[Any, ...]],
+    fetcher: Callable[..., Awaitable[Any]],
+    *,
+    on_result: Callable[[tuple[Any, ...], Any], None],
+    batch_size: int,
+    on_batch_done: Callable[[], None],
+) -> None:
+    """Fan out `fetcher(*target)` over `targets`, batched.
+
+    Within each batch all calls run concurrently — the client's semaphore
+    keeps in-flight count bounded. After all calls in a batch finish,
+    `on_result` is invoked sequentially for each (target, result) pair so
+    SQLite writes are single-coroutine, and then `on_batch_done` lets the
+    caller commit.
+    """
+    for i in range(0, len(targets), batch_size):
+        chunk = targets[i:i + batch_size]
+        tasks = [asyncio.create_task(fetcher(*t)) for t in chunk]
+        results = await asyncio.gather(*tasks)
+        for target, result in zip(chunk, results):
+            on_result(target, result)
+        on_batch_done()
+
+
+async def run_sync(
     conn: sqlite3.Connection,
     client: DCLClient,
     *,
     dry_run: bool = False,
     commit_every: int = 200,
 ) -> SyncReport:
-    """Execute one full-walk sync.
-
-    Normal mode commits per phase (and every `commit_every` rows inside the
-    long fan-out walks), so a process kill mid-sync preserves everything
-    that finished up to the last checkpoint. Dry-run keeps the entire
-    entity walk inside one big transaction so we can ROLLBACK at the end.
-
-    The sync_runs row is opened and committed before the walk starts, and
-    finalized in its own commit at the end — independent of the entity
-    transaction, so the run is always observable.
-    """
     started = now_iso()
     run_id = open_sync_run(conn, now=started)
     conn.commit()
@@ -136,62 +157,72 @@ def run_sync(
 
     try:
         log.info("walking vendors…")
-        for v in client.get_vendors():
+        vendors = await client.get_vendors()
+        for v in vendors:
             upsert_vendor(conn, v, now=started)
             counts.vendors_seen += 1
         log.info("vendors: %d", counts.vendors_seen)
         _checkpoint(conn, dry_run)
 
         log.info("walking compliance records…")
-        compliance_rows: list[dict] = []
-        for c in client.get_compliance_records():
+        compliance_rows = await client.get_compliance_records()
+        for c in compliance_rows:
             upsert_compliance(conn, c, now=started)
             counts.compliance_seen += 1
-            compliance_rows.append(c)
         log.info("compliance: %d", counts.compliance_seen)
         _checkpoint(conn, dry_run)
 
         # Build unique fan-out targets from compliance rows.
-        unique_models: set[tuple[int, int]] = set()
-        unique_versions: set[tuple[int, int, int]] = set()
+        unique_models_set: set[tuple[int, int]] = set()
+        unique_versions_set: set[tuple[int, int, int]] = set()
         for c in compliance_rows:
             vid = c.get("vid")
             pid = c.get("pid")
             sv = c.get("softwareVersion")
             if vid is not None and pid is not None:
-                unique_models.add((int(vid), int(pid)))
+                unique_models_set.add((int(vid), int(pid)))
             if vid is not None and pid is not None and sv is not None:
-                unique_versions.add((int(vid), int(pid), int(sv)))
+                unique_versions_set.add((int(vid), int(pid), int(sv)))
+        unique_models = sorted(unique_models_set)
+        unique_versions = sorted(unique_versions_set)
 
-        log.info("walking %d unique models…", len(unique_models))
-        since_commit = 0
-        for vid, pid in sorted(unique_models):
-            m = client.get_model(vid, pid)
-            if m is None:
+        log.info("walking %d unique models (concurrent fan-out)…",
+                 len(unique_models))
+
+        def on_model(target: tuple[Any, ...], result: Any) -> None:
+            vid, pid = target
+            if result is None:
                 counts.models_404.append((vid, pid))
             else:
-                upsert_model(conn, m, now=started)
+                upsert_model(conn, result, now=started)
                 counts.models_seen += 1
-            since_commit += 1
-            if since_commit >= commit_every:
-                _checkpoint(conn, dry_run)
-                since_commit = 0
-        _checkpoint(conn, dry_run)
 
-        log.info("walking %d unique model versions…", len(unique_versions))
-        since_commit = 0
-        for vid, pid, sv in sorted(unique_versions):
-            mv = client.get_model_version(vid, pid, sv)
-            if mv is None:
+        await _fanout(
+            unique_models,
+            client.get_model,
+            on_result=on_model,
+            batch_size=commit_every,
+            on_batch_done=lambda: _checkpoint(conn, dry_run),
+        )
+
+        log.info("walking %d unique model versions (concurrent fan-out)…",
+                 len(unique_versions))
+
+        def on_version(target: tuple[Any, ...], result: Any) -> None:
+            vid, pid, sv = target
+            if result is None:
                 counts.versions_404.append((vid, pid, sv))
             else:
-                upsert_model_version(conn, mv, now=started)
+                upsert_model_version(conn, result, now=started)
                 counts.versions_seen += 1
-            since_commit += 1
-            if since_commit >= commit_every:
-                _checkpoint(conn, dry_run)
-                since_commit = 0
-        _checkpoint(conn, dry_run)
+
+        await _fanout(
+            unique_versions,
+            client.get_model_version,
+            on_result=on_version,
+            batch_size=commit_every,
+            on_batch_done=lambda: _checkpoint(conn, dry_run),
+        )
 
         if dry_run:
             conn.execute("ROLLBACK")
@@ -203,11 +234,6 @@ def run_sync(
                 conn.execute("ROLLBACK")
             except sqlite3.OperationalError:
                 pass
-        else:
-            # In normal mode there's no open transaction at this point —
-            # checkpoints already committed, current upsert auto-rolled
-            # back when the cursor is dropped.
-            pass
         finalize_sync_run(
             conn, run_id, counts,
             status="failed", error=str(exc), now=now_iso(),

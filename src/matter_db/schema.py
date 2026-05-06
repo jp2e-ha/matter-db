@@ -119,7 +119,7 @@ CERT_STATUS_SEED: list[tuple[int, str]] = [
     (2, "certified"),
 ]
 
-VIEW_DDL = """
+VIEW_DDL_CERTIFIED = """
 CREATE VIEW IF NOT EXISTS matter_certified_products AS
 SELECT
     c.vendor_id,
@@ -154,6 +154,25 @@ WHERE LOWER(c.certification_type) = 'matter'
   AND c.certification_status      = 2
 """
 
+# Vendors registered on the DCL but with no compliance records yet —
+# i.e. a Vendor ID exists, but no certified product has shipped under it.
+# Useful as a leading indicator of upcoming Matter activity.
+VIEW_DDL_VENDOR_WATCHLIST = """
+CREATE VIEW IF NOT EXISTS matter_vendor_watchlist AS
+SELECT
+    v.vendor_id,
+    v.vendor_name,
+    v.company_legal_name,
+    v.landing_url,
+    v.first_seen_at,
+    v.last_seen_at
+FROM vendors AS v
+LEFT JOIN compliance_records AS c ON c.vendor_id = v.vendor_id
+WHERE c.vendor_id IS NULL
+GROUP BY v.vendor_id
+ORDER BY v.first_seen_at DESC
+"""
+
 
 def connect(db_path: str) -> sqlite3.Connection:
     """Open a connection with sensible defaults."""
@@ -173,4 +192,5 @@ def initialize(conn: sqlite3.Connection) -> None:
             "INSERT OR IGNORE INTO cert_status_lookup(status_int, label) VALUES (?, ?)",
             CERT_STATUS_SEED,
         )
-        conn.execute(VIEW_DDL)
+        conn.execute(VIEW_DDL_CERTIFIED)
+        conn.execute(VIEW_DDL_VENDOR_WATCHLIST)

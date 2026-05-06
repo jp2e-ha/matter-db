@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import asyncio
 import logging
 import os
 import sys
@@ -13,6 +14,10 @@ from rich.console import Console
 from rich.table import Table
 
 from .client import DCLClient, DEFAULT_BASE_URL
+from .diff import (
+    compute_diff, headline_for_commit, render_json, render_markdown,
+    resolve_diff_window,
+)
 from .schema import connect, initialize
 from .sync import run_sync
 
@@ -40,8 +45,15 @@ def cmd_sync(args: argparse.Namespace) -> int:
     conn = connect(str(db_path))
     initialize(conn)
 
-    with DCLClient(base_url) as client:
-        report = run_sync(conn, client, dry_run=args.dry_run)
+    async def _go() -> "object":
+        async with DCLClient(base_url) as client:
+            return await run_sync(conn, client, dry_run=args.dry_run)
+
+    report = asyncio.run(_go())
+    # Flush the WAL into the main DB file so CI committing only data/matter.db
+    # gets all the data we just wrote.
+    conn.execute("PRAGMA wal_checkpoint(TRUNCATE)")
+    conn.close()
 
     counts = report.counts
     console.print(
@@ -55,6 +67,38 @@ def cmd_sync(args: argparse.Namespace) -> int:
     if report.error:
         console.print(f"[red]error:[/red] {report.error}")
         return 1
+    return 0
+
+
+def cmd_diff(args: argparse.Namespace) -> int:
+    db_path = _resolve_db_path(args.db)
+    if not db_path.exists():
+        console.print(f"[yellow]no database at {db_path}[/yellow]")
+        return 1
+
+    conn = connect(str(db_path))
+    earlier_id, earlier_t, later_id, later_t = resolve_diff_window(
+        conn, since=args.since, since_last=args.since_last,
+    )
+    report = compute_diff(
+        conn, earlier_t, later_t,
+        earlier_run_id=earlier_id, later_run_id=later_id,
+    )
+
+    if args.format == "json":
+        rendered = render_json(report)
+    elif args.format == "headline":
+        rendered = headline_for_commit(report) + "\n"
+    else:
+        rendered = render_markdown(report)
+
+    if args.output:
+        args.output.parent.mkdir(parents=True, exist_ok=True)
+        args.output.write_text(rendered, encoding="utf-8")
+        console.log(f"wrote {args.output} ({len(rendered):,} bytes)")
+    else:
+        # Use plain print so the markdown isn't decorated by Rich
+        print(rendered, end="")
     return 0
 
 
@@ -98,7 +142,8 @@ def cmd_status(args: argparse.Namespace) -> int:
     counts_table.add_column("table")
     counts_table.add_column("rows", justify="right")
     for tbl in ("vendors", "models", "model_versions",
-                "compliance_records", "matter_certified_products"):
+                "compliance_records",
+                "matter_certified_products", "matter_vendor_watchlist"):
         n = conn.execute(f"SELECT COUNT(*) FROM {tbl}").fetchone()[0]
         counts_table.add_row(tbl, str(n))
     console.print(counts_table)
@@ -124,6 +169,22 @@ def main(argv: list[str] | None = None) -> int:
 
     p_status = sub.add_parser("status", help="show last sync runs and row counts")
     p_status.set_defaults(func=cmd_status)
+
+    p_diff = sub.add_parser(
+        "diff",
+        help="diff between two sync runs (default: latest vs second-latest)",
+    )
+    g = p_diff.add_mutually_exclusive_group()
+    g.add_argument("--since", type=int, metavar="RUN_ID",
+                   help="compare against the run with this id")
+    g.add_argument("--since-last", action="store_true",
+                   help="compare against the second-most-recent run (default)")
+    p_diff.add_argument("--format", choices=("markdown", "json", "headline"),
+                        default="markdown",
+                        help="markdown (default), json, or a single-line headline")
+    p_diff.add_argument("--output", "-o", type=Path, metavar="FILE",
+                        help="write to FILE instead of stdout")
+    p_diff.set_defaults(func=cmd_diff)
 
     args = parser.parse_args(argv)
     return args.func(args)
