@@ -1,0 +1,18 @@
+<section class="stats" aria-label="Headline statistics">
+  <div class="stat">
+    <span class="num">{{ "{:,}".format(stats.products) }}</span>
+    <span class="label">total products</span>
+  </div>
+  <div class="stat">
+    <span class="num">{{ "{:,}".format(stats.vendors_with_products) }}</span>
+    <span class="label">manufacturers</span>
+  </div>
+  <div class="stat">
+    <span class="num">{{ "{:,}".format(stats.added_7d) }}</span>
+    <span class="label">added last 7 days</span>
+  </div>
+  <div class="stat">
+    <span class="num">{{ "{:,}".format(stats.vendors_watchlist) }}</span>
+    <span class="label">on the watchlist</span>
+  </div>
+</section>

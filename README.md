@@ -3,6 +3,8 @@
 [![sync](https://github.com/jp2e-ha/matter-db/actions/workflows/sync.yml/badge.svg)](https://github.com/jp2e-ha/matter-db/actions/workflows/sync.yml)
 [![data freshness](https://img.shields.io/github/last-commit/jp2e-ha/matter-db/main?label=last%20sync)](https://github.com/jp2e-ha/matter-db/commits/main)
 
+🌐 **Live site: <https://matter-db.fly.dev/>**
+
 A continuously-updated SQLite database of every Matter-certified smart-home
 product, mirrored from the CSA **Distributed Compliance Ledger** (DCL).
 
@@ -14,18 +16,52 @@ once a day against the public observer node at
 SQLite file straight to `data/matter.db`, and writes a human-readable
 diff to [`CHANGES.md`](./CHANGES.md).
 
+## Browse the data
+
+The full database is online at **<https://matter-db.fly.dev/>**:
+
+- The landing page `/` shows headline counts (total products,
+  manufacturers, products added in the last 7 days, vendors on the
+  watchlist), the top 10 manufacturers by product count, and "new this
+  week" pulled from the latest sync's `changes-latest.json`. A search
+  box hands off to a Datasette canned query that does a substring match
+  across vendor, product, and part-number fields.
+- `/db/` mounts [Datasette](https://datasette.io) over the same SQLite
+  file, with four canned queries pre-baked
+  ([all certified products](https://matter-db.fly.dev/db/matter/certified_products),
+  [vendor watchlist](https://matter-db.fly.dev/db/matter/vendor_watchlist),
+  [recently added](https://matter-db.fly.dev/db/matter/recently_added),
+  [search](https://matter-db.fly.dev/db/matter/search_products)). Every
+  table and view is also queryable as JSON by appending `.json` to the
+  URL — `/db/matter/matter_certified_products.json?_size=200` is the
+  paged JSON feed.
+
+The site runs on a single 256 MB shared-CPU Fly Machine with auto-stop;
+the first request after an idle period pays a ~1–3 s cold start, and
+subsequent requests are served warm.
+
 ## What's in here
 
 ```
 matter-db/
-├── data/matter.db              ← the SQLite mirror, committed by CI
-├── CHANGES.md                  ← Markdown diff from the most recent sync
-├── changes-latest.json         ← same diff, machine-readable
-├── src/matter_db/              ← sync engine
-├── tests/                      ← pytest suite (httpx.MockTransport)
-├── .github/workflows/sync.yml  ← daily 07:00 UTC sync + commit-back
-├── docs/findings.md            ← Session 1 reconnaissance report
-└── samples/                    ← raw JSON pulled from each DCL endpoint
+├── data/matter.db                ← the SQLite mirror, committed by CI
+├── CHANGES.md                    ← Markdown diff from the most recent sync
+├── changes-latest.json           ← same diff, machine-readable
+├── src/matter_db/                ← sync engine + diff generator
+├── web/                          ← Starlette landing page + Datasette mount
+│   ├── app.py                    ← create_app() factory; production app at module level
+│   ├── data.py / pages.py        ← read-only DB queries + page handlers
+│   ├── templates/                ← Jinja2 templates (base, index, partials/*)
+│   ├── static/style.css          ← single-file plain CSS
+│   └── metadata.yml              ← Datasette config + canned queries
+├── Dockerfile                    ← Python 3.11-slim + uv, builds the web image
+├── fly.toml                      ← Fly.io app config (region IAD, 256MB, auto-stop)
+├── tests/                        ← pytest suite (httpx.MockTransport + Starlette TestClient)
+├── .github/workflows/
+│   ├── sync.yml                  ← daily 07:00 UTC DCL sync + commit-back
+│   └── deploy.yml                ← Fly deploy on relevant pushes / dispatch
+├── docs/findings.md              ← Session 1 reconnaissance report
+└── samples/                      ← raw JSON pulled from each DCL endpoint
 ```
 
 ## How the auto-update works
@@ -150,6 +186,25 @@ The suite uses `httpx.MockTransport` so it never touches the network. It
 covers pagination, 404-as-empty, retries, the async semaphore cap,
 upsert idempotency, the watchlist and certified-products views, the diff
 categorizer, and that the GitHub Actions workflow YAML parses.
+
+## Hosting
+
+Deployed to [Fly.io](https://fly.io) as the single app `matter-db`,
+running one shared-CPU 256 MB machine in `iad`. The Dockerfile is the
+build target; `flyctl deploy --remote-only` from a machine with
+`flyctl auth` is enough to ship a new revision. CI re-deploys
+automatically on every push to `main` that touches `data/matter.db`,
+`web/**`, `src/**`, `Dockerfile`, `fly.toml`, `pyproject.toml`,
+`uv.lock`, or `changes-latest.json` — i.e. every successful daily sync
+auto-deploys the freshly-mirrored data.
+
+Manual ops:
+
+```sh
+flyctl deploy --remote-only      # ship a new revision
+flyctl logs                      # tail the running app
+flyctl ssh console               # poke around the container
+```
 
 ## Source
 

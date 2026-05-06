@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+  <h1>
+    {{ "{:,}".format(stats.products) }} Matter-certified products
+    from {{ "{:,}".format(stats.vendors_with_products) }} manufacturers.
+  </h1>
+  <p class="last-sync">Last synced {{ stats.last_sync_relative }}.</p>
+
+  <form action="/search" method="get" class="search" role="search">
+    <input
+      type="text"
+      name="q"
+      placeholder="Search by vendor, product, or part number…"
+      aria-label="Search products"
+      autocomplete="off">
+    <button type="submit">Search</button>
+  </form>
+</section>
+
+{% include "partials/stats.html" %}
+
+<div class="two-col">
+  {% include "partials/top_vendors.html" %}
+  {% include "partials/new_this_week.html" %}
+</div>
+{% endblock %}

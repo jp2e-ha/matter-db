@@ -1,0 +1,34 @@
+# Reproduce .gitignore essentials, plus a few image-only excludes
+.git/
+.github/
+.venv/
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.env
+
+# Don't ship recon artifacts or local sync logs into the image
+samples/
+docs/
+probe/
+tests/
+data/matter.db-shm
+data/matter.db-wal
+data/sync.log
+*.log
+.DS_Store
+
+# CI/CD assets that aren't useful inside the runtime container
+fly.toml
+Dockerfile
+.dockerignore
+.gitattributes
+.gitignore
+README.md
+CHANGES.md

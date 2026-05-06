@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Matter Product Database{% endblock %}</title>
+  <meta name="description" content="An auto-updating mirror of every Matter-certified smart-home device, sourced from the CSA Distributed Compliance Ledger.">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <a href="/" class="brand">Matter Product Database</a>
+    <nav>
+      <a href="/db/">Browse data</a>
+      <a href="https://github.com/jp2e-ha/matter-db">Source</a>
+    </nav>
+  </header>
+  <main>{% block content %}{% endblock %}</main>
+  <footer>
+    <p>
+      Data sourced from the
+      <a href="https://csa-iot.org/all-solutions/matter/">CSA Distributed Compliance Ledger</a>
+      via the public observer node at
+      <a href="https://on.dcl.csa-iot.org/">on.dcl.csa-iot.org</a>.
+      Synced automatically every day at 07:00 UTC.
+      Source &amp; update history:
+      <a href="https://github.com/jp2e-ha/matter-db">jp2e-ha/matter-db</a>.
+    </p>
+  </footer>
+</body>
+</html>

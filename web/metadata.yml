@@ -1,0 +1,89 @@
+title: Matter Product Database
+description_html: |
+  An auto-updating mirror of every Matter-certified smart-home device,
+  pulled daily from the
+  <a href="https://csa-iot.org/all-solutions/matter/">CSA Distributed Compliance Ledger</a>.
+  Source code, schema, and update history live at
+  <a href="https://github.com/jp2e-ha/matter-db">jp2e-ha/matter-db</a>.
+
+license: Public domain — derived from the open CSA Distributed Compliance Ledger
+license_url: https://github.com/zigbee-alliance/distributed-compliance-ledger
+source: CSA Distributed Compliance Ledger (public observer node)
+source_url: https://on.dcl.csa-iot.org
+
+databases:
+  matter:
+    description_html: |
+      Mirrored snapshot of every certified product on the Matter Distributed
+      Compliance Ledger. The two views (<code>matter_certified_products</code>
+      and <code>matter_vendor_watchlist</code>) are the recommended entry
+      points; the underlying tables are also exposed for raw inspection.
+
+    queries:
+      certified_products:
+        title: All Matter-certified products
+        description: Every product currently in the certified state, newest first.
+        sql: |-
+          SELECT
+              vendor_name,
+              product_name,
+              part_number,
+              software_version_string AS firmware,
+              certification_date,
+              certificate_id,
+              product_url
+          FROM matter_certified_products
+          ORDER BY certification_date DESC
+
+      vendor_watchlist:
+        title: Vendor watchlist (registered, no products yet)
+        description: |
+          Vendors that have a registered Vendor ID on the DCL but have not
+          yet shipped a certified product. A leading indicator of upcoming
+          Matter activity from a manufacturer.
+        sql: |-
+          SELECT
+              vendor_id,
+              vendor_name,
+              company_legal_name,
+              landing_url,
+              first_seen_at
+          FROM matter_vendor_watchlist
+
+      recently_added:
+        title: Recently added (last 30 days)
+        description: Products whose first certification was observed in the last 30 days.
+        sql: |-
+          SELECT
+              vendor_name,
+              product_name,
+              software_version_string AS firmware,
+              certification_date,
+              first_seen_at
+          FROM matter_certified_products
+          WHERE first_seen_at >= datetime('now', '-30 days')
+          ORDER BY first_seen_at DESC
+
+      search_products:
+        title: Search products
+        description: Substring match across vendor name, product name, and part number.
+        sql: |-
+          SELECT
+              vendor_name,
+              product_name,
+              part_number,
+              software_version_string AS firmware,
+              certification_date,
+              certificate_id
+          FROM matter_certified_products
+          WHERE vendor_name  LIKE '%' || :q || '%'
+             OR product_name LIKE '%' || :q || '%'
+             OR part_number  LIKE '%' || :q || '%'
+          ORDER BY certification_date DESC
+          LIMIT 200
+
+    tables:
+      cert_status_lookup:
+        hidden: true
+      sync_runs:
+        hidden: true

@@ -1,0 +1,17 @@
+<section class="card">
+  <h2>Top 10 manufacturers</h2>
+  {% if top_vendors %}
+  <ol class="rows">
+    {% for v in top_vendors %}
+    <li>
+      <a href="/db/matter/matter_certified_products?vendor_id__exact={{ v.vendor_id }}">
+        {{ v.vendor_name }}
+      </a>
+      <span class="meta">{{ "{:,}".format(v.n) }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+  {% else %}
+  <p>No certified products yet.</p>
+  {% endif %}
+</section>

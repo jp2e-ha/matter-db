@@ -1,0 +1,18 @@
+<section class="card">
+  <h2>New this week</h2>
+  {% if new_this_week %}
+  <ul class="rows">
+    {% for p in new_this_week %}
+    <li>
+      <a href="/db/matter/matter_certified_products?vendor_id__exact={{ p.vendor_id }}&amp;product_id__exact={{ p.product_id }}">
+        <span class="product-name">{{ p.product_name or ("vid " ~ p.vendor_id ~ " / pid " ~ p.product_id) }}</span>
+        <span class="vendor-name">{{ p.vendor_name or "_unknown vendor_" }}</span>
+      </a>
+      <span class="meta">v{{ p.software_version }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="empty">No new products in the last 7 days.</p>
+  {% endif %}
+</section>
