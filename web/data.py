@@ -78,10 +78,15 @@ def get_stats() -> dict[str, Any]:
         ).fetchone()
         last_sync = last_sync_row["started_at"] if last_sync_row else None
 
-        cutoff_iso = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
+        # "Certified in the last 7 days" — based on the CSA-issued
+        # certification date, not our sync first_seen_at, so the number is
+        # stable across DB rebuilds and means what visitors expect it to.
+        # DCL stores `date` as "YYYY-MM-DDTHH:MM:SS.sssZ"; we compare
+        # against a YYYY-MM-DD prefix and rely on lexicographic order.
+        cutoff_date = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
         n_added_7d = conn.execute(
-            "SELECT COUNT(*) FROM compliance_records WHERE first_seen_at >= ?",
-            (cutoff_iso,),
+            "SELECT COUNT(*) FROM compliance_records WHERE date >= ?",
+            (cutoff_date,),
         ).fetchone()[0]
 
         return {

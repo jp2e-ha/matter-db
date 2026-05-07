@@ -9,10 +9,10 @@
     <span class="num">{{ "{:,}".format(stats.vendors_with_products) }}</span>
     <span class="label">manufacturers</span>
   </a>
-  <a class="stat stat-link" href="/db/matter/added_last_7_days"
-     title="Browse the {{ stats.added_7d }} products that first appeared on the DCL in the last 7 days">
+  <a class="stat stat-link" href="/db/matter/certified_last_7_days"
+     title="Browse the {{ stats.added_7d }} products whose CSA-issued certification date is within the last 7 days">
     <span class="num">{{ "{:,}".format(stats.added_7d) }}</span>
-    <span class="label">added last 7 days</span>
+    <span class="label">certified last 7 days</span>
   </a>
   <a class="stat stat-link" href="/db/matter/vendor_watchlist"
      title="Browse the {{ stats.vendors_watchlist }} vendors registered on the DCL with no certified products yet">

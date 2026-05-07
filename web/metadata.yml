@@ -81,22 +81,22 @@ databases:
           GROUP BY vendor_id
           ORDER BY certified_products DESC, vendor_name ASC
 
-      added_last_7_days:
-        title: Added in the last 7 days
+      certified_last_7_days:
+        title: Certified in the last 7 days
         description: |
-          Products that first appeared on the DCL (or whose certification record
-          first appeared) in the last 7 days. Drives the "added last 7 days"
-          headline-stat card on the landing page.
+          Products whose CSA-issued certification date is within the last
+          7 days. Drives the "certified last 7 days" headline-stat card on
+          the landing page.
         sql: |-
           SELECT
               vendor_name,
               product_name,
               software_version_string AS firmware,
               certification_date,
-              first_seen_at
+              certificate_id
           FROM matter_certified_products
-          WHERE first_seen_at >= datetime('now', '-7 days')
-          ORDER BY first_seen_at DESC
+          WHERE certification_date >= date('now', '-7 days')
+          ORDER BY certification_date DESC
 
       search_products:
         title: Search products
