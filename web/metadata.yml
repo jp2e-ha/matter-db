@@ -64,6 +64,23 @@ databases:
           WHERE first_seen_at >= datetime('now', '-30 days')
           ORDER BY first_seen_at DESC
 
+      added_last_7_days:
+        title: Added in the last 7 days
+        description: |
+          Products that first appeared on the DCL (or whose certification record
+          first appeared) in the last 7 days. Drives the "added last 7 days"
+          headline-stat card on the landing page.
+        sql: |-
+          SELECT
+              vendor_name,
+              product_name,
+              software_version_string AS firmware,
+              certification_date,
+              first_seen_at
+          FROM matter_certified_products
+          WHERE first_seen_at >= datetime('now', '-7 days')
+          ORDER BY first_seen_at DESC
+
       search_products:
         title: Search products
         description: Substring match across vendor name, product name, and part number.
