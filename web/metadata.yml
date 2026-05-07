@@ -64,6 +64,23 @@ databases:
           WHERE first_seen_at >= datetime('now', '-30 days')
           ORDER BY first_seen_at DESC
 
+      manufacturers:
+        title: Manufacturers (by certified product count)
+        description: |
+          Every vendor with at least one certified Matter product, ordered
+          by how many certified products they've shipped. Drives the
+          "manufacturers" headline-stat card on the landing page.
+        sql: |-
+          SELECT
+              vendor_name,
+              vendor_id,
+              COUNT(*)         AS certified_products,
+              MIN(certification_date) AS first_certification,
+              MAX(certification_date) AS most_recent_certification
+          FROM matter_certified_products
+          GROUP BY vendor_id
+          ORDER BY certified_products DESC, vendor_name ASC
+
       added_last_7_days:
         title: Added in the last 7 days
         description: |

@@ -1,12 +1,14 @@
 <section class="stats" aria-label="Headline statistics">
-  <div class="stat">
+  <a class="stat stat-link" href="/db/matter/certified_products"
+     title="Browse all {{ stats.products }} Matter-certified products">
     <span class="num">{{ "{:,}".format(stats.products) }}</span>
     <span class="label">total products</span>
-  </div>
-  <div class="stat">
+  </a>
+  <a class="stat stat-link" href="/db/matter/manufacturers"
+     title="Browse all {{ stats.vendors_with_products }} manufacturers, ordered by certified product count">
     <span class="num">{{ "{:,}".format(stats.vendors_with_products) }}</span>
     <span class="label">manufacturers</span>
-  </div>
+  </a>
   <a class="stat stat-link" href="/db/matter/added_last_7_days"
      title="Browse the {{ stats.added_7d }} products that first appeared on the DCL in the last 7 days">
     <span class="num">{{ "{:,}".format(stats.added_7d) }}</span>
