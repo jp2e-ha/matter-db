@@ -211,6 +211,37 @@ header nav a:hover { color: var(--accent); }
   box-shadow: var(--shadow-md);
   border-color: var(--border-strong);
 }
+
+/* a stat that's also a link (e.g. watchlist drills into Datasette) */
+a.stat-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  position: relative;
+}
+a.stat-link:hover {
+  border-color: var(--accent);
+}
+a.stat-link:hover .num { color: var(--accent); }
+a.stat-link::after {
+  content: "↗";
+  position: absolute;
+  top: 0.55rem;
+  right: 0.7rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+  opacity: 0;
+  transition: opacity 150ms ease, color 150ms ease;
+}
+a.stat-link:hover::after {
+  opacity: 1;
+  color: var(--accent);
+}
+a.stat-link:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft), var(--shadow-sm);
+}
 .stat .num {
   display: block;
   font-size: 2.35rem;

@@ -11,8 +11,9 @@
     <span class="num">{{ "{:,}".format(stats.added_7d) }}</span>
     <span class="label">added last 7 days</span>
   </div>
-  <div class="stat">
+  <a class="stat stat-link" href="/db/matter/vendor_watchlist"
+     title="Browse the {{ stats.vendors_watchlist }} vendors registered on the DCL with no certified products yet">
     <span class="num">{{ "{:,}".format(stats.vendors_watchlist) }}</span>
     <span class="label">on the watchlist</span>
-  </div>
+  </a>
 </section>
