@@ -172,8 +172,10 @@ def test_landing_page_renders_headline_counts(client):
     r = client.get("/")
     assert r.status_code == 200
     body = r.text
+    # site title in the hero
+    assert "<h1>Matter Product Database</h1>" in body
     # 3 compliance records ⇒ 3 certified products in the matter view
-    assert "3 Matter-certified products" in body
+    assert "3 certified products" in body
     # 2 distinct vendors with products
     assert "from 2 manufacturers" in body
     # search box rendered

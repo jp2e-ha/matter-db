@@ -2,10 +2,12 @@
 
 {% block content %}
 <section class="hero">
-  <h1>
-    {{ "{:,}".format(stats.products) }} Matter-certified products
-    from {{ "{:,}".format(stats.vendors_with_products) }} manufacturers.
-  </h1>
+  <h1>Matter Product Database</h1>
+  <p class="lede">
+    {{ "{:,}".format(stats.products) }} certified products from
+    {{ "{:,}".format(stats.vendors_with_products) }} manufacturers, mirrored
+    daily from the CSA Distributed Compliance Ledger.
+  </p>
   <p class="last-sync">Last synced {{ stats.last_sync_relative }}.</p>
 
   <form action="/search" method="get" class="search" role="search">

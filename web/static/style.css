@@ -126,18 +126,24 @@ header nav a:hover { color: var(--accent); }
   border-bottom: 1px solid var(--border);
 }
 .hero h1 {
-  margin: 0 auto 0.6rem;
-  font-size: clamp(1.85rem, 3.5vw + 0.5rem, 2.6rem);
+  margin: 0 auto 0.85rem;
+  font-size: clamp(2rem, 4vw + 0.5rem, 2.85rem);
   font-weight: 700;
-  line-height: 1.15;
-  letter-spacing: -0.025em;
-  max-width: 28ch;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
   color: var(--fg);
+}
+.lede {
+  margin: 0 auto 0.65rem;
+  max-width: 52ch;
+  color: var(--fg-soft);
+  font-size: clamp(1rem, 0.5vw + 0.9rem, 1.15rem);
+  line-height: 1.5;
 }
 .last-sync {
   color: var(--muted);
   margin: 0 0 2rem;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 /* search */
