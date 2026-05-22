@@ -38,7 +38,10 @@ jobs:
           python-version: '3.11'
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v8
+        # setup-uv does not publish a floating v8 major tag (only exact
+        # v8.x.x releases), so pin the exact version. v8.1.0 ships a
+        # Node 24 entrypoint.
+        uses: astral-sh/setup-uv@v8.1.0
         with:
           enable-cache: true
 
