@@ -1,10 +1,93 @@
 {
-  "earlier_run_id": 2,
-  "earlier_started_at": "2026-05-23T09:01:48+00:00",
-  "later_run_id": 3,
-  "later_started_at": "2026-05-24T09:21:58+00:00",
-  "new_products": [],
-  "new_vendors": [],
+  "earlier_run_id": 3,
+  "earlier_started_at": "2026-05-24T09:21:58+00:00",
+  "later_run_id": 4,
+  "later_started_at": "2026-05-25T11:11:24+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 9516,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9517,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9518,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9519,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9520,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9521,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9522,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9523,
+      "product_name": "Philips Ceiling",
+      "software_version": 14,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    }
+  ],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-05-25T11:11:24+00:00",
+      "vendor_id": 5643,
+      "vendor_name": "PTXZN"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
