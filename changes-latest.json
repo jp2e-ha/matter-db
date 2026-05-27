@@ -1,80 +1,89 @@
 {
-  "earlier_run_id": 3,
-  "earlier_started_at": "2026-05-24T09:21:58+00:00",
-  "later_run_id": 4,
-  "later_started_at": "2026-05-25T11:11:24+00:00",
+  "earlier_run_id": 4,
+  "earlier_started_at": "2026-05-25T11:11:24+00:00",
+  "later_run_id": 5,
+  "later_started_at": "2026-05-27T10:56:13+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 9516,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
+      "product_id": 297,
+      "product_name": "Philips Hue Light",
+      "software_version": 16780032,
+      "timestamp": "2026-05-27T10:56:13+00:00",
       "vendor_id": 4107,
       "vendor_name": "Signify"
     },
     {
       "certification_type": "matter",
-      "product_id": 9517,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
+      "product_id": 298,
+      "product_name": "Philips Hue Light",
+      "software_version": 16777472,
+      "timestamp": "2026-05-27T10:56:13+00:00",
       "vendor_id": 4107,
       "vendor_name": "Signify"
     },
     {
       "certification_type": "matter",
-      "product_id": 9518,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 4097,
+      "product_name": "Smart Timer Light TL2",
+      "software_version": 1,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5127,
+      "vendor_name": "ThirdReality"
     },
     {
       "certification_type": "matter",
-      "product_id": 9519,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 773,
+      "product_name": "Smart Bulb A60",
+      "software_version": 202606040,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5423,
+      "vendor_name": "SDevices"
     },
     {
       "certification_type": "matter",
-      "product_id": 9520,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 774,
+      "product_name": "Smart Bulb A70",
+      "software_version": 202606040,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5423,
+      "vendor_name": "SDevices"
     },
     {
       "certification_type": "matter",
-      "product_id": 9521,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 775,
+      "product_name": "Smart Bulb C37",
+      "software_version": 202606040,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5423,
+      "vendor_name": "SDevices"
     },
     {
       "certification_type": "matter",
-      "product_id": 9522,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 776,
+      "product_name": "Smart Bulb GU10",
+      "software_version": 202606040,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5423,
+      "vendor_name": "SDevices"
     },
     {
       "certification_type": "matter",
-      "product_id": 9523,
-      "product_name": "Philips Ceiling",
-      "software_version": 14,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 777,
+      "product_name": "Smart Bulb GX53",
+      "software_version": 202606040,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5423,
+      "vendor_name": "SDevices"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3371,
+      "product_name": "Smart Dimmable Driver",
+      "software_version": 3,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5648,
+      "vendor_name": "Zhuhai Shengchang"
     }
   ],
   "new_vendors": [
@@ -83,9 +92,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-05-25T11:11:24+00:00",
-      "vendor_id": 5643,
-      "vendor_name": "PTXZN"
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 4970,
+      "vendor_name": "akubela"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-05-27T10:56:13+00:00",
+      "vendor_id": 5423,
+      "vendor_name": "SDevices"
     }
   ],
   "stale_vendors": [],
