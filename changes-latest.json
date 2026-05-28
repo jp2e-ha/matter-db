@@ -1,111 +1,92 @@
 {
-  "earlier_run_id": 4,
-  "earlier_started_at": "2026-05-25T11:11:24+00:00",
-  "later_run_id": 5,
-  "later_started_at": "2026-05-27T10:56:13+00:00",
+  "earlier_run_id": 5,
+  "earlier_started_at": "2026-05-27T10:56:13+00:00",
+  "later_run_id": 6,
+  "later_started_at": "2026-05-28T10:57:10+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 297,
-      "product_name": "Philips Hue Light",
-      "software_version": 16780032,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 298,
-      "product_name": "Philips Hue Light",
-      "software_version": 16777472,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4097,
-      "product_name": "Smart Timer Light TL2",
+      "product_id": 32918,
+      "product_name": "RGBCCT Light Controller",
       "software_version": 1,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5127,
-      "vendor_name": "ThirdReality"
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     },
     {
       "certification_type": "matter",
-      "product_id": 773,
-      "product_name": "Smart Bulb A60",
-      "software_version": 202606040,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5423,
-      "vendor_name": "SDevices"
+      "product_id": 32929,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     },
     {
       "certification_type": "matter",
-      "product_id": 774,
-      "product_name": "Smart Bulb A70",
-      "software_version": 202606040,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5423,
-      "vendor_name": "SDevices"
+      "product_id": 32930,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     },
     {
       "certification_type": "matter",
-      "product_id": 775,
-      "product_name": "Smart Bulb C37",
-      "software_version": 202606040,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5423,
-      "vendor_name": "SDevices"
+      "product_id": 32944,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     },
     {
       "certification_type": "matter",
-      "product_id": 776,
-      "product_name": "Smart Bulb GU10",
-      "software_version": 202606040,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5423,
-      "vendor_name": "SDevices"
+      "product_id": 32962,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     },
     {
       "certification_type": "matter",
-      "product_id": 777,
-      "product_name": "Smart Bulb GX53",
-      "software_version": 202606040,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5423,
-      "vendor_name": "SDevices"
+      "product_id": 33174,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     },
     {
       "certification_type": "matter",
-      "product_id": 3371,
-      "product_name": "Smart Dimmable Driver",
-      "software_version": 3,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5648,
-      "vendor_name": "Zhuhai Shengchang"
+      "product_id": 33216,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33537,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33538,
+      "product_name": "RGBCCT Light Controller",
+      "software_version": 1,
+      "timestamp": "2026-05-28T10:57:10+00:00",
+      "vendor_id": 4751,
+      "vendor_name": "EGLO"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 4970,
-      "vendor_name": "akubela"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-05-27T10:56:13+00:00",
-      "vendor_id": 5423,
-      "vendor_name": "SDevices"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
