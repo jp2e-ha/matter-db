@@ -1,92 +1,30 @@
 {
-  "earlier_run_id": 5,
-  "earlier_started_at": "2026-05-27T10:56:13+00:00",
-  "later_run_id": 6,
-  "later_started_at": "2026-05-28T10:57:10+00:00",
+  "earlier_run_id": 6,
+  "earlier_started_at": "2026-05-28T10:57:10+00:00",
+  "later_run_id": 7,
+  "later_started_at": "2026-05-29T10:47:27+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 32918,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32929,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32930,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32944,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32962,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 33174,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 33216,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 33537,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 33538,
-      "product_name": "RGBCCT Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-05-28T10:57:10+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
+      "product_id": 4472,
+      "product_name": "WiFi Smart Switch",
+      "software_version": 3,
+      "timestamp": "2026-05-29T10:47:27+00:00",
+      "vendor_id": 5696,
+      "vendor_name": "Dianling"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-05-29T10:47:27+00:00",
+      "vendor_id": 5696,
+      "vendor_name": "Dianling"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
