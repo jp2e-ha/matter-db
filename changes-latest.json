@@ -1,30 +1,10 @@
 {
-  "earlier_run_id": 6,
-  "earlier_started_at": "2026-05-28T10:57:10+00:00",
-  "later_run_id": 7,
-  "later_started_at": "2026-05-29T10:47:27+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 4472,
-      "product_name": "WiFi Smart Switch",
-      "software_version": 3,
-      "timestamp": "2026-05-29T10:47:27+00:00",
-      "vendor_id": 5696,
-      "vendor_name": "Dianling"
-    }
-  ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-05-29T10:47:27+00:00",
-      "vendor_id": 5696,
-      "vendor_name": "Dianling"
-    }
-  ],
+  "earlier_run_id": 7,
+  "earlier_started_at": "2026-05-29T10:47:27+00:00",
+  "later_run_id": 8,
+  "later_started_at": "2026-05-30T09:18:10+00:00",
+  "new_products": [],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
