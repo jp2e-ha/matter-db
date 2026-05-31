@@ -1,8 +1,8 @@
 {
-  "earlier_run_id": 7,
-  "earlier_started_at": "2026-05-29T10:47:27+00:00",
-  "later_run_id": 8,
-  "later_started_at": "2026-05-30T09:18:10+00:00",
+  "earlier_run_id": 8,
+  "earlier_started_at": "2026-05-30T09:18:10+00:00",
+  "later_run_id": 9,
+  "later_started_at": "2026-05-31T09:47:19+00:00",
   "new_products": [],
   "new_vendors": [],
   "stale_vendors": [],
