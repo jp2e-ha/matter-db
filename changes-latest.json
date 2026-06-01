@@ -1,9 +1,19 @@
 {
-  "earlier_run_id": 8,
-  "earlier_started_at": "2026-05-30T09:18:10+00:00",
-  "later_run_id": 9,
-  "later_started_at": "2026-05-31T09:47:19+00:00",
-  "new_products": [],
+  "earlier_run_id": 9,
+  "earlier_started_at": "2026-05-31T09:47:19+00:00",
+  "later_run_id": 10,
+  "later_started_at": "2026-06-01T12:37:38+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "Smart Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-01T12:37:38+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
