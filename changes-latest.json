@@ -1,20 +1,39 @@
 {
-  "earlier_run_id": 9,
-  "earlier_started_at": "2026-05-31T09:47:19+00:00",
-  "later_run_id": 10,
-  "later_started_at": "2026-06-01T12:37:38+00:00",
+  "earlier_run_id": 10,
+  "earlier_started_at": "2026-06-01T12:37:38+00:00",
+  "later_run_id": 11,
+  "later_started_at": "2026-06-02T11:18:36+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "Smart Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-01T12:37:38+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "product_id": 300,
+      "product_name": "LIFX Everyday Permanent Outdoor",
+      "software_version": 262267,
+      "timestamp": "2026-06-02T11:18:36+00:00",
+      "vendor_id": 5155,
+      "vendor_name": "Feit Electric"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 301,
+      "product_name": "LIFX Everyday Permanent Outdoor",
+      "software_version": 262267,
+      "timestamp": "2026-06-02T11:18:36+00:00",
+      "vendor_id": 5155,
+      "vendor_name": "Feit Electric"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-06-02T11:18:36+00:00",
+      "vendor_id": 5684,
+      "vendor_name": "LIVOLO"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
