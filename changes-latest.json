@@ -1,39 +1,47 @@
 {
-  "earlier_run_id": 10,
-  "earlier_started_at": "2026-06-01T12:37:38+00:00",
-  "later_run_id": 11,
-  "later_started_at": "2026-06-02T11:18:36+00:00",
+  "earlier_run_id": 11,
+  "earlier_started_at": "2026-06-02T11:18:36+00:00",
+  "later_run_id": 12,
+  "later_started_at": "2026-06-03T11:57:00+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 300,
-      "product_name": "LIFX Everyday Permanent Outdoor",
-      "software_version": 262267,
-      "timestamp": "2026-06-02T11:18:36+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 10244,
+      "product_name": "Aqara Smart Lock U400",
+      "software_version": 3110,
+      "timestamp": "2026-06-03T11:57:00+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
     },
     {
       "certification_type": "matter",
-      "product_id": 301,
+      "product_id": 1026,
+      "product_name": "Zemismart Hub",
+      "software_version": 0,
+      "timestamp": "2026-06-03T11:57:00+00:00",
+      "vendor_id": 5020,
+      "vendor_name": "Zemismart Technology Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1040,
+      "product_name": "Zemismart Smart Lighting",
+      "software_version": 17039360,
+      "timestamp": "2026-06-03T11:57:00+00:00",
+      "vendor_id": 5020,
+      "vendor_name": "Zemismart Technology Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 302,
       "product_name": "LIFX Everyday Permanent Outdoor",
       "software_version": 262267,
-      "timestamp": "2026-06-02T11:18:36+00:00",
+      "timestamp": "2026-06-03T11:57:00+00:00",
       "vendor_id": 5155,
       "vendor_name": "Feit Electric"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-06-02T11:18:36+00:00",
-      "vendor_id": 5684,
-      "vendor_name": "LIVOLO"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
