@@ -1,42 +1,34 @@
 # matter-db sync diff
 
-Comparing **run 12** (`2026-06-03T11:57:00+00:00`) to **run 13** (`2026-06-04T10:39:14+00:00`).
+Comparing **run 13** (`2026-06-04T10:39:14+00:00`) to **run 14** (`2026-06-05T10:47:15+00:00`).
 
-**Summary:** +14 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +4 products, ~0 updated, +1 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 14 |
+| new products | 4 |
 | updated products | 0 |
-| new vendors | 0 |
+| new vendors | 1 |
 | stale vendors | 0 |
 
-## New products (14)
+## New products (4)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| LG Electronics | LG Smart Wall Switch (1 Button) | 4864 | matter | 2026-06-04T10:39:14+00:00 |
-| LG Electronics | LG Smart Wall Switch (2 Button) | 4864 | matter | 2026-06-04T10:39:14+00:00 |
-| LG Electronics | LG Smart Wall Switch (3 Button) | 4864 | matter | 2026-06-04T10:39:14+00:00 |
-| Schneider Electric | Energy Data Processor Wired | 6553855 | matter | 2026-06-04T10:39:14+00:00 |
-| IKEA of Sweden | ALPSTUGA air quality monitor | 16777242 | matter | 2026-06-04T10:39:14+00:00 |
-| SwitchBot | SwitchBot Circulator Fan | 10 | matter | 2026-06-04T10:39:14+00:00 |
-| tink GmbH | tink Basics Door and Window Sensor | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| Homewell Technology Co., Ltd.  | W4YCR-2300 | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| Homewell Technology Co., Ltd.  | W4CMR-1800 | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| Homewell Technology Co., Ltd.  | W4GDR-2300 | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| Homewell Technology Co., Ltd.  | W4FYCR-2300 | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| Homewell Technology Co., Ltd.  | W4WSR-3500 | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| Homewell Technology Co., Ltd.  | W4WBR-250 | 2 | matter | 2026-06-04T10:39:14+00:00 |
-| LIVOLO | LIVOLO GATEWAY | 2 | matter | 2026-06-04T10:39:14+00:00 |
+| SONOFF | MINI PM | 1 | matter | 2026-06-05T10:47:15+00:00 |
+| GE Lighting, a Savant company | Cync Smart Shop Light | 103190 | matter | 2026-06-05T10:47:15+00:00 |
+| DREO | Air Poly Fan | 100 | matter | 2026-06-05T10:47:15+00:00 |
+| Anchen | MIDGARD LICHT | 3 | matter | 2026-06-05T10:47:15+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (0)
+## New vendors (1)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5741 | Anchen | 2026-06-05T10:47:15+00:00 |
 
 ## Stale vendors (0)
 

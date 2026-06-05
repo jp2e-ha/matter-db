@@ -1,137 +1,57 @@
 {
-  "earlier_run_id": 12,
-  "earlier_started_at": "2026-06-03T11:57:00+00:00",
-  "later_run_id": 13,
-  "later_started_at": "2026-06-04T10:39:14+00:00",
+  "earlier_run_id": 13,
+  "earlier_started_at": "2026-06-04T10:39:14+00:00",
+  "later_run_id": 14,
+  "later_started_at": "2026-06-05T10:47:15+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 8704,
-      "product_name": "LG Smart Wall Switch (1 Button)",
-      "software_version": 4864,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 4142,
-      "vendor_name": "LG Electronics"
+      "product_id": 327,
+      "product_name": "MINI PM",
+      "software_version": 1,
+      "timestamp": "2026-06-05T10:47:15+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     },
     {
       "certification_type": "matter",
-      "product_id": 8705,
-      "product_name": "LG Smart Wall Switch (2 Button)",
-      "software_version": 4864,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 4142,
-      "vendor_name": "LG Electronics"
+      "product_id": 86,
+      "product_name": "Cync Smart Shop Light",
+      "software_version": 103190,
+      "timestamp": "2026-06-05T10:47:15+00:00",
+      "vendor_id": 4921,
+      "vendor_name": "GE Lighting, a Savant company"
     },
     {
       "certification_type": "matter",
-      "product_id": 8706,
-      "product_name": "LG Smart Wall Switch (3 Button)",
-      "software_version": 4864,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 4142,
-      "vendor_name": "LG Electronics"
+      "product_id": 4096,
+      "product_name": "Air Poly Fan",
+      "software_version": 100,
+      "timestamp": "2026-06-05T10:47:15+00:00",
+      "vendor_id": 5672,
+      "vendor_name": "DREO"
     },
     {
       "certification_type": "matter",
-      "product_id": 18866,
-      "product_name": "Energy Data Processor Wired",
-      "software_version": 6553855,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 4190,
-      "vendor_name": "Schneider Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 12289,
-      "product_name": "ALPSTUGA air quality monitor",
-      "software_version": 16777242,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2050,
-      "product_name": "SwitchBot Circulator Fan",
-      "software_version": 10,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5015,
-      "vendor_name": "SwitchBot"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2359,
-      "product_name": "tink Basics Door and Window Sensor",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5465,
-      "vendor_name": "tink GmbH"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2712,
-      "product_name": "W4YCR-2300",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5575,
-      "vendor_name": "Homewell Technology Co., Ltd. "
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2713,
-      "product_name": "W4CMR-1800",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5575,
-      "vendor_name": "Homewell Technology Co., Ltd. "
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2714,
-      "product_name": "W4GDR-2300",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5575,
-      "vendor_name": "Homewell Technology Co., Ltd. "
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2715,
-      "product_name": "W4FYCR-2300",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5575,
-      "vendor_name": "Homewell Technology Co., Ltd. "
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2716,
-      "product_name": "W4WSR-3500",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5575,
-      "vendor_name": "Homewell Technology Co., Ltd. "
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2717,
-      "product_name": "W4WBR-250",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5575,
-      "vendor_name": "Homewell Technology Co., Ltd. "
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "LIVOLO GATEWAY",
-      "software_version": 2,
-      "timestamp": "2026-06-04T10:39:14+00:00",
-      "vendor_id": 5684,
-      "vendor_name": "LIVOLO"
+      "product_id": 4204,
+      "product_name": "MIDGARD LICHT",
+      "software_version": 3,
+      "timestamp": "2026-06-05T10:47:15+00:00",
+      "vendor_id": 5741,
+      "vendor_name": "Anchen"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-06-05T10:47:15+00:00",
+      "vendor_id": 5741,
+      "vendor_name": "Anchen"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
