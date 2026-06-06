@@ -1,44 +1,17 @@
 {
-  "earlier_run_id": 13,
-  "earlier_started_at": "2026-06-04T10:39:14+00:00",
-  "later_run_id": 14,
-  "later_started_at": "2026-06-05T10:47:15+00:00",
+  "earlier_run_id": 14,
+  "earlier_started_at": "2026-06-05T10:47:15+00:00",
+  "later_run_id": 15,
+  "later_started_at": "2026-06-06T09:26:52+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 327,
-      "product_name": "MINI PM",
-      "software_version": 1,
-      "timestamp": "2026-06-05T10:47:15+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 86,
-      "product_name": "Cync Smart Shop Light",
-      "software_version": 103190,
-      "timestamp": "2026-06-05T10:47:15+00:00",
-      "vendor_id": 4921,
-      "vendor_name": "GE Lighting, a Savant company"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4096,
-      "product_name": "Air Poly Fan",
-      "software_version": 100,
-      "timestamp": "2026-06-05T10:47:15+00:00",
-      "vendor_id": 5672,
-      "vendor_name": "DREO"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4204,
-      "product_name": "MIDGARD LICHT",
-      "software_version": 3,
-      "timestamp": "2026-06-05T10:47:15+00:00",
-      "vendor_id": 5741,
-      "vendor_name": "Anchen"
+      "product_id": 6182,
+      "product_name": "Shelly Flood S Gen4",
+      "software_version": 16973889,
+      "timestamp": "2026-06-06T09:26:52+00:00",
+      "vendor_id": 5264,
+      "vendor_name": "Shelly"
     }
   ],
   "new_vendors": [
@@ -47,9 +20,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-06-05T10:47:15+00:00",
-      "vendor_id": 5741,
-      "vendor_name": "Anchen"
+      "timestamp": "2026-06-06T09:26:52+00:00",
+      "vendor_id": 5702,
+      "vendor_name": "Seasonal Specialties"
     }
   ],
   "stale_vendors": [],
