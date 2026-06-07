@@ -1,30 +1,83 @@
 {
-  "earlier_run_id": 14,
-  "earlier_started_at": "2026-06-05T10:47:15+00:00",
-  "later_run_id": 15,
-  "later_started_at": "2026-06-06T09:26:52+00:00",
+  "earlier_run_id": 15,
+  "earlier_started_at": "2026-06-06T09:26:52+00:00",
+  "later_run_id": 16,
+  "later_started_at": "2026-06-07T10:05:32+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 6182,
-      "product_name": "Shelly Flood S Gen4",
-      "software_version": 16973889,
-      "timestamp": "2026-06-06T09:26:52+00:00",
-      "vendor_id": 5264,
-      "vendor_name": "Shelly"
-    }
-  ],
-  "new_vendors": [
+      "product_id": 2052,
+      "product_name": "SwitchBot Robot Vacuum K11+ Pro",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5015,
+      "vendor_name": "SwitchBot"
+    },
     {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-06-06T09:26:52+00:00",
-      "vendor_id": 5702,
-      "vendor_name": "Seasonal Specialties"
+      "certification_type": "matter",
+      "product_id": 1536,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1537,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1538,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1539,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1540,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1541,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1542,
+      "product_name": "On/Off Plug-in Unit",
+      "software_version": 2,
+      "timestamp": "2026-06-07T10:05:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
     }
   ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
