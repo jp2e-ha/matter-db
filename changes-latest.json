@@ -1,83 +1,48 @@
 {
-  "earlier_run_id": 15,
-  "earlier_started_at": "2026-06-06T09:26:52+00:00",
-  "later_run_id": 16,
-  "later_started_at": "2026-06-07T10:05:32+00:00",
+  "earlier_run_id": 16,
+  "earlier_started_at": "2026-06-07T10:05:32+00:00",
+  "later_run_id": 17,
+  "later_started_at": "2026-06-08T11:58:25+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 2052,
-      "product_name": "SwitchBot Robot Vacuum K11+ Pro",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5015,
-      "vendor_name": "SwitchBot"
+      "product_id": 4162,
+      "product_name": "Hombli Smart Power Strip",
+      "software_version": 3,
+      "timestamp": "2026-06-08T11:58:25+00:00",
+      "vendor_id": 5675,
+      "vendor_name": null
     },
     {
       "certification_type": "matter",
-      "product_id": 1536,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
+      "product_id": 4181,
+      "product_name": "Hombli Smart Socket",
+      "software_version": 3,
+      "timestamp": "2026-06-08T11:58:25+00:00",
+      "vendor_id": 5675,
+      "vendor_name": null
     },
     {
       "certification_type": "matter",
-      "product_id": 1537,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1538,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1539,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1540,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1541,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1542,
-      "product_name": "On/Off Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-06-07T10:05:32+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
+      "product_id": 1,
+      "product_name": "50C Smat Curtain Motor",
+      "software_version": 17039872,
+      "timestamp": "2026-06-08T11:58:25+00:00",
+      "vendor_id": 5753,
+      "vendor_name": "Yozewit Intelligent"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-06-08T11:58:25+00:00",
+      "vendor_id": 5753,
+      "vendor_name": "Yozewit Intelligent"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
