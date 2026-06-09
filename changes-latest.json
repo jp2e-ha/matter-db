@@ -1,35 +1,53 @@
 {
-  "earlier_run_id": 16,
-  "earlier_started_at": "2026-06-07T10:05:32+00:00",
-  "later_run_id": 17,
-  "later_started_at": "2026-06-08T11:58:25+00:00",
+  "earlier_run_id": 17,
+  "earlier_started_at": "2026-06-08T11:58:25+00:00",
+  "later_run_id": 18,
+  "later_started_at": "2026-06-09T10:34:45+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4162,
-      "product_name": "Hombli Smart Power Strip",
-      "software_version": 3,
-      "timestamp": "2026-06-08T11:58:25+00:00",
-      "vendor_id": 5675,
-      "vendor_name": null
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4181,
-      "product_name": "Hombli Smart Socket",
-      "software_version": 3,
-      "timestamp": "2026-06-08T11:58:25+00:00",
-      "vendor_id": 5675,
-      "vendor_name": null
+      "product_id": 65416,
+      "product_name": "Zemismart Smart Switch",
+      "software_version": 1,
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5020,
+      "vendor_name": "Zemismart Technology Limited"
     },
     {
       "certification_type": "matter",
       "product_id": 1,
-      "product_name": "50C Smat Curtain Motor",
-      "software_version": 17039872,
-      "timestamp": "2026-06-08T11:58:25+00:00",
-      "vendor_id": 5753,
-      "vendor_name": "Yozewit Intelligent"
+      "product_name": "Smart Motor-Single",
+      "software_version": 17105152,
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5403,
+      "vendor_name": "Sunfree  Motor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "Smart Motor-Dual",
+      "software_version": 17105152,
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5403,
+      "vendor_name": "Sunfree  Motor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2718,
+      "product_name": "W4WBR-200",
+      "software_version": 2,
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5575,
+      "vendor_name": "Homewell Technology Co., Ltd. "
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 28675,
+      "product_name": " 3T-MOTORS Matter Bridge",
+      "software_version": 1,
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5745,
+      "vendor_name": "3T-Components"
     }
   ],
   "new_vendors": [
@@ -38,9 +56,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-06-08T11:58:25+00:00",
-      "vendor_id": 5753,
-      "vendor_name": "Yozewit Intelligent"
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5675,
+      "vendor_name": "Hombli"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-06-09T10:34:45+00:00",
+      "vendor_id": 5745,
+      "vendor_name": "3T-Components"
     }
   ],
   "stale_vendors": [],
