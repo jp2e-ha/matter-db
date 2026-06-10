@@ -1,36 +1,48 @@
 # matter-db sync diff
 
-Comparing **run 17** (`2026-06-08T11:58:25+00:00`) to **run 18** (`2026-06-09T10:34:45+00:00`).
+Comparing **run 18** (`2026-06-09T10:34:45+00:00`) to **run 19** (`2026-06-10T10:56:20+00:00`).
 
-**Summary:** +5 products, ~0 updated, +2 vendors, ~0 stale
+**Summary:** +20 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 5 |
+| new products | 20 |
 | updated products | 0 |
-| new vendors | 2 |
+| new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (5)
+## New products (20)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Zemismart Technology Limited | Zemismart Smart Switch | 1 | matter | 2026-06-09T10:34:45+00:00 |
-| Sunfree  Motor | Smart Motor-Single | 17105152 | matter | 2026-06-09T10:34:45+00:00 |
-| Sunfree  Motor | Smart Motor-Dual | 17105152 | matter | 2026-06-09T10:34:45+00:00 |
-| Homewell Technology Co., Ltd.  | W4WBR-200 | 2 | matter | 2026-06-09T10:34:45+00:00 |
-| 3T-Components |  3T-MOTORS Matter Bridge | 1 | matter | 2026-06-09T10:34:45+00:00 |
+| SEI | SEI Door and Window Sensor | 4101 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | SEI Water Leak Sensor | 4101 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | SEI Presence and Light Sensor | 1125 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 1080P Wired Camera(Ref1)  | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 1080P Wired Camera(Ref1)  | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Wired Camera(Ref2) | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Wired Camera(Ref2) | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Floodlight(Ref2)  | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Floodlight(Ref2)  | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Doorbell | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Doorbell | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Doorbell | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Doorbell | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Indoor&Outdoor Camera | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Indoor&Outdoor Camera | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Indoor&Outdoor Camera | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | 2K Battery Indoor&Outdoor Camera | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SEI | Smart Speaker | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| AiDot | Linkind Light Stick T19 | 1 | matter | 2026-06-10T10:56:20+00:00 |
+| SwitchBot | SwitchBot AI Hub Show | 1 | matter | 2026-06-10T10:56:20+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (2)
+## New vendors (0)
 
-| vendor_id | vendor | timestamp |
-|---:|---|---|
-| 5675 | Hombli | 2026-06-09T10:34:45+00:00 |
-| 5745 | 3T-Components | 2026-06-09T10:34:45+00:00 |
+_None._
 
 ## Stale vendors (0)
 
