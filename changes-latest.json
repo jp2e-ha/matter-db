@@ -1,188 +1,62 @@
 {
-  "earlier_run_id": 18,
-  "earlier_started_at": "2026-06-09T10:34:45+00:00",
-  "later_run_id": 19,
-  "later_started_at": "2026-06-10T10:56:20+00:00",
+  "earlier_run_id": 19,
+  "earlier_started_at": "2026-06-10T10:56:20+00:00",
+  "later_run_id": 20,
+  "later_started_at": "2026-06-11T11:22:51+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "SEI Door and Window Sensor",
-      "software_version": 4101,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "SEI Water Leak Sensor",
-      "software_version": 4101,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 3,
-      "product_name": "SEI Presence and Light Sensor",
-      "software_version": 1125,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 20482,
-      "product_name": "1080P Wired Camera(Ref1) ",
+      "product_id": 268,
+      "product_name": "MINI ONE PM",
       "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
+      "timestamp": "2026-06-11T11:22:51+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     },
     {
       "certification_type": "matter",
-      "product_id": 20483,
-      "product_name": "1080P Wired Camera(Ref1) ",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
+      "product_id": 111,
+      "product_name": "Cync Outdoor Plug",
+      "software_version": 103100,
+      "timestamp": "2026-06-11T11:22:51+00:00",
+      "vendor_id": 4921,
+      "vendor_name": "GE Lighting, a Savant company"
     },
     {
       "certification_type": "matter",
-      "product_id": 20498,
-      "product_name": "2K Wired Camera(Ref2)",
+      "product_id": 4257,
+      "product_name": "Linkind Smart Filament Bulb",
       "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 20499,
-      "product_name": "2K Wired Camera(Ref2)",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 20753,
-      "product_name": "2K Floodlight(Ref2) ",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 20754,
-      "product_name": "2K Floodlight(Ref2) ",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21009,
-      "product_name": "2K Battery Doorbell",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21010,
-      "product_name": "2K Battery Doorbell",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21011,
-      "product_name": "2K Battery Doorbell",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21012,
-      "product_name": "2K Battery Doorbell",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21505,
-      "product_name": "2K Battery Indoor&Outdoor Camera",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21507,
-      "product_name": "2K Battery Indoor&Outdoor Camera",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21508,
-      "product_name": "2K Battery Indoor&Outdoor Camera",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 21509,
-      "product_name": "2K Battery Indoor&Outdoor Camera",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 24577,
-      "product_name": "Smart Speaker",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4576,
-      "product_name": "Linkind Light Stick T19",
-      "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
+      "timestamp": "2026-06-11T11:22:51+00:00",
       "vendor_id": 5014,
       "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 2053,
-      "product_name": "SwitchBot AI Hub Show",
+      "product_id": 4269,
+      "product_name": "OREiN Smart Filament Bulb",
       "software_version": 1,
-      "timestamp": "2026-06-10T10:56:20+00:00",
-      "vendor_id": 5015,
-      "vendor_name": "SwitchBot"
+      "timestamp": "2026-06-11T11:22:51+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4808,
+      "product_name": "Smart Plug",
+      "software_version": 3,
+      "timestamp": "2026-06-11T11:22:51+00:00",
+      "vendor_id": 5168,
+      "vendor_name": "L-TRADE"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4100,
+      "product_name": "Smart Gateway",
+      "software_version": 250,
+      "timestamp": "2026-06-11T11:22:51+00:00",
+      "vendor_id": 5399,
+      "vendor_name": "Huacheng Network"
     }
   ],
   "new_vendors": [],
