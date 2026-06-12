@@ -1,26 +1,24 @@
 # matter-db sync diff
 
-Comparing **run 19** (`2026-06-10T10:56:20+00:00`) to **run 20** (`2026-06-11T11:22:51+00:00`).
+Comparing **run 20** (`2026-06-11T11:22:51+00:00`) to **run 21** (`2026-06-12T11:01:57+00:00`).
 
-**Summary:** +6 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +4 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 6 |
+| new products | 4 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (6)
+## New products (4)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| SONOFF | MINI ONE PM | 1 | matter | 2026-06-11T11:22:51+00:00 |
-| GE Lighting, a Savant company | Cync Outdoor Plug | 103100 | matter | 2026-06-11T11:22:51+00:00 |
-| AiDot | Linkind Smart Filament Bulb | 1 | matter | 2026-06-11T11:22:51+00:00 |
-| AiDot | OREiN Smart Filament Bulb | 1 | matter | 2026-06-11T11:22:51+00:00 |
-| L-TRADE | Smart Plug | 3 | matter | 2026-06-11T11:22:51+00:00 |
-| Huacheng Network | Smart Gateway | 250 | matter | 2026-06-11T11:22:51+00:00 |
+| Mayer & Co Beschläge GmbH | Sense by MACO | Window Pro T&T | 16842752 | matter | 2026-06-12T11:01:57+00:00 |
+| Mayer & Co Beschläge GmbH | Sense by MACO | Window T&T | 16842752 | matter | 2026-06-12T11:01:57+00:00 |
+| Mayer & Co Beschläge GmbH | Sense by MACO | Door | 16842752 | matter | 2026-06-12T11:01:57+00:00 |
+| Mayer & Co Beschläge GmbH | Sense by MACO | Universal | 16842752 | matter | 2026-06-12T11:01:57+00:00 |
 
 ## Updated products (0)
 
