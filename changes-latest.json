@@ -1,9 +1,28 @@
 {
-  "earlier_run_id": 24,
-  "earlier_started_at": "2026-06-15T13:14:54+00:00",
-  "later_run_id": 25,
-  "later_started_at": "2026-06-16T12:12:03+00:00",
-  "new_products": [],
+  "earlier_run_id": 25,
+  "earlier_started_at": "2026-06-16T12:12:03+00:00",
+  "later_run_id": 26,
+  "later_started_at": "2026-06-17T11:48:41+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 3740,
+      "product_name": "Smart Dimmable Driver",
+      "software_version": 3,
+      "timestamp": "2026-06-17T11:48:41+00:00",
+      "vendor_id": 5648,
+      "vendor_name": "Zhuhai Shengchang"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3744,
+      "product_name": "Smart Dimmable Driver",
+      "software_version": 3,
+      "timestamp": "2026-06-17T11:48:41+00:00",
+      "vendor_id": 5648,
+      "vendor_name": "Zhuhai Shengchang"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
