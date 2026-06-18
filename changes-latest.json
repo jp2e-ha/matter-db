@@ -1,26 +1,35 @@
 {
-  "earlier_run_id": 25,
-  "earlier_started_at": "2026-06-16T12:12:03+00:00",
-  "later_run_id": 26,
-  "later_started_at": "2026-06-17T11:48:41+00:00",
+  "earlier_run_id": 26,
+  "earlier_started_at": "2026-06-17T11:48:41+00:00",
+  "later_run_id": 27,
+  "later_started_at": "2026-06-18T11:09:31+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 3740,
-      "product_name": "Smart Dimmable Driver",
-      "software_version": 3,
-      "timestamp": "2026-06-17T11:48:41+00:00",
-      "vendor_id": 5648,
-      "vendor_name": "Zhuhai Shengchang"
+      "product_id": 57348,
+      "product_name": "MTS155",
+      "software_version": 16843008,
+      "timestamp": "2026-06-18T11:09:31+00:00",
+      "vendor_id": 4933,
+      "vendor_name": "Meross"
     },
     {
       "certification_type": "matter",
-      "product_id": 3744,
-      "product_name": "Smart Dimmable Driver",
-      "software_version": 3,
-      "timestamp": "2026-06-17T11:48:41+00:00",
-      "vendor_id": 5648,
-      "vendor_name": "Zhuhai Shengchang"
+      "product_id": 16,
+      "product_name": "Inovelli On/Off Switch",
+      "software_version": 1050,
+      "timestamp": "2026-06-18T11:09:31+00:00",
+      "vendor_id": 4961,
+      "vendor_name": "Inovelli"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 23,
+      "product_name": "BKEM45-40",
+      "software_version": 1,
+      "timestamp": "2026-06-18T11:09:31+00:00",
+      "vendor_id": 5439,
+      "vendor_name": "Brel"
     }
   ],
   "new_vendors": [],

@@ -1,22 +1,23 @@
 # matter-db sync diff
 
-Comparing **run 25** (`2026-06-16T12:12:03+00:00`) to **run 26** (`2026-06-17T11:48:41+00:00`).
+Comparing **run 26** (`2026-06-17T11:48:41+00:00`) to **run 27** (`2026-06-18T11:09:31+00:00`).
 
-**Summary:** +2 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +3 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 2 |
+| new products | 3 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (2)
+## New products (3)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Zhuhai Shengchang | Smart Dimmable Driver | 3 | matter | 2026-06-17T11:48:41+00:00 |
-| Zhuhai Shengchang | Smart Dimmable Driver | 3 | matter | 2026-06-17T11:48:41+00:00 |
+| Meross | MTS155 | 16843008 | matter | 2026-06-18T11:09:31+00:00 |
+| Inovelli | Inovelli On/Off Switch | 1050 | matter | 2026-06-18T11:09:31+00:00 |
+| Brel | BKEM45-40 | 1 | matter | 2026-06-18T11:09:31+00:00 |
 
 ## Updated products (0)
 
