@@ -1,73 +1,9 @@
 {
-  "earlier_run_id": 27,
-  "earlier_started_at": "2026-06-18T11:09:31+00:00",
-  "later_run_id": 28,
-  "later_started_at": "2026-06-19T11:23:53+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 3,
-      "product_name": "Xeenos Go Aktor Switch 2K UP",
-      "software_version": 100024,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4923,
-      "vendor_name": "WAREMA Renkhoff SE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4,
-      "product_name": "Xeenos Go Aktor Jalousie Plug",
-      "software_version": 101029,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4923,
-      "vendor_name": "WAREMA Renkhoff SE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5,
-      "product_name": "Xeenos Go Aktor Rollladen Plug",
-      "software_version": 101029,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4923,
-      "vendor_name": "WAREMA Renkhoff SE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1009,
-      "product_name": "ELTAKO-ESR64NP-IPM",
-      "software_version": 132352,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4932,
-      "vendor_name": "Eltako"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1010,
-      "product_name": "ELTAKO-ESR64PF-IPM",
-      "software_version": 132352,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4932,
-      "vendor_name": "Eltako"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1054,
-      "product_name": "ELTAKO-EUD64NPN-IPM",
-      "software_version": 132352,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4932,
-      "vendor_name": "Eltako"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1104,
-      "product_name": "ELTAKO-ESB64NP-IPM",
-      "software_version": 132352,
-      "timestamp": "2026-06-19T11:23:53+00:00",
-      "vendor_id": 4932,
-      "vendor_name": "Eltako"
-    }
-  ],
+  "earlier_run_id": 28,
+  "earlier_started_at": "2026-06-19T11:23:53+00:00",
+  "later_run_id": 29,
+  "later_started_at": "2026-06-20T10:09:09+00:00",
+  "new_products": [],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
