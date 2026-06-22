@@ -1,10 +1,30 @@
 {
-  "earlier_run_id": 29,
-  "earlier_started_at": "2026-06-20T10:09:09+00:00",
-  "later_run_id": 30,
-  "later_started_at": "2026-06-21T10:29:47+00:00",
-  "new_products": [],
-  "new_vendors": [],
+  "earlier_run_id": 30,
+  "earlier_started_at": "2026-06-21T10:29:47+00:00",
+  "later_run_id": 31,
+  "later_started_at": "2026-06-22T12:50:20+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 318,
+      "product_name": "C200H168",
+      "software_version": 4,
+      "timestamp": "2026-06-22T12:50:20+00:00",
+      "vendor_id": 5715,
+      "vendor_name": "murora"
+    }
+  ],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-06-22T12:50:20+00:00",
+      "vendor_id": 5715,
+      "vendor_name": "murora"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
