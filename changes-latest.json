@@ -1,28 +1,18 @@
 {
-  "earlier_run_id": 30,
-  "earlier_started_at": "2026-06-21T10:29:47+00:00",
-  "later_run_id": 31,
-  "later_started_at": "2026-06-22T12:50:20+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 318,
-      "product_name": "C200H168",
-      "software_version": 4,
-      "timestamp": "2026-06-22T12:50:20+00:00",
-      "vendor_id": 5715,
-      "vendor_name": "murora"
-    }
-  ],
+  "earlier_run_id": 31,
+  "earlier_started_at": "2026-06-22T12:50:20+00:00",
+  "later_run_id": 32,
+  "later_started_at": "2026-06-23T10:36:27+00:00",
+  "new_products": [],
   "new_vendors": [
     {
       "certification_type": null,
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-06-22T12:50:20+00:00",
-      "vendor_id": 5715,
-      "vendor_name": "murora"
+      "timestamp": "2026-06-23T10:36:27+00:00",
+      "vendor_id": 4641,
+      "vendor_name": "Viessmann"
     }
   ],
   "stale_vendors": [],
