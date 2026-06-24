@@ -1,18 +1,163 @@
 {
-  "earlier_run_id": 31,
-  "earlier_started_at": "2026-06-22T12:50:20+00:00",
-  "later_run_id": 32,
-  "later_started_at": "2026-06-23T10:36:27+00:00",
-  "new_products": [],
+  "earlier_run_id": 32,
+  "earlier_started_at": "2026-06-23T10:36:27+00:00",
+  "later_run_id": 33,
+  "later_started_at": "2026-06-24T10:23:03+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 4267,
+      "product_name": "2 Gang USB GPO",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4271,
+      "product_name": "2 Gang USB GPO",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4272,
+      "product_name": "2 Gang GPO",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4273,
+      "product_name": "2 Gang Vertical GPO",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4274,
+      "product_name": "1 Gang Adapter",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4275,
+      "product_name": "1 Gang Adapter",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4276,
+      "product_name": "2 Gang Outdoor GPO",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4277,
+      "product_name": "Rewireable Plug",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4278,
+      "product_name": "1 Gang GPO",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4279,
+      "product_name": "1 Gang Outdoor Adapter",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4280,
+      "product_name": "4 Outlet 1 Switch Powerboard",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4281,
+      "product_name": "2 Gang Adapter",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4282,
+      "product_name": "1 Gang with USB Adapter",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4864,
+      "product_name": "Smart Home Camera",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5172,
+      "vendor_name": null
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32,
+      "product_name": "eufy Permanent Outdoor Light E32",
+      "software_version": 1,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5427,
+      "vendor_name": "Anker Innovations  Technology Co., Ltd"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 769,
+      "product_name": "WiFi Window Covering",
+      "software_version": 10040000,
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5726,
+      "vendor_name": "Mobile Labs"
+    }
+  ],
   "new_vendors": [
     {
       "certification_type": null,
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-06-23T10:36:27+00:00",
-      "vendor_id": 4641,
-      "vendor_name": "Viessmann"
+      "timestamp": "2026-06-24T10:23:03+00:00",
+      "vendor_id": 5726,
+      "vendor_name": "Mobile Labs"
     }
   ],
   "stale_vendors": [],
