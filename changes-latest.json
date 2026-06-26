@@ -1,30 +1,65 @@
 {
-  "earlier_run_id": 33,
-  "earlier_started_at": "2026-06-24T10:23:03+00:00",
-  "later_run_id": 34,
-  "later_started_at": "2026-06-25T10:15:26+00:00",
+  "earlier_run_id": 34,
+  "earlier_started_at": "2026-06-25T10:15:26+00:00",
+  "later_run_id": 35,
+  "later_started_at": "2026-06-26T10:23:02+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4924,
-      "product_name": "Smart Switch",
-      "software_version": 3,
-      "timestamp": "2026-06-25T10:15:26+00:00",
-      "vendor_id": 5461,
-      "vendor_name": "MIUC Technology (Shenzhen) Co.,Ltd"
-    }
-  ],
-  "new_vendors": [
+      "product_id": 10314,
+      "product_name": "Aqara Smart Lock U600",
+      "software_version": 3100,
+      "timestamp": "2026-06-26T10:23:02+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
     {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-06-25T10:15:26+00:00",
-      "vendor_id": 5746,
-      "vendor_name": "Gmerit"
+      "certification_type": "matter",
+      "product_id": 57349,
+      "product_name": "MTS220B",
+      "software_version": 16843008,
+      "timestamp": "2026-06-26T10:23:02+00:00",
+      "vendor_id": 4933,
+      "vendor_name": "Meross"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4096,
+      "product_name": "Smart Window Covering",
+      "software_version": 2,
+      "timestamp": "2026-06-26T10:23:02+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9010,
+      "product_name": "Dimmable Light",
+      "software_version": 1,
+      "timestamp": "2026-06-26T10:23:02+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4719,
+      "product_name": "Smart Thermostat",
+      "software_version": 3,
+      "timestamp": "2026-06-26T10:23:02+00:00",
+      "vendor_id": 5432,
+      "vendor_name": "Beca"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 24578,
+      "product_name": "IDEE SOME Multifunction Gateway",
+      "software_version": 1,
+      "timestamp": "2026-06-26T10:23:02+00:00",
+      "vendor_id": 5736,
+      "vendor_name": null
     }
   ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
