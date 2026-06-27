@@ -1,62 +1,26 @@
 {
-  "earlier_run_id": 34,
-  "earlier_started_at": "2026-06-25T10:15:26+00:00",
-  "later_run_id": 35,
-  "later_started_at": "2026-06-26T10:23:02+00:00",
+  "earlier_run_id": 35,
+  "earlier_started_at": "2026-06-26T10:23:02+00:00",
+  "later_run_id": 36,
+  "later_started_at": "2026-06-27T09:28:48+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 10314,
-      "product_name": "Aqara Smart Lock U600",
-      "software_version": 3100,
-      "timestamp": "2026-06-26T10:23:02+00:00",
-      "vendor_id": 4447,
-      "vendor_name": "Aqara"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 57349,
-      "product_name": "MTS220B",
-      "software_version": 16843008,
-      "timestamp": "2026-06-26T10:23:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4096,
-      "product_name": "Smart Window Covering",
-      "software_version": 2,
-      "timestamp": "2026-06-26T10:23:02+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9010,
-      "product_name": "Dimmable Light",
+      "product_id": 4574,
+      "product_name": "60 Artiste Thread version",
       "software_version": 1,
-      "timestamp": "2026-06-26T10:23:02+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
+      "timestamp": "2026-06-27T09:28:48+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 4719,
-      "product_name": "Smart Thermostat",
-      "software_version": 3,
-      "timestamp": "2026-06-26T10:23:02+00:00",
-      "vendor_id": 5432,
-      "vendor_name": "Beca"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 24578,
-      "product_name": "IDEE SOME Multifunction Gateway",
+      "product_id": 4575,
+      "product_name": "60 Merrick Thread version",
       "software_version": 1,
-      "timestamp": "2026-06-26T10:23:02+00:00",
-      "vendor_id": 5736,
-      "vendor_name": null
+      "timestamp": "2026-06-27T09:28:48+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     }
   ],
   "new_vendors": [],
