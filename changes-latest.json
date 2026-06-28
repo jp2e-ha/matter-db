@@ -1,28 +1,9 @@
 {
-  "earlier_run_id": 35,
-  "earlier_started_at": "2026-06-26T10:23:02+00:00",
-  "later_run_id": 36,
-  "later_started_at": "2026-06-27T09:28:48+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 4574,
-      "product_name": "60 Artiste Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-27T09:28:48+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4575,
-      "product_name": "60 Merrick Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-27T09:28:48+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    }
-  ],
+  "earlier_run_id": 36,
+  "earlier_started_at": "2026-06-27T09:28:48+00:00",
+  "later_run_id": 37,
+  "later_started_at": "2026-06-28T09:57:04+00:00",
+  "new_products": [],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
