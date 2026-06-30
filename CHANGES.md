@@ -1,52 +1,53 @@
 # matter-db sync diff
 
-Comparing **run 37** (`2026-06-28T09:57:04+00:00`) to **run 38** (`2026-06-29T11:59:30+00:00`).
+Comparing **run 38** (`2026-06-29T11:59:30+00:00`) to **run 39** (`2026-06-30T10:31:28+00:00`).
 
-**Summary:** +126 products, ~0 updated, +1 vendors, ~0 stale
+**Summary:** +64 products, ~0 updated, +2 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 126 |
+| new products | 64 |
 | updated products | 0 |
-| new vendors | 1 |
+| new vendors | 2 |
 | stale vendors | 0 |
 
-## New products (126)
+## New products (64)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Govee | Govee Wallwash Table Lamp | 1 | matter | 2026-06-29T11:59:30+00:00 |
-| Govee | Govee Permanent Outdoor Lights 2 Pro | 1 | matter | 2026-06-29T11:59:30+00:00 |
-| Govee | Govee Permanent Outdoor Lights 2 Pro | 1 | matter | 2026-06-29T11:59:30+00:00 |
-| Govee | Govee Permanent Outdoor Lights 2 Pro | 1 | matter | 2026-06-29T11:59:30+00:00 |
-| Govee | Govee Permanent Outdoor Lights 2 Pro | 1 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Neon Outdoor | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Neon Outdoor | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX A19 | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX BR30 | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Color | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Color | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Downlight | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Downlight | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX A21 | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX A21 | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Spot | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Path (Round) | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Path (Square) | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX PAR38 | 262344 | matter | 2026-06-29T11:59:30+00:00 |
-| Feit Electric | LIFX Ceiling | 262344 | matter | 2026-06-29T11:59:30+00:00 |
+| HooRii Technology | Matter Smart Plug | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee TV Backlight 3 | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee TV Light Bar | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee RGBICWW Light Bar | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee Christmas 2-in-1 String Lights | 29 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee Spherical Net Lights | 29 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee Meteor shower Lights | 29 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee Cone Tree Lights | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee Ball Lights | 29 | matter | 2026-06-30T10:31:28+00:00 |
+| Govee | Govee C9 String Lights | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Feit Electric | LIFX Switch | 262344 | matter | 2026-06-30T10:31:28+00:00 |
+| Feit Electric | LIFX Permanent Outdoor | 262344 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 56 Tiburon Thread version | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 54 Sven Thread version | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 52 Hover fan Thread version | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 60 Hover fan Thread version | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 52 Hover flush fan Thread ver | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 60 Hover Flush fan Thread ver | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 52 Vail Flush Thread version | 1 | matter | 2026-06-30T10:31:28+00:00 |
+| Hinkley | 44 Trey Fan Thread version | 1 | matter | 2026-06-30T10:31:28+00:00 |
 
-_…and 106 more (showing first 20)._
+_…and 44 more (showing first 20)._
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (1)
+## New vendors (2)
 
 | vendor_id | vendor | timestamp |
 |---:|---|---|
-| 5737 | Fanimation | 2026-06-29T11:59:30+00:00 |
+| 5718 | IFLYTEK | 2026-06-30T10:31:28+00:00 |
+| 5729 | ARTCILUX | 2026-06-30T10:31:28+00:00 |
 
 ## Stale vendors (0)
 

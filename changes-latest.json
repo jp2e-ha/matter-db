@@ -1,1142 +1,584 @@
 {
-  "earlier_run_id": 37,
-  "earlier_started_at": "2026-06-28T09:57:04+00:00",
-  "later_run_id": 38,
-  "later_started_at": "2026-06-29T11:59:30+00:00",
+  "earlier_run_id": 38,
+  "earlier_started_at": "2026-06-29T11:59:30+00:00",
+  "later_run_id": 39,
+  "later_started_at": "2026-06-30T10:31:28+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 6001,
-      "product_name": "Govee Wallwash Table Lamp",
+      "product_id": 65507,
+      "product_name": "Matter Smart Plug",
       "software_version": 1,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 4945,
+      "vendor_name": "HooRii Technology"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 10816,
+      "product_name": "Govee TV Backlight 3",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 14929,
-      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
+      "product_id": 24646,
+      "product_name": "Govee TV Light Bar",
       "software_version": 1,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 14930,
-      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
+      "product_id": 24662,
+      "product_name": "Govee RGBICWW Light Bar",
       "software_version": 1,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 14931,
-      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
-      "software_version": 1,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "product_id": 25168,
+      "product_name": "Govee Christmas 2-in-1 String Lights",
+      "software_version": 29,
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 51793,
-      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
-      "software_version": 1,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "product_id": 25424,
+      "product_name": "Govee Spherical Net Lights",
+      "software_version": 29,
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 161,
-      "product_name": "LIFX Neon Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 26657,
+      "product_name": "Govee Meteor shower Lights",
+      "software_version": 29,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 162,
-      "product_name": "LIFX Neon Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 26690,
+      "product_name": "Govee Cone Tree Lights",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 163,
-      "product_name": "LIFX A19",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 26704,
+      "product_name": "Govee Ball Lights",
+      "software_version": 29,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 164,
-      "product_name": "LIFX BR30",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 26721,
+      "product_name": "Govee C9 String Lights",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 165,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 166,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 167,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 168,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 169,
-      "product_name": "LIFX A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 170,
-      "product_name": "LIFX A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 171,
-      "product_name": "LIFX Spot",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 173,
-      "product_name": "LIFX Path (Round)",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 174,
-      "product_name": "LIFX Path (Square)",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 175,
-      "product_name": "LIFX PAR38",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 176,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 177,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 178,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 179,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 180,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 181,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 182,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 183,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 184,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 185,
-      "product_name": "LIFX Candle Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 186,
-      "product_name": "LIFX Candle Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 187,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 188,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 189,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 190,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 191,
-      "product_name": "LIFX Everyday A19",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 192,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 193,
-      "product_name": "LIFX Color A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 194,
-      "product_name": "LIFX Color A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 195,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 196,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 197,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 198,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 199,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 200,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 201,
-      "product_name": "LIFX Ceiling 13x26",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 202,
-      "product_name": "LIFX Ceiling 13x26",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 203,
-      "product_name": "LIFX String",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 204,
-      "product_name": "LIFX String",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 205,
-      "product_name": "LIFX Neon",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 206,
-      "product_name": "LIFX Neon",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 207,
-      "product_name": "LIFX Everyday Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 208,
-      "product_name": "LIFX Everyday Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 209,
-      "product_name": "LIFX Beam",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 210,
-      "product_name": "LIFX Beam",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 211,
-      "product_name": "LIFX Everyday Permanent Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 212,
-      "product_name": "LIFX Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 213,
-      "product_name": "LIFX Permanent Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 214,
-      "product_name": "LIFX Permanent Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 215,
-      "product_name": "LIFX Candle Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 216,
-      "product_name": "LIFX Candle Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 217,
-      "product_name": "LIFX Tube",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 218,
-      "product_name": "LIFX Tube",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 219,
-      "product_name": "LIFX Luna",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 220,
-      "product_name": "LIFX Luna",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 221,
-      "product_name": "LIFX Spot",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 222,
-      "product_name": "LIFX Path (Round)",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 223,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 224,
-      "product_name": "LIFX Downlight",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 225,
-      "product_name": "LIFX PAR38",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 226,
-      "product_name": "LIFX Dimmer Switch",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 227,
+      "product_id": 228,
       "product_name": "LIFX Switch",
       "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 5155,
       "vendor_name": "Feit Electric"
     },
     {
       "certification_type": "matter",
-      "product_id": 229,
-      "product_name": "LIFX Path (Square)",
+      "product_id": 279,
+      "product_name": "LIFX Permanent Outdoor",
       "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
+      "timestamp": "2026-06-30T10:31:28+00:00",
       "vendor_id": 5155,
       "vendor_name": "Feit Electric"
     },
     {
       "certification_type": "matter",
-      "product_id": 257,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 3782,
+      "product_name": "56 Tiburon Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 258,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 3786,
+      "product_name": "54 Sven Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 259,
-      "product_name": "LIFX Path",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4587,
+      "product_name": "52 Hover fan Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 260,
-      "product_name": "LIFX Path",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4620,
+      "product_name": "60 Hover fan Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 261,
-      "product_name": "LIFX Spot",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4625,
+      "product_name": "52 Hover flush fan Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 262,
-      "product_name": "LIFX Spot",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4626,
+      "product_name": "60 Hover Flush fan Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 263,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4627,
+      "product_name": "52 Vail Flush Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 264,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4628,
+      "product_name": "44 Trey Fan Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 265,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4629,
+      "product_name": "52 Trey Fan Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 266,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4634,
+      "product_name": "28 Sawyer fan Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 267,
-      "product_name": "LIFX Mirror",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4635,
+      "product_name": "60 Marin Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 268,
-      "product_name": "LIFX Mirror",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4636,
+      "product_name": "56 Swell Flush Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 269,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4638,
+      "product_name": "60 Sculpt Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 270,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4639,
+      "product_name": "80 Sculpt Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 271,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4643,
+      "product_name": "56 Swell Iluminated Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 272,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4645,
+      "product_name": "72 Swell Iluminated Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 273,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4647,
+      "product_name": "60 Turbine Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 274,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4648,
+      "product_name": "80 Turbine Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 275,
-      "product_name": "LIFX Luna",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4649,
+      "product_name": "52 Neo Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 276,
-      "product_name": "LIFX Luna",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4650,
+      "product_name": "56 Iver Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 280,
-      "product_name": "LIFX SuperColor A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4651,
+      "product_name": "52 Facet Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 281,
-      "product_name": "LIFX SuperColor A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4652,
+      "product_name": "60 Facet Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 282,
-      "product_name": "LIFX SuperColor PAR38",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4653,
+      "product_name": "52 Sawyer Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 283,
-      "product_name": "LIFX SuperColor PAR38",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4654,
+      "product_name": "42 Atticus Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 284,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4655,
+      "product_name": "56 Atticus Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 285,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4656,
+      "product_name": "52 Azura Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 286,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4657,
+      "product_name": "56 Alba Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 287,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4658,
+      "product_name": "64 BodinThread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 288,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4659,
+      "product_name": "48 Liv Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 289,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4660,
+      "product_name": "60 Liv Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 290,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4661,
+      "product_name": "60 Aileron Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 291,
-      "product_name": "LIFX Ceiling",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4662,
+      "product_name": "64 Talan Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 292,
-      "product_name": "LIFX Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4663,
+      "product_name": "64 Andros Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 293,
-      "product_name": "LIFX Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4664,
+      "product_name": "52 Vail Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 294,
-      "product_name": "LIFX Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4665,
+      "product_name": "66 Vantage Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 295,
-      "product_name": "LIFX Lightstrip",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4666,
+      "product_name": "58 Layton Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 296,
-      "product_name": "LIFX Neon",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4667,
+      "product_name": "52 Speck Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 297,
-      "product_name": "LIFX Neon",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4668,
+      "product_name": "52 Speck Flush Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 298,
-      "product_name": "LIFX String",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4669,
+      "product_name": "52 Oris Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 299,
-      "product_name": "LIFX String",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4683,
+      "product_name": "60 Rafter Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 300,
-      "product_name": "LIFX Everyday Permanent Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4684,
+      "product_name": "60 Swell Flush Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 302,
-      "product_name": "LIFX Everyday Permanent Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4685,
+      "product_name": "44 Chisel Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 303,
-      "product_name": "LIFX A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4686,
+      "product_name": "52 Chisel Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 304,
-      "product_name": "LIFX A21",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4687,
+      "product_name": "60 Chisel Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 305,
-      "product_name": "LIFX BR30",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4688,
+      "product_name": "60 Swell Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 306,
-      "product_name": "LIFX BR30",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4689,
+      "product_name": "80 Swell Thread version",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 307,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 4690,
+      "product_name": "60 Vento Thread ver",
+      "software_version": 1,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5497,
+      "vendor_name": "Hinkley"
     },
     {
       "certification_type": "matter",
-      "product_id": 308,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 309,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 310,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 311,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 312,
-      "product_name": "LIFX Color",
-      "software_version": 262344,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4183,
-      "product_name": "Smart Ceiling Fan",
+      "product_id": 5053,
+      "product_name": "Smart socket",
       "software_version": 3,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5737,
-      "vendor_name": "Fanimation"
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5572,
+      "vendor_name": "FASTCR"
     },
     {
       "certification_type": "matter",
-      "product_id": 4807,
-      "product_name": "Smart Ceiling Fan",
+      "product_id": 4516,
+      "product_name": "WiFi Smart Socket",
       "software_version": 3,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5737,
-      "vendor_name": "Fanimation"
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5696,
+      "vendor_name": "Dianling"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": "Nova Desk Lamp Pro",
+      "software_version": 129,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5718,
+      "vendor_name": "IFLYTEK"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "Nova Floor Lamp Pro",
+      "software_version": 129,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5718,
+      "vendor_name": "IFLYTEK"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": "Dimming and Color Tuning Controller",
+      "software_version": 12,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5729,
+      "vendor_name": "ARTCILUX"
     }
   ],
   "new_vendors": [
@@ -1145,9 +587,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-06-29T11:59:30+00:00",
-      "vendor_id": 5737,
-      "vendor_name": "Fanimation"
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5718,
+      "vendor_name": "IFLYTEK"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-06-30T10:31:28+00:00",
+      "vendor_id": 5729,
+      "vendor_name": "ARTCILUX"
     }
   ],
   "stale_vendors": [],
