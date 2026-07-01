@@ -42,12 +42,15 @@ jobs:
     outputs:
       should_deploy: ${{ steps.decide.outputs.should_deploy }}
     steps:
-      - name: Checkout the triggering commit (need its parent to diff)
+      - name: Checkout the commit to inspect (need its parent to diff)
         uses: actions/checkout@v6
         with:
-          # For workflow_run, check out the sync's head commit; otherwise the
-          # ref that triggered us. Depth 2 so we can diff against the parent.
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          # github.sha is the commit that triggered THIS deploy run. For a
+          # workflow_run event that is the default-branch HEAD, i.e. the commit
+          # the sync just pushed — NOT github.event.workflow_run.head_sha,
+          # which is where main was when the sync *started* (before its own
+          # commit). Depth 2 so we can diff against the parent.
+          ref: ${{ github.sha }}
           fetch-depth: 2
 
       - name: Decide
@@ -55,9 +58,14 @@ jobs:
         env:
           EVENT: ${{ github.event_name }}
           CONCLUSION: ${{ github.event.workflow_run.conclusion }}
-          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+          # The sync's pushed commit (see checkout note above), not
+          # workflow_run.head_sha.
+          HEAD_SHA: ${{ github.sha }}
+          # Logged only, to make the SHA distinction visible in run logs.
+          WORKFLOW_RUN_HEAD: ${{ github.event.workflow_run.head_sha }}
         run: |
           set -euo pipefail
+          echo "event=$EVENT github.sha=$HEAD_SHA workflow_run.head_sha=${WORKFLOW_RUN_HEAD:-n/a}"
 
           # Human pushes already passed the path filter above, and manual
           # dispatches are an explicit request — both always deploy.
@@ -101,9 +109,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          # Deploy the exact commit the sync produced, not whatever is at the
-          # tip of main when this job happens to run.
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          # Deploy the exact commit that triggered this run (the sync's pushed
+          # commit for workflow_run; the pushed/dispatched commit otherwise).
+          ref: ${{ github.sha }}
 
       - name: Set up flyctl
         uses: superfly/flyctl-actions/setup-flyctl@master
