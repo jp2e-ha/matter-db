@@ -8,7 +8,11 @@
     {{ "{:,}".format(stats.vendors_with_products) }} manufacturers, mirrored
     daily from the CSA Distributed Compliance Ledger.
   </p>
-  <p class="last-sync">Last synced {{ stats.last_sync_relative }}.</p>
+  <p class="last-sync">
+    Last updated {{ stats.last_change_relative }}.
+    Checked daily; the database changes only when new certifications appear
+    (last checked {{ stats.last_sync_relative }}).
+  </p>
 
   <form action="/search" method="get" class="search" role="search">
     <input

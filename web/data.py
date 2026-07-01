@@ -78,6 +78,20 @@ def get_stats() -> dict[str, Any]:
         ).fetchone()
         last_sync = last_sync_row["started_at"] if last_sync_row else None
 
+        # "Last database change" — distinct from the sync *check* above. A
+        # sync runs daily but only mutates a row's last_updated_at when its
+        # content actually changed, so the newest last_updated_at across the
+        # change-tracked tables is when the data last moved.
+        last_change_row = conn.execute(
+            "SELECT MAX(t) FROM ("
+            "  SELECT MAX(last_updated_at) AS t FROM compliance_records "
+            "  UNION ALL SELECT MAX(last_updated_at) FROM model_versions "
+            "  UNION ALL SELECT MAX(last_updated_at) FROM models "
+            "  UNION ALL SELECT MAX(last_updated_at) FROM vendors"
+            ")"
+        ).fetchone()
+        last_change = last_change_row[0] if last_change_row else None
+
         # "Certified in the last 7 days" — based on the CSA-issued
         # certification date, not our sync first_seen_at, so the number is
         # stable across DB rebuilds and means what visitors expect it to.
@@ -97,6 +111,8 @@ def get_stats() -> dict[str, Any]:
             "added_7d": n_added_7d,
             "last_sync": last_sync,
             "last_sync_relative": _relative_time(last_sync),
+            "last_change": last_change,
+            "last_change_relative": _relative_time(last_change),
         }
     finally:
         conn.close()

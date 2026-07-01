@@ -1,6 +1,8 @@
 name: deploy
 
 on:
+  # Real user pushes (humans, whose commits DO trigger workflows) that touch
+  # deployable paths.
   push:
     branches: [main]
     paths:
@@ -13,6 +15,13 @@ on:
       - 'pyproject.toml'
       - 'uv.lock'
       - 'changes-latest.json'
+  # The daily sync commits with the default GITHUB_TOKEN, and commits made
+  # with that token do NOT trigger push workflows. So we fire off the sync
+  # workflow's completion instead. The gate job below filters to successful
+  # syncs that actually changed data/matter.db.
+  workflow_run:
+    workflows: [sync]
+    types: [completed]
   workflow_dispatch:
 
 # Don't let two deploys race; if a sync-triggered deploy is in flight
@@ -25,12 +34,76 @@ permissions:
   contents: read
 
 jobs:
+  # Decide whether this trigger should actually deploy. push and
+  # workflow_dispatch always proceed; workflow_run only proceeds when the
+  # sync succeeded AND its commit changed data/matter.db.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      should_deploy: ${{ steps.decide.outputs.should_deploy }}
+    steps:
+      - name: Checkout the triggering commit (need its parent to diff)
+        uses: actions/checkout@v6
+        with:
+          # For workflow_run, check out the sync's head commit; otherwise the
+          # ref that triggered us. Depth 2 so we can diff against the parent.
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+          fetch-depth: 2
+
+      - name: Decide
+        id: decide
+        env:
+          EVENT: ${{ github.event_name }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+          HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          set -euo pipefail
+
+          # Human pushes already passed the path filter above, and manual
+          # dispatches are an explicit request — both always deploy.
+          if [ "$EVENT" = "push" ] || [ "$EVENT" = "workflow_dispatch" ]; then
+            echo "event=$EVENT -> deploy"
+            echo "should_deploy=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "$EVENT" = "workflow_run" ]; then
+            if [ "$CONCLUSION" != "success" ]; then
+              echo "sync concluded '$CONCLUSION' (not success) -> skip"
+              echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            # Did the sync's commit actually change the database? A no-op sync
+            # commits nothing, but even a sync that only rewrites CHANGES.md /
+            # changes-latest.json shouldn't trigger a redeploy on its own.
+            CHANGED=$(git diff --name-only "${HEAD_SHA}^" "${HEAD_SHA}")
+            echo "files changed in ${HEAD_SHA}:"
+            echo "$CHANGED"
+            if echo "$CHANGED" | grep -qx 'data/matter.db'; then
+              echo "data/matter.db changed -> deploy"
+              echo "should_deploy=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "data/matter.db unchanged -> skip"
+              echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+            fi
+            exit 0
+          fi
+
+          echo "unexpected event '$EVENT' -> skip"
+          echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+
   deploy:
+    needs: gate
+    if: needs.gate.outputs.should_deploy == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          # Deploy the exact commit the sync produced, not whatever is at the
+          # tip of main when this job happens to run.
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - name: Set up flyctl
         uses: superfly/flyctl-actions/setup-flyctl@master
