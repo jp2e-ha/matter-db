@@ -1,606 +1,155 @@
 {
-  "earlier_run_id": 38,
-  "earlier_started_at": "2026-06-29T11:59:30+00:00",
-  "later_run_id": 39,
-  "later_started_at": "2026-06-30T10:31:28+00:00",
+  "earlier_run_id": 39,
+  "earlier_started_at": "2026-06-30T10:31:28+00:00",
+  "later_run_id": 40,
+  "later_started_at": "2026-07-01T10:42:25+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 65507,
-      "product_name": "Matter Smart Plug",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 4945,
-      "vendor_name": "HooRii Technology"
+      "product_id": 9394,
+      "product_name": "Philips Downlight",
+      "software_version": 14,
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
     },
     {
       "certification_type": "matter",
-      "product_id": 10816,
-      "product_name": "Govee TV Backlight 3",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 5,
+      "product_name": "Smart IO-Module",
+      "software_version": 16777216,
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 4954,
+      "vendor_name": "Siegenia Aubi KG"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5297,
+      "product_name": "Govee Smart Bulb",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 24646,
-      "product_name": "Govee TV Light Bar",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 5314,
+      "product_name": "Govee Edison Bulb",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 24662,
-      "product_name": "Govee RGBICWW Light Bar",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 6272,
+      "product_name": "Govee Tri-Zone Galaxy Light Projector",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 25168,
-      "product_name": "Govee Christmas 2-in-1 String Lights",
-      "software_version": 29,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 7018,
+      "product_name": "Govee Strip Light with Tower Kit",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 25424,
-      "product_name": "Govee Spherical Net Lights",
-      "software_version": 29,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 10240,
+      "product_name": "Govee Monitor Light Bar",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 26657,
-      "product_name": "Govee Meteor shower Lights",
-      "software_version": 29,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 14929,
+      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 26690,
-      "product_name": "Govee Cone Tree Lights",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 14930,
+      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 26704,
-      "product_name": "Govee Ball Lights",
-      "software_version": 29,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 14931,
+      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 26721,
-      "product_name": "Govee C9 String Lights",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
+      "product_id": 25000,
+      "product_name": "Govee Outdoor Neon Rope Light",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
       "vendor_id": 4999,
       "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 228,
-      "product_name": "LIFX Switch",
-      "software_version": 262344,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 25001,
+      "product_name": "Govee Outdoor Neon Rope Light",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 279,
-      "product_name": "LIFX Permanent Outdoor",
-      "software_version": 262344,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5155,
-      "vendor_name": "Feit Electric"
+      "product_id": 51793,
+      "product_name": "Govee Permanent Outdoor Lights 2 Pro",
+      "software_version": 30,
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 3782,
-      "product_name": "56 Tiburon Thread version",
+      "product_id": 9364,
+      "product_name": "Fan Light",
       "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
     },
     {
       "certification_type": "matter",
-      "product_id": 3786,
-      "product_name": "54 Sven Thread version",
+      "product_id": 9791,
+      "product_name": "Dimmable Light",
       "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4587,
-      "product_name": "52 Hover fan Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4620,
-      "product_name": "60 Hover fan Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4625,
-      "product_name": "52 Hover flush fan Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4626,
-      "product_name": "60 Hover Flush fan Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4627,
-      "product_name": "52 Vail Flush Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4628,
-      "product_name": "44 Trey Fan Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4629,
-      "product_name": "52 Trey Fan Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4634,
-      "product_name": "28 Sawyer fan Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4635,
-      "product_name": "60 Marin Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4636,
-      "product_name": "56 Swell Flush Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4638,
-      "product_name": "60 Sculpt Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4639,
-      "product_name": "80 Sculpt Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4643,
-      "product_name": "56 Swell Iluminated Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4645,
-      "product_name": "72 Swell Iluminated Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4647,
-      "product_name": "60 Turbine Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4648,
-      "product_name": "80 Turbine Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4649,
-      "product_name": "52 Neo Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4650,
-      "product_name": "56 Iver Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4651,
-      "product_name": "52 Facet Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4652,
-      "product_name": "60 Facet Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4653,
-      "product_name": "52 Sawyer Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4654,
-      "product_name": "42 Atticus Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4655,
-      "product_name": "56 Atticus Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4656,
-      "product_name": "52 Azura Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4657,
-      "product_name": "56 Alba Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4658,
-      "product_name": "64 BodinThread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4659,
-      "product_name": "48 Liv Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4660,
-      "product_name": "60 Liv Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4661,
-      "product_name": "60 Aileron Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4662,
-      "product_name": "64 Talan Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4663,
-      "product_name": "64 Andros Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4664,
-      "product_name": "52 Vail Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4665,
-      "product_name": "66 Vantage Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4666,
-      "product_name": "58 Layton Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4667,
-      "product_name": "52 Speck Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4668,
-      "product_name": "52 Speck Flush Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4669,
-      "product_name": "52 Oris Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4683,
-      "product_name": "60 Rafter Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4684,
-      "product_name": "60 Swell Flush Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4685,
-      "product_name": "44 Chisel Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4686,
-      "product_name": "52 Chisel Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4687,
-      "product_name": "60 Chisel Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4688,
-      "product_name": "60 Swell Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4689,
-      "product_name": "80 Swell Thread version",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4690,
-      "product_name": "60 Vento Thread ver",
-      "software_version": 1,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5053,
-      "product_name": "Smart socket",
-      "software_version": 3,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5572,
-      "vendor_name": "FASTCR"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4516,
-      "product_name": "WiFi Smart Socket",
-      "software_version": 3,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5696,
-      "vendor_name": "Dianling"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "Nova Desk Lamp Pro",
-      "software_version": 129,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5718,
-      "vendor_name": "IFLYTEK"
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
     },
     {
       "certification_type": "matter",
       "product_id": 2,
-      "product_name": "Nova Floor Lamp Pro",
-      "software_version": 129,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5718,
-      "vendor_name": "IFLYTEK"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "Dimming and Color Tuning Controller",
-      "software_version": 12,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5729,
-      "vendor_name": "ARTCILUX"
+      "product_name": "Smart Gateway",
+      "software_version": 130,
+      "timestamp": "2026-07-01T10:42:25+00:00",
+      "vendor_id": 5506,
+      "vendor_name": "KEGU"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5718,
-      "vendor_name": "IFLYTEK"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-06-30T10:31:28+00:00",
-      "vendor_id": 5729,
-      "vendor_name": "ARTCILUX"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
