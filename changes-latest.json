@@ -1,66 +1,10 @@
 {
-  "earlier_run_id": 43,
-  "earlier_started_at": "2026-07-02T11:21:37+00:00",
-  "later_run_id": 44,
-  "later_started_at": "2026-07-03T10:04:51+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 2049,
-      "product_name": "Tapo Security Camera",
-      "software_version": 65536,
-      "timestamp": "2026-07-03T10:04:51+00:00",
-      "vendor_id": 5010,
-      "vendor_name": "Tapo"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2050,
-      "product_name": "Tapo Security Camera",
-      "software_version": 65536,
-      "timestamp": "2026-07-03T10:04:51+00:00",
-      "vendor_id": 5010,
-      "vendor_name": "Tapo"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2051,
-      "product_name": "Tapo Security Camera",
-      "software_version": 65536,
-      "timestamp": "2026-07-03T10:04:51+00:00",
-      "vendor_id": 5010,
-      "vendor_name": "Tapo"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "SMARTWIZ+ art",
-      "software_version": 2,
-      "timestamp": "2026-07-03T10:04:51+00:00",
-      "vendor_id": 5138,
-      "vendor_name": "Disign"
-    }
-  ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-07-03T10:04:51+00:00",
-      "vendor_id": 4508,
-      "vendor_name": "Sinope Technologies"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-07-03T10:04:51+00:00",
-      "vendor_id": 5733,
-      "vendor_name": "DongGuan SAMPO Electronics Co., Ltd."
-    }
-  ],
+  "earlier_run_id": 44,
+  "earlier_started_at": "2026-07-03T10:04:51+00:00",
+  "later_run_id": 45,
+  "later_started_at": "2026-07-04T09:23:41+00:00",
+  "new_products": [],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
