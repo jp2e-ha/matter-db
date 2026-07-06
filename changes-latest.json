@@ -1,10 +1,57 @@
 {
-  "earlier_run_id": 45,
-  "earlier_started_at": "2026-07-04T09:23:41+00:00",
-  "later_run_id": 46,
-  "later_started_at": "2026-07-05T09:42:35+00:00",
-  "new_products": [],
-  "new_vendors": [],
+  "earlier_run_id": 46,
+  "earlier_started_at": "2026-07-05T09:42:35+00:00",
+  "later_run_id": 47,
+  "later_started_at": "2026-07-06T11:27:35+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 257,
+      "product_name": "Power Meter Switch",
+      "software_version": 1,
+      "timestamp": "2026-07-06T11:27:35+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8192,
+      "product_name": "JustPlus Universal Control",
+      "software_version": 1,
+      "timestamp": "2026-07-06T11:27:35+00:00",
+      "vendor_id": 5552,
+      "vendor_name": "JustPlus"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4844,
+      "product_name": "Smart Fan Light",
+      "software_version": 3,
+      "timestamp": "2026-07-06T11:27:35+00:00",
+      "vendor_id": 5748,
+      "vendor_name": "wukong"
+    }
+  ],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-07-06T11:27:35+00:00",
+      "vendor_id": 5748,
+      "vendor_name": "wukong"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-07-06T11:27:35+00:00",
+      "vendor_id": 5787,
+      "vendor_name": "Musen Connect"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
