@@ -1,29 +1,48 @@
 {
-  "earlier_run_id": 48,
-  "earlier_started_at": "2026-07-07T10:26:02+00:00",
-  "later_run_id": 49,
-  "later_started_at": "2026-07-08T09:25:33+00:00",
+  "earlier_run_id": 49,
+  "earlier_started_at": "2026-07-08T09:25:33+00:00",
+  "later_run_id": 50,
+  "later_started_at": "2026-07-09T10:25:25+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4229,
-      "product_name": "Wi-Fi Double RGBCW Downlight",
-      "software_version": 5,
-      "timestamp": "2026-07-08T09:25:33+00:00",
-      "vendor_id": 4701,
-      "vendor_name": "Tuya"
+      "product_id": 4116,
+      "product_name": "ACK Wi-Fi RGBCW Light",
+      "software_version": 10040000,
+      "timestamp": "2026-07-09T10:25:25+00:00",
+      "vendor_id": 4891,
+      "vendor_name": "Espressif Systems"
     },
     {
       "certification_type": "matter",
-      "product_id": 4097,
-      "product_name": "Air Conditioner",
-      "software_version": 101000,
-      "timestamp": "2026-07-08T09:25:33+00:00",
-      "vendor_id": 5733,
-      "vendor_name": "DongGuan SAMPO Electronics Co., Ltd."
+      "product_id": 32,
+      "product_name": "G32",
+      "software_version": 3,
+      "timestamp": "2026-07-09T10:25:25+00:00",
+      "vendor_id": 4970,
+      "vendor_name": "akubela"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4174,
+      "product_name": "4 Outlet 4 Switch Powerboard",
+      "software_version": 3,
+      "timestamp": "2026-07-09T10:25:25+00:00",
+      "vendor_id": 5123,
+      "vendor_name": "Arlec Australia"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-07-09T10:25:25+00:00",
+      "vendor_id": 5722,
+      "vendor_name": "Sense Say Technology"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
