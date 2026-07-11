@@ -1,17 +1,26 @@
 {
-  "earlier_run_id": 50,
-  "earlier_started_at": "2026-07-09T10:25:25+00:00",
-  "later_run_id": 51,
-  "later_started_at": "2026-07-10T10:24:01+00:00",
+  "earlier_run_id": 51,
+  "earlier_started_at": "2026-07-10T10:24:01+00:00",
+  "later_run_id": 52,
+  "later_started_at": "2026-07-11T08:47:22+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "Matter WiFi Smart Thermostat",
-      "software_version": 20,
-      "timestamp": "2026-07-10T10:24:01+00:00",
-      "vendor_id": 5722,
-      "vendor_name": "Sense Say Technology"
+      "product_id": 4467,
+      "product_name": "Smarte WLAN Steckdose",
+      "software_version": 3,
+      "timestamp": "2026-07-11T08:47:22+00:00",
+      "vendor_id": 5431,
+      "vendor_name": "PEARL GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3931,
+      "product_name": "Smart bulb",
+      "software_version": 3,
+      "timestamp": "2026-07-11T08:47:22+00:00",
+      "vendor_id": 5572,
+      "vendor_name": "FASTCR"
     }
   ],
   "new_vendors": [],
