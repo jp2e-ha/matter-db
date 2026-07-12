@@ -1,28 +1,9 @@
 {
-  "earlier_run_id": 51,
-  "earlier_started_at": "2026-07-10T10:24:01+00:00",
-  "later_run_id": 52,
-  "later_started_at": "2026-07-11T08:47:22+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 4467,
-      "product_name": "Smarte WLAN Steckdose",
-      "software_version": 3,
-      "timestamp": "2026-07-11T08:47:22+00:00",
-      "vendor_id": 5431,
-      "vendor_name": "PEARL GmbH"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 3931,
-      "product_name": "Smart bulb",
-      "software_version": 3,
-      "timestamp": "2026-07-11T08:47:22+00:00",
-      "vendor_id": 5572,
-      "vendor_name": "FASTCR"
-    }
-  ],
+  "earlier_run_id": 52,
+  "earlier_started_at": "2026-07-11T08:47:22+00:00",
+  "later_run_id": 53,
+  "later_started_at": "2026-07-12T09:02:05+00:00",
+  "new_products": [],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
