@@ -1,10 +1,30 @@
 {
-  "earlier_run_id": 52,
-  "earlier_started_at": "2026-07-11T08:47:22+00:00",
-  "later_run_id": 53,
-  "later_started_at": "2026-07-12T09:02:05+00:00",
-  "new_products": [],
-  "new_vendors": [],
+  "earlier_run_id": 53,
+  "earlier_started_at": "2026-07-12T09:02:05+00:00",
+  "later_run_id": 54,
+  "later_started_at": "2026-07-13T10:26:49+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": "BellaVista Matter Smart Power Series",
+      "software_version": 2,
+      "timestamp": "2026-07-13T10:26:49+00:00",
+      "vendor_id": 5774,
+      "vendor_name": null
+    }
+  ],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-07-13T10:26:49+00:00",
+      "vendor_id": 5786,
+      "vendor_name": "Sombra Shades"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
