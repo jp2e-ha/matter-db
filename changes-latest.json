@@ -1,30 +1,29 @@
 {
-  "earlier_run_id": 53,
-  "earlier_started_at": "2026-07-12T09:02:05+00:00",
-  "later_run_id": 54,
-  "later_started_at": "2026-07-13T10:26:49+00:00",
+  "earlier_run_id": 54,
+  "earlier_started_at": "2026-07-13T10:26:49+00:00",
+  "later_run_id": 55,
+  "later_started_at": "2026-07-14T09:04:53+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "BellaVista Matter Smart Power Series",
-      "software_version": 2,
-      "timestamp": "2026-07-13T10:26:49+00:00",
-      "vendor_id": 5774,
-      "vendor_name": null
-    }
-  ],
-  "new_vendors": [
+      "product_id": 1766,
+      "product_name": "Carrier Smart Thermostat with InteliSense",
+      "software_version": 115737864,
+      "timestamp": "2026-07-14T09:04:53+00:00",
+      "vendor_id": 4334,
+      "vendor_name": "UEI"
+    },
     {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-07-13T10:26:49+00:00",
-      "vendor_id": 5786,
-      "vendor_name": "Sombra Shades"
+      "certification_type": "matter",
+      "product_id": 18437,
+      "product_name": "Radiator Thermostat W600",
+      "software_version": 1112,
+      "timestamp": "2026-07-14T09:04:53+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
     }
   ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
