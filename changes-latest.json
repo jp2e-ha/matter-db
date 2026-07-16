@@ -1,102 +1,83 @@
 {
-  "earlier_run_id": 55,
-  "earlier_started_at": "2026-07-14T09:04:53+00:00",
-  "later_run_id": 56,
-  "later_started_at": "2026-07-15T09:09:10+00:00",
+  "earlier_run_id": 56,
+  "earlier_started_at": "2026-07-15T09:09:10+00:00",
+  "later_run_id": 57,
+  "later_started_at": "2026-07-16T09:13:56+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 8192,
-      "product_name": "BILRESA dual button",
-      "software_version": 16842752,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "product_id": 5,
+      "product_name": "Application Module Push Button 1-gang for Matter system used on Power Modules",
+      "software_version": 65537,
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 4741,
+      "vendor_name": "Hager Group"
     },
     {
       "certification_type": "matter",
-      "product_id": 8193,
-      "product_name": "BILRESA scroll wheel",
-      "software_version": 16842752,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "product_id": 6,
+      "product_name": "Application Module Push Button 2-gang for Matter system used on Power Modules",
+      "software_version": 65537,
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 4741,
+      "vendor_name": "Hager Group"
     },
     {
       "certification_type": "matter",
-      "product_id": 28673,
-      "product_name": "Chime hub",
+      "product_id": 5504,
+      "product_name": "ElitePRO/X8/X7 Smart Thermostat",
+      "software_version": 325079893,
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 4890,
+      "vendor_name": "Resideo"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 267,
+      "product_name": "WiFi Smart Switch",
       "software_version": 1,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     },
     {
       "certification_type": "matter",
-      "product_id": 28674,
-      "product_name": "Chime hub",
+      "product_id": 4638,
+      "product_name": "Linkind Smart String Lights",
       "software_version": 1,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 28675,
-      "product_name": "Chime hub",
+      "product_id": 4740,
+      "product_name": "Linkind Smart String Lights",
       "software_version": 1,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 28676,
-      "product_name": "Chime hub",
+      "product_id": 4741,
+      "product_name": "Linkind Smart String Lights",
       "software_version": 1,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 4738,
-      "vendor_name": "SEI"
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 32773,
-      "product_name": "Arduino Nano Matter",
-      "software_version": 1,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 5397,
-      "vendor_name": "Arduino"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "The Seamless Smart Shades P7",
-      "software_version": 1,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 5637,
-      "vendor_name": "REZEFLOW"
+      "product_id": 4,
+      "product_name": "Gerlsair Aura X5",
+      "software_version": 100,
+      "timestamp": "2026-07-16T09:13:56+00:00",
+      "vendor_id": 5493,
+      "vendor_name": "Xizhen Electronics"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 5397,
-      "vendor_name": "Arduino"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-07-15T09:09:10+00:00",
-      "vendor_id": 5731,
-      "vendor_name": "Aroha"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
