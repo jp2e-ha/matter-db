@@ -1,80 +1,26 @@
 {
-  "earlier_run_id": 56,
-  "earlier_started_at": "2026-07-15T09:09:10+00:00",
-  "later_run_id": 57,
-  "later_started_at": "2026-07-16T09:13:56+00:00",
+  "earlier_run_id": 57,
+  "earlier_started_at": "2026-07-16T09:13:56+00:00",
+  "later_run_id": 58,
+  "later_started_at": "2026-07-17T09:09:49+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 5,
-      "product_name": "Application Module Push Button 1-gang for Matter system used on Power Modules",
-      "software_version": 65537,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 4741,
-      "vendor_name": "Hager Group"
+      "product_id": 1001,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-17T09:09:49+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
     },
     {
       "certification_type": "matter",
-      "product_id": 6,
-      "product_name": "Application Module Push Button 2-gang for Matter system used on Power Modules",
-      "software_version": 65537,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 4741,
-      "vendor_name": "Hager Group"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5504,
-      "product_name": "ElitePRO/X8/X7 Smart Thermostat",
-      "software_version": 325079893,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 4890,
-      "vendor_name": "Resideo"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 267,
-      "product_name": "WiFi Smart Switch",
-      "software_version": 1,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4638,
-      "product_name": "Linkind Smart String Lights",
-      "software_version": 1,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 5014,
-      "vendor_name": "AiDot"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4740,
-      "product_name": "Linkind Smart String Lights",
-      "software_version": 1,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 5014,
-      "vendor_name": "AiDot"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4741,
-      "product_name": "Linkind Smart String Lights",
-      "software_version": 1,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 5014,
-      "vendor_name": "AiDot"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4,
-      "product_name": "Gerlsair Aura X5",
-      "software_version": 100,
-      "timestamp": "2026-07-16T09:13:56+00:00",
-      "vendor_id": 5493,
-      "vendor_name": "Xizhen Electronics"
+      "product_id": 8193,
+      "product_name": "Sombra Shade Motor",
+      "software_version": 17105152,
+      "timestamp": "2026-07-17T09:09:49+00:00",
+      "vendor_id": 5786,
+      "vendor_name": "Sombra Shades"
     }
   ],
   "new_vendors": [],
