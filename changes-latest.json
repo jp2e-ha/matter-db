@@ -1,26 +1,224 @@
 {
-  "earlier_run_id": 57,
-  "earlier_started_at": "2026-07-16T09:13:56+00:00",
-  "later_run_id": 58,
-  "later_started_at": "2026-07-17T09:09:49+00:00",
+  "earlier_run_id": 58,
+  "earlier_started_at": "2026-07-17T09:09:49+00:00",
+  "later_run_id": 59,
+  "later_started_at": "2026-07-18T08:48:23+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 1001,
+      "product_id": 1004,
       "product_name": "Spot+Scrub Ai robot vacuum",
       "software_version": 1001,
-      "timestamp": "2026-07-17T09:09:49+00:00",
+      "timestamp": "2026-07-18T08:48:23+00:00",
       "vendor_id": 5022,
       "vendor_name": "Dyson"
     },
     {
       "certification_type": "matter",
-      "product_id": 8193,
-      "product_name": "Sombra Shade Motor",
-      "software_version": 17105152,
-      "timestamp": "2026-07-17T09:09:49+00:00",
-      "vendor_id": 5786,
-      "vendor_name": "Sombra Shades"
+      "product_id": 8891,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8892,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8893,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8894,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8895,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8896,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8897,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8898,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8899,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8900,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8901,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8902,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8903,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8904,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8905,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8906,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8907,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8908,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8909,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8910,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8911,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8912,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8913,
+      "product_name": "Spot+Scrub Ai robot vacuum",
+      "software_version": 1001,
+      "timestamp": "2026-07-18T08:48:23+00:00",
+      "vendor_id": 5022,
+      "vendor_name": "Dyson"
     }
   ],
   "new_vendors": [],
