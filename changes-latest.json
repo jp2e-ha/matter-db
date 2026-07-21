@@ -1,9 +1,28 @@
 {
-  "earlier_run_id": 60,
-  "earlier_started_at": "2026-07-19T09:04:34+00:00",
-  "later_run_id": 61,
-  "later_started_at": "2026-07-20T10:11:23+00:00",
-  "new_products": [],
+  "earlier_run_id": 61,
+  "earlier_started_at": "2026-07-20T10:11:23+00:00",
+  "later_run_id": 62,
+  "later_started_at": "2026-07-21T09:26:47+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "PGD738",
+      "software_version": 16778240,
+      "timestamp": "2026-07-21T09:26:47+00:00",
+      "vendor_id": 5212,
+      "vendor_name": "Pin Genie,Inc. "
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3,
+      "product_name": "PGD638",
+      "software_version": 16778240,
+      "timestamp": "2026-07-21T09:26:47+00:00",
+      "vendor_id": 5212,
+      "vendor_name": "Pin Genie,Inc. "
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
