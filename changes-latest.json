@@ -1,98 +1,17 @@
 {
-  "earlier_run_id": 62,
-  "earlier_started_at": "2026-07-21T09:26:47+00:00",
-  "later_run_id": 63,
-  "later_started_at": "2026-07-22T09:26:10+00:00",
+  "earlier_run_id": 63,
+  "earlier_started_at": "2026-07-22T09:26:10+00:00",
+  "later_run_id": 64,
+  "later_started_at": "2026-07-23T09:24:17+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 9156,
-      "product_name": "Philips A19",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9158,
-      "product_name": "Philips BR30",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9160,
-      "product_name": "Philips A19",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9162,
-      "product_name": "Philips BR30",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9164,
-      "product_name": "Philips A60 E27",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9168,
-      "product_name": "Philips A60 B22",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9172,
-      "product_name": "Philips G95 E27",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9176,
-      "product_name": "Philips A60 E27",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9180,
-      "product_name": "Philips A60 B22",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9184,
-      "product_name": "Philips G95 E27",
-      "software_version": 14,
-      "timestamp": "2026-07-22T09:26:10+00:00",
-      "vendor_id": 4107,
-      "vendor_name": "Signify"
+      "product_id": 2,
+      "product_name": "Smart Window Shade Tubular Motor",
+      "software_version": 17105152,
+      "timestamp": "2026-07-23T09:24:17+00:00",
+      "vendor_id": 5234,
+      "vendor_name": "JLM"
     }
   ],
   "new_vendors": [],
