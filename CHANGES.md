@@ -1,6 +1,6 @@
 # matter-db sync diff
 
-Comparing **run 63** (`2026-07-22T09:26:10+00:00`) to **run 64** (`2026-07-23T09:24:17+00:00`).
+Comparing **run 64** (`2026-07-23T09:24:17+00:00`) to **run 65** (`2026-07-24T09:21:51+00:00`).
 
 **Summary:** +1 products, ~0 updated, +0 vendors, ~0 stale
 
@@ -15,7 +15,7 @@ Comparing **run 63** (`2026-07-22T09:26:10+00:00`) to **run 64** (`2026-07-23T09
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| JLM | Smart Window Shade Tubular Motor | 17105152 | matter | 2026-07-23T09:24:17+00:00 |
+| Quectel | On Off Light | 1 | matter | 2026-07-24T09:21:51+00:00 |
 
 ## Updated products (0)
 

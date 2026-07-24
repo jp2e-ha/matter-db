@@ -1,17 +1,17 @@
 {
-  "earlier_run_id": 63,
-  "earlier_started_at": "2026-07-22T09:26:10+00:00",
-  "later_run_id": 64,
-  "later_started_at": "2026-07-23T09:24:17+00:00",
+  "earlier_run_id": 64,
+  "earlier_started_at": "2026-07-23T09:24:17+00:00",
+  "later_run_id": 65,
+  "later_started_at": "2026-07-24T09:21:51+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "Smart Window Shade Tubular Motor",
-      "software_version": 17105152,
-      "timestamp": "2026-07-23T09:24:17+00:00",
-      "vendor_id": 5234,
-      "vendor_name": "JLM"
+      "product_id": 9355,
+      "product_name": "On Off Light",
+      "software_version": 1,
+      "timestamp": "2026-07-24T09:21:51+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
     }
   ],
   "new_vendors": [],
