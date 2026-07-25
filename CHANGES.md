@@ -1,21 +1,19 @@
 # matter-db sync diff
 
-Comparing **run 64** (`2026-07-23T09:24:17+00:00`) to **run 65** (`2026-07-24T09:21:51+00:00`).
+Comparing **run 65** (`2026-07-24T09:21:51+00:00`) to **run 66** (`2026-07-25T09:02:41+00:00`).
 
-**Summary:** +1 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +0 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 1 |
+| new products | 0 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (1)
+## New products (0)
 
-| vendor | product | sw_version | cert_type | timestamp |
-|---|---|---:|---|---|
-| Quectel | On Off Light | 1 | matter | 2026-07-24T09:21:51+00:00 |
+_None._
 
 ## Updated products (0)
 
