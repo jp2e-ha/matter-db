@@ -1,9 +1,37 @@
 {
-  "earlier_run_id": 67,
-  "earlier_started_at": "2026-07-26T09:12:41+00:00",
-  "later_run_id": 68,
-  "later_started_at": "2026-07-27T10:42:54+00:00",
-  "new_products": [],
+  "earlier_run_id": 68,
+  "earlier_started_at": "2026-07-27T10:42:54+00:00",
+  "later_run_id": 69,
+  "later_started_at": "2026-07-28T09:36:32+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 127,
+      "product_name": "Eve Thermostat",
+      "software_version": 10140,
+      "timestamp": "2026-07-28T09:36:32+00:00",
+      "vendor_id": 4874,
+      "vendor_name": "Eve"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 9366,
+      "product_name": "Fan Light",
+      "software_version": 1,
+      "timestamp": "2026-07-28T09:36:32+00:00",
+      "vendor_id": 5136,
+      "vendor_name": "Quectel"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4975,
+      "product_name": "Calex Smart Light Bulb CCT",
+      "software_version": 5,
+      "timestamp": "2026-07-28T09:36:32+00:00",
+      "vendor_id": 5651,
+      "vendor_name": "Calex"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
