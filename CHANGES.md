@@ -1,31 +1,36 @@
 # matter-db sync diff
 
-Comparing **run 68** (`2026-07-27T10:42:54+00:00`) to **run 69** (`2026-07-28T09:36:32+00:00`).
+Comparing **run 69** (`2026-07-28T09:36:32+00:00`) to **run 70** (`2026-07-29T09:37:12+00:00`).
 
-**Summary:** +3 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +4 products, ~1 updated, +1 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 3 |
-| updated products | 0 |
-| new vendors | 0 |
+| new products | 4 |
+| updated products | 1 |
+| new vendors | 1 |
 | stale vendors | 0 |
 
-## New products (3)
+## New products (4)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Eve | Eve Thermostat | 10140 | matter | 2026-07-28T09:36:32+00:00 |
-| Quectel | Fan Light | 1 | matter | 2026-07-28T09:36:32+00:00 |
-| Calex | Calex Smart Light Bulb CCT | 5 | matter | 2026-07-28T09:36:32+00:00 |
+| SEI | Homa Loom Speaker | 1 | matter | 2026-07-29T09:37:12+00:00 |
+| SEI | Homa Loom Mini Speaker | 1 | matter | 2026-07-29T09:37:12+00:00 |
+| Wistar motor | tubular motor | 17105152 | matter | 2026-07-29T09:37:12+00:00 |
+| Qingping | Qingping Temp & RH Monitor T | 20 | matter | 2026-07-29T09:37:12+00:00 |
 
-## Updated products (0)
+## Updated products (1)
 
-_None._
+| vendor | product | sw_version | cert_type | timestamp |
+|---|---|---:|---|---|
+| Resideo | ElitePRO/X8/X7 Smart Thermostat | 325079893 | matter | 2026-07-29T09:37:12+00:00 |
 
-## New vendors (0)
+## New vendors (1)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5711 | Qingping | 2026-07-29T09:37:12+00:00 |
 
 ## Stale vendors (0)
 
