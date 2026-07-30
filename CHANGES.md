@@ -1,36 +1,50 @@
 # matter-db sync diff
 
-Comparing **run 69** (`2026-07-28T09:36:32+00:00`) to **run 70** (`2026-07-29T09:37:12+00:00`).
+Comparing **run 70** (`2026-07-29T09:37:12+00:00`) to **run 71** (`2026-07-30T09:30:20+00:00`).
 
-**Summary:** +4 products, ~1 updated, +1 vendors, ~0 stale
+**Summary:** +33 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 4 |
-| updated products | 1 |
-| new vendors | 1 |
+| new products | 33 |
+| updated products | 0 |
+| new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (4)
+## New products (33)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| SEI | Homa Loom Speaker | 1 | matter | 2026-07-29T09:37:12+00:00 |
-| SEI | Homa Loom Mini Speaker | 1 | matter | 2026-07-29T09:37:12+00:00 |
-| Wistar motor | tubular motor | 17105152 | matter | 2026-07-29T09:37:12+00:00 |
-| Qingping | Qingping Temp & RH Monitor T | 20 | matter | 2026-07-29T09:37:12+00:00 |
+| Tuya | Smart Bluetooth Gateway | 1 | matter | 2026-07-30T09:30:20+00:00 |
+| Arlec Australia | Digital Strip Light Controller | 5 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Venetion Blinds | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Tubular motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Drapery Motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Drapery Motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Vertical Sheer Blinds Motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Vertical Sheer Blinds Motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Vertical Sheer Blinds Motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
+| Wistar motor | Drapery Motor | 17105152 | matter | 2026-07-30T09:30:20+00:00 |
 
-## Updated products (1)
+_…and 13 more (showing first 20)._
 
-| vendor | product | sw_version | cert_type | timestamp |
-|---|---|---:|---|---|
-| Resideo | ElitePRO/X8/X7 Smart Thermostat | 325079893 | matter | 2026-07-29T09:37:12+00:00 |
+## Updated products (0)
 
-## New vendors (1)
+_None._
 
-| vendor_id | vendor | timestamp |
-|---:|---|---|
-| 5711 | Qingping | 2026-07-29T09:37:12+00:00 |
+## New vendors (0)
+
+_None._
 
 ## Stale vendors (0)
 
