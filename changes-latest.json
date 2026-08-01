@@ -1,118 +1,18 @@
 {
-  "earlier_run_id": 71,
-  "earlier_started_at": "2026-07-30T09:30:20+00:00",
-  "later_run_id": 72,
-  "later_started_at": "2026-07-31T09:44:48+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 16384,
-      "product_name": "Yale Durus Smart Lock",
-      "software_version": 2000001,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16385,
-      "product_name": "Yale Smart Code Handle",
-      "software_version": 2000011,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16386,
-      "product_name": "Yale Linus L2",
-      "software_version": 2000020,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16386,
-      "product_name": "Yale Linus L2",
-      "software_version": 3000001,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16386,
-      "product_name": "Yale Linus L2",
-      "software_version": 3001007,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16387,
-      "product_name": "Yale Linus Smart Lock L2 Lite",
-      "software_version": 10108,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16387,
-      "product_name": "Yale Linus Smart Lock L2 Lite",
-      "software_version": 1001001,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16387,
-      "product_name": "Yale Linus Smart Lock L2 Lite",
-      "software_version": 1002001,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16387,
-      "product_name": "Yale Linus Smart Lock L2 Lite",
-      "software_version": 1003001,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16387,
-      "product_name": "Yale Linus Smart Lock L2 Lite",
-      "software_version": 1004004,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 3334,
-      "product_name": "Dewenwils 2-Zone Light Switch",
-      "software_version": 1,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5458,
-      "vendor_name": "DEWENWILS"
-    }
-  ],
+  "earlier_run_id": 72,
+  "earlier_started_at": "2026-07-31T09:44:48+00:00",
+  "later_run_id": 73,
+  "later_started_at": "2026-08-01T09:06:01+00:00",
+  "new_products": [],
   "new_vendors": [
     {
       "certification_type": null,
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-07-31T09:44:48+00:00",
-      "vendor_id": 5708,
-      "vendor_name": "Sleekpoint"
+      "timestamp": "2026-08-01T09:06:01+00:00",
+      "vendor_id": 5605,
+      "vendor_name": "Verizon"
     }
   ],
   "stale_vendors": [],
