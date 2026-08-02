@@ -1,20 +1,10 @@
 {
-  "earlier_run_id": 72,
-  "earlier_started_at": "2026-07-31T09:44:48+00:00",
-  "later_run_id": 73,
-  "later_started_at": "2026-08-01T09:06:01+00:00",
+  "earlier_run_id": 73,
+  "earlier_started_at": "2026-08-01T09:06:01+00:00",
+  "later_run_id": 74,
+  "later_started_at": "2026-08-02T09:08:57+00:00",
   "new_products": [],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-01T09:06:01+00:00",
-      "vendor_id": 5605,
-      "vendor_name": "Verizon"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
