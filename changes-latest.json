@@ -1,17 +1,17 @@
 {
-  "earlier_run_id": 74,
-  "earlier_started_at": "2026-08-02T09:08:57+00:00",
-  "later_run_id": 75,
-  "later_started_at": "2026-08-03T10:42:28+00:00",
+  "earlier_run_id": 75,
+  "earlier_started_at": "2026-08-03T10:42:28+00:00",
+  "later_run_id": 76,
+  "later_started_at": "2026-08-04T09:38:18+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 5001,
-      "product_name": "Smart Curtain Motor",
-      "software_version": 2,
-      "timestamp": "2026-08-03T10:42:28+00:00",
-      "vendor_id": 5705,
-      "vendor_name": "MANHOT"
+      "product_id": 5279,
+      "product_name": "Smart Light",
+      "software_version": 5,
+      "timestamp": "2026-08-04T09:38:18+00:00",
+      "vendor_id": 5784,
+      "vendor_name": "CoreAPT"
     }
   ],
   "new_vendors": [
@@ -20,27 +20,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-08-03T10:42:28+00:00",
-      "vendor_id": 4727,
-      "vendor_name": "Adeo"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-03T10:42:28+00:00",
-      "vendor_id": 5705,
-      "vendor_name": "MANHOT"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-03T10:42:28+00:00",
-      "vendor_id": 5809,
-      "vendor_name": "Refoss"
+      "timestamp": "2026-08-04T09:38:18+00:00",
+      "vendor_id": 5784,
+      "vendor_name": "CoreAPT"
     }
   ],
   "stale_vendors": [],
