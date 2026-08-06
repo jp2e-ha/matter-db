@@ -1,9 +1,19 @@
 {
-  "earlier_run_id": 76,
-  "earlier_started_at": "2026-08-04T09:38:18+00:00",
-  "later_run_id": 77,
-  "later_started_at": "2026-08-05T09:36:53+00:00",
-  "new_products": [],
+  "earlier_run_id": 77,
+  "earlier_started_at": "2026-08-05T09:36:53+00:00",
+  "later_run_id": 78,
+  "later_started_at": "2026-08-06T09:39:21+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": "Smart Lock",
+      "software_version": 1,
+      "timestamp": "2026-08-06T09:39:21+00:00",
+      "vendor_id": 5708,
+      "vendor_name": "Sleekpoint"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
