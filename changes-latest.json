@@ -1,62 +1,17 @@
 {
-  "earlier_run_id": 78,
-  "earlier_started_at": "2026-08-06T09:39:21+00:00",
-  "later_run_id": 79,
-  "later_started_at": "2026-08-07T08:13:51+00:00",
+  "earlier_run_id": 79,
+  "earlier_started_at": "2026-08-07T08:13:51+00:00",
+  "later_run_id": 80,
+  "later_started_at": "2026-08-08T07:49:45+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 12,
-      "product_name": "Matter Rotary Dimmer",
-      "software_version": 16777536,
-      "timestamp": "2026-08-07T08:13:51+00:00",
-      "vendor_id": 4741,
-      "vendor_name": "Hager Group"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4103,
-      "product_name": "Door Lock",
-      "software_version": 1,
-      "timestamp": "2026-08-07T08:13:51+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8192,
-      "product_name": "Door Lock",
-      "software_version": 1,
-      "timestamp": "2026-08-07T08:13:51+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "A19 Bulb - Full color",
-      "software_version": 1,
-      "timestamp": "2026-08-07T08:13:51+00:00",
-      "vendor_id": 5732,
-      "vendor_name": "Lowe's"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 768,
-      "product_name": " 1\u2019x4\u2019 Smart Panel- Full color",
-      "software_version": 1,
-      "timestamp": "2026-08-07T08:13:51+00:00",
-      "vendor_id": 5732,
-      "vendor_name": "Lowe's"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1536,
-      "product_name": "17\u2019\u2019 Smart Flush Mount - Full Color",
-      "software_version": 1,
-      "timestamp": "2026-08-07T08:13:51+00:00",
-      "vendor_id": 5732,
-      "vendor_name": "Lowe's"
+      "product_id": 8,
+      "product_name": "Netatmo Thermo Hub",
+      "software_version": 1020,
+      "timestamp": "2026-08-08T07:49:45+00:00",
+      "vendor_id": 4129,
+      "vendor_name": "Legrand Group"
     }
   ],
   "new_vendors": [],
