@@ -1,19 +1,9 @@
 {
-  "earlier_run_id": 79,
-  "earlier_started_at": "2026-08-07T08:13:51+00:00",
-  "later_run_id": 80,
-  "later_started_at": "2026-08-08T07:49:45+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 8,
-      "product_name": "Netatmo Thermo Hub",
-      "software_version": 1020,
-      "timestamp": "2026-08-08T07:49:45+00:00",
-      "vendor_id": 4129,
-      "vendor_name": "Legrand Group"
-    }
-  ],
+  "earlier_run_id": 80,
+  "earlier_started_at": "2026-08-08T07:49:45+00:00",
+  "later_run_id": 81,
+  "later_started_at": "2026-08-09T07:53:44+00:00",
+  "new_products": [],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
