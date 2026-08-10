@@ -1,9 +1,19 @@
 {
-  "earlier_run_id": 80,
-  "earlier_started_at": "2026-08-08T07:49:45+00:00",
-  "later_run_id": 81,
-  "later_started_at": "2026-08-09T07:53:44+00:00",
-  "new_products": [],
+  "earlier_run_id": 81,
+  "earlier_started_at": "2026-08-09T07:53:44+00:00",
+  "later_run_id": 82,
+  "later_started_at": "2026-08-10T08:26:23+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 120,
+      "product_name": "Bridge Max Turbo",
+      "software_version": 67329,
+      "timestamp": "2026-08-10T08:26:23+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
