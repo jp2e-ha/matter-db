@@ -1,17 +1,17 @@
 {
-  "earlier_run_id": 81,
-  "earlier_started_at": "2026-08-09T07:53:44+00:00",
-  "later_run_id": 82,
-  "later_started_at": "2026-08-10T08:26:23+00:00",
+  "earlier_run_id": 82,
+  "earlier_started_at": "2026-08-10T08:26:23+00:00",
+  "later_run_id": 83,
+  "later_started_at": "2026-08-11T08:09:31+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 120,
-      "product_name": "Bridge Max Turbo",
-      "software_version": 67329,
-      "timestamp": "2026-08-10T08:26:23+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "product_id": 4213,
+      "product_name": "Shelly Dimmer Gen4",
+      "software_version": 16973889,
+      "timestamp": "2026-08-11T08:09:31+00:00",
+      "vendor_id": 5264,
+      "vendor_name": "Shelly"
     }
   ],
   "new_vendors": [],
