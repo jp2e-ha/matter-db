@@ -1,66 +1,10 @@
 {
-  "earlier_run_id": 83,
-  "earlier_started_at": "2026-08-11T08:09:31+00:00",
-  "later_run_id": 84,
-  "later_started_at": "2026-08-12T08:17:20+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 32771,
-      "product_name": "DIRIGERA",
-      "software_version": 4,
-      "timestamp": "2026-08-12T08:17:20+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1800,
-      "product_name": "Robot Vacuum Cleaner",
-      "software_version": 65536,
-      "timestamp": "2026-08-12T08:17:20+00:00",
-      "vendor_id": 5010,
-      "vendor_name": "Tapo"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9323,
-      "product_name": "Color Temperature Light",
-      "software_version": 1,
-      "timestamp": "2026-08-12T08:17:20+00:00",
-      "vendor_id": 5136,
-      "vendor_name": "Quectel"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 16,
-      "product_name": "Owl Wired",
-      "software_version": 727,
-      "timestamp": "2026-08-12T08:17:20+00:00",
-      "vendor_id": 5633,
-      "vendor_name": "Owl Home Inc."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5035,
-      "product_name": "LSC Smart Light Bulb CCT",
-      "software_version": 5,
-      "timestamp": "2026-08-12T08:17:20+00:00",
-      "vendor_id": 5651,
-      "vendor_name": "Calex"
-    }
-  ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-12T08:17:20+00:00",
-      "vendor_id": 5633,
-      "vendor_name": "Owl Home Inc."
-    }
-  ],
+  "earlier_run_id": 84,
+  "earlier_started_at": "2026-08-12T08:17:20+00:00",
+  "later_run_id": 85,
+  "later_started_at": "2026-08-13T08:20:40+00:00",
+  "new_products": [],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
