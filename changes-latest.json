@@ -1,20 +1,10 @@
 {
-  "earlier_run_id": 86,
-  "earlier_started_at": "2026-08-14T08:15:22+00:00",
-  "later_run_id": 87,
-  "later_started_at": "2026-08-15T07:30:40+00:00",
+  "earlier_run_id": 87,
+  "earlier_started_at": "2026-08-15T07:30:40+00:00",
+  "later_run_id": 88,
+  "later_started_at": "2026-08-16T07:30:57+00:00",
   "new_products": [],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-15T07:30:40+00:00",
-      "vendor_id": 5825,
-      "vendor_name": "Surplife"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
