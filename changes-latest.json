@@ -1,9 +1,19 @@
 {
-  "earlier_run_id": 87,
-  "earlier_started_at": "2026-08-15T07:30:40+00:00",
-  "later_run_id": 88,
-  "later_started_at": "2026-08-16T07:30:57+00:00",
-  "new_products": [],
+  "earlier_run_id": 88,
+  "earlier_started_at": "2026-08-16T07:30:57+00:00",
+  "later_run_id": 89,
+  "later_started_at": "2026-08-17T07:53:17+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 9408,
+      "product_name": "Philips Color Strip",
+      "software_version": 14,
+      "timestamp": "2026-08-17T07:53:17+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
