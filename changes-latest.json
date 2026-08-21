@@ -1,53 +1,35 @@
 {
-  "earlier_run_id": 91,
-  "earlier_started_at": "2026-08-19T07:38:01+00:00",
-  "later_run_id": 92,
-  "later_started_at": "2026-08-20T07:40:30+00:00",
+  "earlier_run_id": 92,
+  "earlier_started_at": "2026-08-20T07:40:30+00:00",
+  "later_run_id": 93,
+  "later_started_at": "2026-08-21T07:42:14+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 525,
-      "product_name": "Smart Ceiling LED light",
-      "software_version": 202610301,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4987,
-      "vendor_name": "Amazon Basics"
+      "product_id": 5398,
+      "product_name": "Dehumidifier",
+      "software_version": 3,
+      "timestamp": "2026-08-21T07:42:14+00:00",
+      "vendor_id": 5004,
+      "vendor_name": "Hisense"
     },
     {
       "certification_type": "matter",
-      "product_id": 526,
-      "product_name": "Smart Ceiling LED light",
-      "software_version": 202610301,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4987,
-      "vendor_name": "Amazon Basics"
+      "product_id": 13915,
+      "product_name": "Air Conditioner",
+      "software_version": 3,
+      "timestamp": "2026-08-21T07:42:14+00:00",
+      "vendor_id": 5004,
+      "vendor_name": "Hisense"
     },
     {
       "certification_type": "matter",
-      "product_id": 527,
-      "product_name": "Smart Lamp",
-      "software_version": 202610301,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4987,
-      "vendor_name": "Amazon Basics"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 528,
-      "product_name": "Smart Lamp",
-      "software_version": 202610301,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4987,
-      "vendor_name": "Amazon Basics"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 529,
-      "product_name": "Smart Lamp",
-      "software_version": 202610301,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4987,
-      "vendor_name": "Amazon Basics"
+      "product_id": 16,
+      "product_name": "motion sensor with env sensors",
+      "software_version": 1,
+      "timestamp": "2026-08-21T07:42:14+00:00",
+      "vendor_id": 5415,
+      "vendor_name": "habi"
     }
   ],
   "new_vendors": [
@@ -56,216 +38,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 2,
-      "vendor_name": "Sony"
+      "timestamp": "2026-08-21T07:42:14+00:00",
+      "vendor_id": 4647,
+      "vendor_name": "Kaadas"
     },
     {
       "certification_type": null,
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 3,
-      "vendor_name": "Samsung"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 7,
-      "vendor_name": "Texas Instruments"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4103,
-      "vendor_name": "TUV"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4116,
-      "vendor_name": "Microchip Technology"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4117,
-      "vendor_name": "Develco"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4118,
-      "vendor_name": "Honeywell"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4136,
-      "vendor_name": "Itron"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4140,
-      "vendor_name": "Siemens"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4143,
-      "vendor_name": "Mitsubishi Electric Corporation"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4144,
-      "vendor_name": "Johnson Controls, Inc."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4145,
-      "vendor_name": "Secure Meters (UK) Ltd"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4150,
-      "vendor_name": "Trane"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4158,
-      "vendor_name": "Oki Semiconductor"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4166,
-      "vendor_name": "Autani Corporation"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4195,
-      "vendor_name": "Landis+Gyr"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4204,
-      "vendor_name": "EDMI Pty Ltd"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4224,
-      "vendor_name": "ecobee"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4230,
-      "vendor_name": "Toshiba"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4231,
-      "vendor_name": "Digi International"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4232,
-      "vendor_name": "Ubilogix"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4247,
-      "vendor_name": "SyChip/Murata"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4250,
-      "vendor_name": "MMB Research"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-20T07:40:30+00:00",
-      "vendor_id": 4258,
-      "vendor_name": "Sensus"
+      "timestamp": "2026-08-21T07:42:14+00:00",
+      "vendor_id": 5673,
+      "vendor_name": "Taelek"
     }
   ],
   "stale_vendors": [],
