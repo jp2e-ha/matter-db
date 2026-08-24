@@ -1,17 +1,35 @@
 {
-  "earlier_run_id": 94,
-  "earlier_started_at": "2026-08-22T07:31:34+00:00",
-  "later_run_id": 95,
-  "later_started_at": "2026-08-23T07:33:05+00:00",
+  "earlier_run_id": 95,
+  "earlier_started_at": "2026-08-23T07:33:05+00:00",
+  "later_run_id": 96,
+  "later_started_at": "2026-08-24T07:57:26+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 256,
-      "product_name": "Taelek Matter Bridge",
-      "software_version": 1,
-      "timestamp": "2026-08-23T07:33:05+00:00",
-      "vendor_id": 5673,
-      "vendor_name": "Taelek"
+      "product_id": 5067,
+      "product_name": "tink Basics E27",
+      "software_version": 5,
+      "timestamp": "2026-08-24T07:57:26+00:00",
+      "vendor_id": 5465,
+      "vendor_name": "tink GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5110,
+      "product_name": "tink Basics GU10",
+      "software_version": 5,
+      "timestamp": "2026-08-24T07:57:26+00:00",
+      "vendor_id": 5465,
+      "vendor_name": "tink GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4369,
+      "product_name": "LSC Smart Power Plug",
+      "software_version": 5,
+      "timestamp": "2026-08-24T07:57:26+00:00",
+      "vendor_id": 5651,
+      "vendor_name": "Calex"
     }
   ],
   "new_vendors": [],
