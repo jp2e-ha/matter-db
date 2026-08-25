@@ -1,38 +1,120 @@
 {
-  "earlier_run_id": 95,
-  "earlier_started_at": "2026-08-23T07:33:05+00:00",
-  "later_run_id": 96,
-  "later_started_at": "2026-08-24T07:57:26+00:00",
+  "earlier_run_id": 96,
+  "earlier_started_at": "2026-08-24T07:57:26+00:00",
+  "later_run_id": 97,
+  "later_started_at": "2026-08-25T07:43:09+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 5067,
-      "product_name": "tink Basics E27",
-      "software_version": 5,
-      "timestamp": "2026-08-24T07:57:26+00:00",
-      "vendor_id": 5465,
-      "vendor_name": "tink GmbH"
+      "product_id": 363,
+      "product_name": "Smart Door/Window Sensor",
+      "software_version": 1,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     },
     {
       "certification_type": "matter",
-      "product_id": 5110,
-      "product_name": "tink Basics GU10",
-      "software_version": 5,
-      "timestamp": "2026-08-24T07:57:26+00:00",
-      "vendor_id": 5465,
-      "vendor_name": "tink GmbH"
+      "product_id": 19,
+      "product_name": "Bolt Fingerprint Plus",
+      "software_version": 10001,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5247,
+      "vendor_name": "Xthings Inc."
     },
     {
       "certification_type": "matter",
-      "product_id": 4369,
-      "product_name": "LSC Smart Power Plug",
-      "software_version": 5,
-      "timestamp": "2026-08-24T07:57:26+00:00",
-      "vendor_id": 5651,
-      "vendor_name": "Calex"
+      "product_id": 20,
+      "product_name": "Bolt NFC Plus",
+      "software_version": 10001,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5247,
+      "vendor_name": "Xthings Inc."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4097,
+      "product_name": null,
+      "software_version": 65792,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5727,
+      "vendor_name": "X-Sense Innovations Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4098,
+      "product_name": null,
+      "software_version": 65792,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5727,
+      "vendor_name": "X-Sense Innovations Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4099,
+      "product_name": null,
+      "software_version": 65792,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5727,
+      "vendor_name": "X-Sense Innovations Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4100,
+      "product_name": null,
+      "software_version": 65792,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5727,
+      "vendor_name": "X-Sense Innovations Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4101,
+      "product_name": null,
+      "software_version": 65792,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5727,
+      "vendor_name": "X-Sense Innovations Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4102,
+      "product_name": null,
+      "software_version": 65792,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5727,
+      "vendor_name": "X-Sense Innovations Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5383,
+      "product_name": "Smart Roller Blind Motor",
+      "software_version": 2,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5804,
+      "vendor_name": "NEXAS MOTORS"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5827,
+      "vendor_name": "Fuyang Hongxin Semiconductor Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-08-25T07:43:09+00:00",
+      "vendor_id": 5832,
+      "vendor_name": "Hubitat, Inc."
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
