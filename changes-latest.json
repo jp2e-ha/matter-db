@@ -1,98 +1,116 @@
 {
-  "earlier_run_id": 96,
-  "earlier_started_at": "2026-08-24T07:57:26+00:00",
-  "later_run_id": 97,
-  "later_started_at": "2026-08-25T07:43:09+00:00",
+  "earlier_run_id": 97,
+  "earlier_started_at": "2026-08-25T07:43:09+00:00",
+  "later_run_id": 98,
+  "later_started_at": "2026-08-26T07:46:16+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 363,
-      "product_name": "Smart Door/Window Sensor",
+      "product_id": 4105,
+      "product_name": "CR-DSMK-M-V3",
       "software_version": 1,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4407,
+      "vendor_name": "Crow Electronic Engineering Ltd."
     },
     {
       "certification_type": "matter",
-      "product_id": 19,
-      "product_name": "Bolt Fingerprint Plus",
-      "software_version": 10001,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5247,
-      "vendor_name": "Xthings Inc."
+      "product_id": 4144,
+      "product_name": "CR-PLUG-M-EU",
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4407,
+      "vendor_name": "Crow Electronic Engineering Ltd."
     },
     {
       "certification_type": "matter",
-      "product_id": 20,
-      "product_name": "Bolt NFC Plus",
-      "software_version": 10001,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5247,
-      "vendor_name": "Xthings Inc."
+      "product_id": 4146,
+      "product_name": "CR-PLUG-M-FR",
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4407,
+      "vendor_name": "Crow Electronic Engineering Ltd."
     },
     {
       "certification_type": "matter",
-      "product_id": 4097,
+      "product_id": 4147,
+      "product_name": "CR-PLUG-M-UK",
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4407,
+      "vendor_name": "Crow Electronic Engineering Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 14432,
+      "product_name": "Govee Outdoor 3D Decoration Projector Light\t",
+      "software_version": 30,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32806,
+      "product_name": "Govee Smart Outdoor String Lights",
+      "software_version": 30,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32871,
+      "product_name": "Govee Smart Outdoor Spotlight",
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 269,
+      "product_name": "fancylink A19",
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 513,
       "product_name": null,
-      "software_version": 65792,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5727,
-      "vendor_name": "X-Sense Innovations Co., Ltd."
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
     },
     {
       "certification_type": "matter",
-      "product_id": 4098,
+      "product_id": 2048,
+      "product_name": "Cct bulb",
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8192,
+      "product_name": "Smart Hub",
+      "software_version": 276,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4096,
       "product_name": null,
-      "software_version": 65792,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5727,
-      "vendor_name": "X-Sense Innovations Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4099,
-      "product_name": null,
-      "software_version": 65792,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5727,
-      "vendor_name": "X-Sense Innovations Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4100,
-      "product_name": null,
-      "software_version": 65792,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5727,
-      "vendor_name": "X-Sense Innovations Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4101,
-      "product_name": null,
-      "software_version": 65792,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5727,
-      "vendor_name": "X-Sense Innovations Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4102,
-      "product_name": null,
-      "software_version": 65792,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5727,
-      "vendor_name": "X-Sense Innovations Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5383,
-      "product_name": "Smart Roller Blind Motor",
-      "software_version": 2,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5804,
-      "vendor_name": "NEXAS MOTORS"
+      "software_version": 1,
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5803,
+      "vendor_name": "Chengdu Star Future Home Technology Co., Ltd."
     }
   ],
   "new_vendors": [
@@ -101,18 +119,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5827,
-      "vendor_name": "Fuyang Hongxin Semiconductor Co., Ltd."
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5833,
+      "vendor_name": "Tronico Technology Company Limited"
     },
     {
       "certification_type": null,
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-08-25T07:43:09+00:00",
-      "vendor_id": 5832,
-      "vendor_name": "Hubitat, Inc."
+      "timestamp": "2026-08-26T07:46:16+00:00",
+      "vendor_id": 5834,
+      "vendor_name": "OMEC Smart Card Inc."
     }
   ],
   "stale_vendors": [],

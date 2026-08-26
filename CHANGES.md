@@ -1,30 +1,32 @@
 # matter-db sync diff
 
-Comparing **run 96** (`2026-08-24T07:57:26+00:00`) to **run 97** (`2026-08-25T07:43:09+00:00`).
+Comparing **run 97** (`2026-08-25T07:43:09+00:00`) to **run 98** (`2026-08-26T07:46:16+00:00`).
 
-**Summary:** +10 products, ~0 updated, +2 vendors, ~0 stale
+**Summary:** +12 products, ~0 updated, +2 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 10 |
+| new products | 12 |
 | updated products | 0 |
 | new vendors | 2 |
 | stale vendors | 0 |
 
-## New products (10)
+## New products (12)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| SONOFF | Smart Door/Window Sensor | 1 | matter | 2026-08-25T07:43:09+00:00 |
-| Xthings Inc. | Bolt Fingerprint Plus | 10001 | matter | 2026-08-25T07:43:09+00:00 |
-| Xthings Inc. | Bolt NFC Plus | 10001 | matter | 2026-08-25T07:43:09+00:00 |
-| X-Sense Innovations Co., Ltd. | 5727/4097 | 65792 | matter | 2026-08-25T07:43:09+00:00 |
-| X-Sense Innovations Co., Ltd. | 5727/4098 | 65792 | matter | 2026-08-25T07:43:09+00:00 |
-| X-Sense Innovations Co., Ltd. | 5727/4099 | 65792 | matter | 2026-08-25T07:43:09+00:00 |
-| X-Sense Innovations Co., Ltd. | 5727/4100 | 65792 | matter | 2026-08-25T07:43:09+00:00 |
-| X-Sense Innovations Co., Ltd. | 5727/4101 | 65792 | matter | 2026-08-25T07:43:09+00:00 |
-| X-Sense Innovations Co., Ltd. | 5727/4102 | 65792 | matter | 2026-08-25T07:43:09+00:00 |
-| NEXAS MOTORS | Smart Roller Blind Motor | 2 | matter | 2026-08-25T07:43:09+00:00 |
+| Crow Electronic Engineering Ltd. | CR-DSMK-M-V3 | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Crow Electronic Engineering Ltd. | CR-PLUG-M-EU | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Crow Electronic Engineering Ltd. | CR-PLUG-M-FR | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Crow Electronic Engineering Ltd. | CR-PLUG-M-UK | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Govee | Govee Outdoor 3D Decoration Projector Light	 | 30 | matter | 2026-08-26T07:46:16+00:00 |
+| Govee | Govee Smart Outdoor String Lights | 30 | matter | 2026-08-26T07:46:16+00:00 |
+| Govee | Govee Smart Outdoor Spotlight | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Bweetech | fancylink A19 | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Bweetech | 5383/513 | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Bweetech | Cct bulb | 1 | matter | 2026-08-26T07:46:16+00:00 |
+| Bweetech | Smart Hub | 276 | matter | 2026-08-26T07:46:16+00:00 |
+| Chengdu Star Future Home Technology Co., Ltd. | 5803/4096 | 1 | matter | 2026-08-26T07:46:16+00:00 |
 
 ## Updated products (0)
 
@@ -34,8 +36,8 @@ _None._
 
 | vendor_id | vendor | timestamp |
 |---:|---|---|
-| 5827 | Fuyang Hongxin Semiconductor Co., Ltd. | 2026-08-25T07:43:09+00:00 |
-| 5832 | Hubitat, Inc. | 2026-08-25T07:43:09+00:00 |
+| 5833 | Tronico Technology Company Limited | 2026-08-26T07:46:16+00:00 |
+| 5834 | OMEC Smart Card Inc. | 2026-08-26T07:46:16+00:00 |
 
 ## Stale vendors (0)
 
