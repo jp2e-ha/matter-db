@@ -1,116 +1,26 @@
 {
-  "earlier_run_id": 97,
-  "earlier_started_at": "2026-08-25T07:43:09+00:00",
-  "later_run_id": 98,
-  "later_started_at": "2026-08-26T07:46:16+00:00",
+  "earlier_run_id": 98,
+  "earlier_started_at": "2026-08-26T07:46:16+00:00",
+  "later_run_id": 99,
+  "later_started_at": "2026-08-27T18:07:00+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4105,
-      "product_name": "CR-DSMK-M-V3",
+      "product_id": 4134,
+      "product_name": "CR-DSMK-SM-V3",
       "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
+      "timestamp": "2026-08-27T18:07:00+00:00",
       "vendor_id": 4407,
       "vendor_name": "Crow Electronic Engineering Ltd."
     },
     {
       "certification_type": "matter",
-      "product_id": 4144,
-      "product_name": "CR-PLUG-M-EU",
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 4407,
-      "vendor_name": "Crow Electronic Engineering Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4146,
-      "product_name": "CR-PLUG-M-FR",
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 4407,
-      "vendor_name": "Crow Electronic Engineering Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4147,
-      "product_name": "CR-PLUG-M-UK",
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 4407,
-      "vendor_name": "Crow Electronic Engineering Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 14432,
-      "product_name": "Govee Outdoor 3D Decoration Projector Light\t",
-      "software_version": 30,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 4999,
-      "vendor_name": "Govee"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32806,
-      "product_name": "Govee Smart Outdoor String Lights",
-      "software_version": 30,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 4999,
-      "vendor_name": "Govee"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32871,
-      "product_name": "Govee Smart Outdoor Spotlight",
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 4999,
-      "vendor_name": "Govee"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 269,
-      "product_name": "fancylink A19",
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5383,
-      "vendor_name": "Bweetech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 513,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5383,
-      "vendor_name": "Bweetech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2048,
-      "product_name": "Cct bulb",
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5383,
-      "vendor_name": "Bweetech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8192,
-      "product_name": "Smart Hub",
-      "software_version": 276,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5383,
-      "vendor_name": "Bweetech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4096,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5803,
-      "vendor_name": "Chengdu Star Future Home Technology Co., Ltd."
+      "product_id": 4520,
+      "product_name": "Smart Recessed Light with night light",
+      "software_version": 5,
+      "timestamp": "2026-08-27T18:07:00+00:00",
+      "vendor_id": 5728,
+      "vendor_name": "NuWatt"
     }
   ],
   "new_vendors": [
@@ -119,18 +29,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5833,
-      "vendor_name": "Tronico Technology Company Limited"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-08-26T07:46:16+00:00",
-      "vendor_id": 5834,
-      "vendor_name": "OMEC Smart Card Inc."
+      "timestamp": "2026-08-27T18:07:00+00:00",
+      "vendor_id": 5835,
+      "vendor_name": "Shanghai GeeTrick Technology Co., Ltd."
     }
   ],
   "stale_vendors": [],
