@@ -1,9 +1,28 @@
 {
-  "earlier_run_id": 101,
-  "earlier_started_at": "2026-08-29T12:58:30+00:00",
-  "later_run_id": 102,
-  "later_started_at": "2026-08-30T12:37:53+00:00",
-  "new_products": [],
+  "earlier_run_id": 102,
+  "earlier_started_at": "2026-08-30T12:37:53+00:00",
+  "later_run_id": 103,
+  "later_started_at": "2026-08-31T14:52:39+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 3,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-08-31T14:52:39+00:00",
+      "vendor_id": 5163,
+      "vendor_name": "LETIANPAI"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8193,
+      "product_name": "Roomba Mini",
+      "software_version": 65538,
+      "timestamp": "2026-08-31T14:52:39+00:00",
+      "vendor_id": 5398,
+      "vendor_name": "iRobot Corporation"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
