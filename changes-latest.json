@@ -1,29 +1,48 @@
 {
-  "earlier_run_id": 102,
-  "earlier_started_at": "2026-08-30T12:37:53+00:00",
-  "later_run_id": 103,
-  "later_started_at": "2026-08-31T14:52:39+00:00",
+  "earlier_run_id": 103,
+  "earlier_started_at": "2026-08-31T14:52:39+00:00",
+  "later_run_id": 104,
+  "later_started_at": "2026-09-01T12:23:25+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 3,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-08-31T14:52:39+00:00",
-      "vendor_id": 5163,
-      "vendor_name": "LETIANPAI"
+      "product_id": 18899,
+      "product_name": "Matter Bridge",
+      "software_version": 1,
+      "timestamp": "2026-09-01T12:23:25+00:00",
+      "vendor_id": 4190,
+      "vendor_name": "Schneider Electric"
     },
     {
       "certification_type": "matter",
-      "product_id": 8193,
-      "product_name": "Roomba Mini",
-      "software_version": 65538,
-      "timestamp": "2026-08-31T14:52:39+00:00",
-      "vendor_id": 5398,
-      "vendor_name": "iRobot Corporation"
+      "product_id": 12,
+      "product_name": "Matter Rotary Dimmer",
+      "software_version": 16777344,
+      "timestamp": "2026-09-01T12:23:25+00:00",
+      "vendor_id": 4741,
+      "vendor_name": "Hager Group"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4107,
+      "product_name": "SmartWings Window Covering",
+      "software_version": 17105152,
+      "timestamp": "2026-09-01T12:23:25+00:00",
+      "vendor_id": 5231,
+      "vendor_name": "SmartWings"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-01T12:23:25+00:00",
+      "vendor_id": 5837,
+      "vendor_name": "Liniq (Singapore) Pte. Ltd."
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }

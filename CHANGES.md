@@ -1,30 +1,33 @@
 # matter-db sync diff
 
-Comparing **run 102** (`2026-08-30T12:37:53+00:00`) to **run 103** (`2026-08-31T14:52:39+00:00`).
+Comparing **run 103** (`2026-08-31T14:52:39+00:00`) to **run 104** (`2026-09-01T12:23:25+00:00`).
 
-**Summary:** +2 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +3 products, ~0 updated, +1 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 2 |
+| new products | 3 |
 | updated products | 0 |
-| new vendors | 0 |
+| new vendors | 1 |
 | stale vendors | 0 |
 
-## New products (2)
+## New products (3)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| LETIANPAI | 5163/3 | 2 | matter | 2026-08-31T14:52:39+00:00 |
-| iRobot Corporation | Roomba Mini | 65538 | matter | 2026-08-31T14:52:39+00:00 |
+| Schneider Electric | Matter Bridge | 1 | matter | 2026-09-01T12:23:25+00:00 |
+| Hager Group | Matter Rotary Dimmer | 16777344 | matter | 2026-09-01T12:23:25+00:00 |
+| SmartWings | SmartWings Window Covering | 17105152 | matter | 2026-09-01T12:23:25+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (0)
+## New vendors (1)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5837 | Liniq (Singapore) Pte. Ltd. | 2026-09-01T12:23:25+00:00 |
 
 ## Stale vendors (0)
 
