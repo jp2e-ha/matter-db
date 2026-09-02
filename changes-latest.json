@@ -1,35 +1,80 @@
 {
-  "earlier_run_id": 103,
-  "earlier_started_at": "2026-08-31T14:52:39+00:00",
-  "later_run_id": 104,
-  "later_started_at": "2026-09-01T12:23:25+00:00",
+  "earlier_run_id": 104,
+  "earlier_started_at": "2026-09-01T12:23:25+00:00",
+  "later_run_id": 105,
+  "later_started_at": "2026-09-02T11:58:11+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 18899,
-      "product_name": "Matter Bridge",
+      "product_id": 340,
+      "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-09-01T12:23:25+00:00",
-      "vendor_id": 4190,
-      "vendor_name": "Schneider Electric"
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     },
     {
       "certification_type": "matter",
-      "product_id": 12,
-      "product_name": "Matter Rotary Dimmer",
-      "software_version": 16777344,
-      "timestamp": "2026-09-01T12:23:25+00:00",
-      "vendor_id": 4741,
-      "vendor_name": "Hager Group"
+      "product_id": 344,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     },
     {
       "certification_type": "matter",
-      "product_id": 4107,
-      "product_name": "SmartWings Window Covering",
-      "software_version": 17105152,
-      "timestamp": "2026-09-01T12:23:25+00:00",
-      "vendor_id": 5231,
-      "vendor_name": "SmartWings"
+      "product_id": 1,
+      "product_name": "IAQM-THC2PV-W",
+      "software_version": 2,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5540,
+      "vendor_name": "Mikrotik"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "IAQM-THC2PV-G",
+      "software_version": 2,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5540,
+      "vendor_name": "Mikrotik"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3,
+      "product_name": "IAQM-THC2P-W",
+      "software_version": 2,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5540,
+      "vendor_name": "Mikrotik"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4,
+      "product_name": "IAQM-THC2P-G",
+      "software_version": 2,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5540,
+      "vendor_name": "Mikrotik"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5,
+      "product_name": "IAQM-THC2V-W",
+      "software_version": 2,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5540,
+      "vendor_name": "Mikrotik"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6,
+      "product_name": "IAQM-THC2V-G",
+      "software_version": 2,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5540,
+      "vendor_name": "Mikrotik"
     }
   ],
   "new_vendors": [
@@ -38,9 +83,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-09-01T12:23:25+00:00",
-      "vendor_id": 5837,
-      "vendor_name": "Liniq (Singapore) Pte. Ltd."
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5838,
+      "vendor_name": "Ningbo Yinzhou Sixin Import & Export Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-02T11:58:11+00:00",
+      "vendor_id": 5839,
+      "vendor_name": "Shenzhen Rti-Tek Co., Ltd."
     }
   ],
   "stale_vendors": [],
