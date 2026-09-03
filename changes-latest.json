@@ -1,102 +1,110 @@
 {
-  "earlier_run_id": 104,
-  "earlier_started_at": "2026-09-01T12:23:25+00:00",
-  "later_run_id": 105,
-  "later_started_at": "2026-09-02T11:58:11+00:00",
+  "earlier_run_id": 105,
+  "earlier_started_at": "2026-09-02T11:58:11+00:00",
+  "later_run_id": 106,
+  "later_started_at": "2026-09-03T11:57:54+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 340,
-      "product_name": null,
+      "product_id": 530,
+      "product_name": "Smart Switch",
+      "software_version": 202702041,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4987,
+      "vendor_name": "Amazon Basics"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 532,
+      "product_name": "Smart Dimmer",
+      "software_version": 202702041,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4987,
+      "vendor_name": "Amazon Basics"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 534,
+      "product_name": "Smart Switch",
+      "software_version": 202702041,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4987,
+      "vendor_name": "Amazon Basics"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 535,
+      "product_name": "Smart Switch",
+      "software_version": 202702041,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4987,
+      "vendor_name": "Amazon Basics"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 536,
+      "product_name": "Smart Dimmer",
+      "software_version": 202702041,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4987,
+      "vendor_name": "Amazon Basics"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 12912,
+      "product_name": "Govee Outdoor TriBeam Spotlights",
       "software_version": 1,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 344,
-      "product_name": null,
+      "product_id": 14080,
+      "product_name": "Govee Outdoor Classic Wall Light",
       "software_version": 1,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "IAQM-THC2PV-W",
-      "software_version": 2,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5540,
-      "vendor_name": "Mikrotik"
+      "product_id": 14352,
+      "product_name": "Govee Outdoor Laser Light",
+      "software_version": 1,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "IAQM-THC2PV-G",
-      "software_version": 2,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5540,
-      "vendor_name": "Mikrotik"
+      "product_id": 257,
+      "product_name": "Cabinet Lights",
+      "software_version": 780034015,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 5187,
+      "vendor_name": "Goods iQ"
     },
     {
       "certification_type": "matter",
-      "product_id": 3,
-      "product_name": "IAQM-THC2P-W",
-      "software_version": 2,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5540,
-      "vendor_name": "Mikrotik"
+      "product_id": 5038,
+      "product_name": "Smart connect led strip 10m rgbcct ic",
+      "software_version": 5,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 5394,
+      "vendor_name": "Yourlite"
     },
     {
       "certification_type": "matter",
-      "product_id": 4,
-      "product_name": "IAQM-THC2P-G",
-      "software_version": 2,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5540,
-      "vendor_name": "Mikrotik"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5,
-      "product_name": "IAQM-THC2V-W",
-      "software_version": 2,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5540,
-      "vendor_name": "Mikrotik"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6,
-      "product_name": "IAQM-THC2V-G",
-      "software_version": 2,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5540,
-      "vendor_name": "Mikrotik"
+      "product_id": 5118,
+      "product_name": "Lighto CCT Smart LED Light",
+      "software_version": 5,
+      "timestamp": "2026-09-03T11:57:54+00:00",
+      "vendor_id": 5818,
+      "vendor_name": "Lampgoedkoop"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5838,
-      "vendor_name": "Ningbo Yinzhou Sixin Import & Export Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-02T11:58:11+00:00",
-      "vendor_id": 5839,
-      "vendor_name": "Shenzhen Rti-Tek Co., Ltd."
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
