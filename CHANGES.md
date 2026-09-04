@@ -1,39 +1,52 @@
 # matter-db sync diff
 
-Comparing **run 105** (`2026-09-02T11:58:11+00:00`) to **run 106** (`2026-09-03T11:57:54+00:00`).
+Comparing **run 106** (`2026-09-03T11:57:54+00:00`) to **run 107** (`2026-09-04T11:59:29+00:00`).
 
-**Summary:** +11 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +85 products, ~0 updated, +1 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 11 |
+| new products | 85 |
 | updated products | 0 |
-| new vendors | 0 |
+| new vendors | 1 |
 | stale vendors | 0 |
 
-## New products (11)
+## New products (85)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Amazon Basics | Smart Switch | 202702041 | matter | 2026-09-03T11:57:54+00:00 |
-| Amazon Basics | Smart Dimmer | 202702041 | matter | 2026-09-03T11:57:54+00:00 |
-| Amazon Basics | Smart Switch | 202702041 | matter | 2026-09-03T11:57:54+00:00 |
-| Amazon Basics | Smart Switch | 202702041 | matter | 2026-09-03T11:57:54+00:00 |
-| Amazon Basics | Smart Dimmer | 202702041 | matter | 2026-09-03T11:57:54+00:00 |
-| Govee | Govee Outdoor TriBeam Spotlights | 1 | matter | 2026-09-03T11:57:54+00:00 |
-| Govee | Govee Outdoor Classic Wall Light | 1 | matter | 2026-09-03T11:57:54+00:00 |
-| Govee | Govee Outdoor Laser Light | 1 | matter | 2026-09-03T11:57:54+00:00 |
-| Goods iQ | Cabinet Lights | 780034015 | matter | 2026-09-03T11:57:54+00:00 |
-| Yourlite | Smart connect led strip 10m rgbcct ic | 5 | matter | 2026-09-03T11:57:54+00:00 |
-| Lampgoedkoop | Lighto CCT Smart LED Light | 5 | matter | 2026-09-03T11:57:54+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Dyson | Spot+Scrub UV robot vacuum | 1001 | matter | 2026-09-04T11:59:29+00:00 |
+| Feit Electric | LIFX Neon | 262344 | matter | 2026-09-04T11:59:29+00:00 |
+| Feit Electric | LIFX Neon | 262344 | matter | 2026-09-04T11:59:29+00:00 |
+| Feit Electric | LIFX Lightstrip US | 262344 | matter | 2026-09-04T11:59:29+00:00 |
+
+_…and 65 more (showing first 20)._
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (0)
+## New vendors (1)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5840 | WIFLY-CITY SYSTEM INC. | 2026-09-04T11:59:29+00:00 |
 
 ## Stale vendors (0)
 
