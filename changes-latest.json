@@ -1,39 +1,38 @@
 {
-  "earlier_run_id": 107,
-  "earlier_started_at": "2026-09-04T11:59:29+00:00",
-  "later_run_id": 108,
-  "later_started_at": "2026-09-05T11:08:57+00:00",
+  "earlier_run_id": 108,
+  "earlier_started_at": "2026-09-05T11:08:57+00:00",
+  "later_run_id": 109,
+  "later_started_at": "2026-09-06T11:32:06+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 258,
-      "product_name": "MT-CCT",
-      "software_version": 82,
-      "timestamp": "2026-09-05T11:08:57+00:00",
-      "vendor_id": 4644,
-      "vendor_name": "Sunricher"
+      "product_id": 34,
+      "product_name": "Smart strip light RGB 24V",
+      "software_version": 1,
+      "timestamp": "2026-09-06T11:32:06+00:00",
+      "vendor_id": 5792,
+      "vendor_name": "Welzo Times Limited"
     },
     {
       "certification_type": "matter",
-      "product_id": 8450,
-      "product_name": "Battery-powered RF Motors (BF Series)",
+      "product_id": 35,
+      "product_name": "Smart strip light RGBW 24V",
       "software_version": 1,
-      "timestamp": "2026-09-05T11:08:57+00:00",
-      "vendor_id": 5404,
-      "vendor_name": "Schoenberger"
-    }
-  ],
-  "new_vendors": [
+      "timestamp": "2026-09-06T11:32:06+00:00",
+      "vendor_id": 5792,
+      "vendor_name": "Welzo Times Limited"
+    },
     {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-05T11:08:57+00:00",
-      "vendor_id": 5841,
-      "vendor_name": "RESIDENCE SUPPLY S CORP"
+      "certification_type": "matter",
+      "product_id": 54,
+      "product_name": "Permanent Outdoor Light RGBCW",
+      "software_version": 1,
+      "timestamp": "2026-09-06T11:32:06+00:00",
+      "vendor_id": 5792,
+      "vendor_name": "Welzo Times Limited"
     }
   ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }

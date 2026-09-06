@@ -1,32 +1,31 @@
 # matter-db sync diff
 
-Comparing **run 107** (`2026-09-04T11:59:29+00:00`) to **run 108** (`2026-09-05T11:08:57+00:00`).
+Comparing **run 108** (`2026-09-05T11:08:57+00:00`) to **run 109** (`2026-09-06T11:32:06+00:00`).
 
-**Summary:** +2 products, ~0 updated, +1 vendors, ~0 stale
+**Summary:** +3 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 2 |
+| new products | 3 |
 | updated products | 0 |
-| new vendors | 1 |
+| new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (2)
+## New products (3)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Sunricher | MT-CCT | 82 | matter | 2026-09-05T11:08:57+00:00 |
-| Schoenberger | Battery-powered RF Motors (BF Series) | 1 | matter | 2026-09-05T11:08:57+00:00 |
+| Welzo Times Limited | Smart strip light RGB 24V | 1 | matter | 2026-09-06T11:32:06+00:00 |
+| Welzo Times Limited | Smart strip light RGBW 24V | 1 | matter | 2026-09-06T11:32:06+00:00 |
+| Welzo Times Limited | Permanent Outdoor Light RGBCW | 1 | matter | 2026-09-06T11:32:06+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (1)
+## New vendors (0)
 
-| vendor_id | vendor | timestamp |
-|---:|---|---|
-| 5841 | RESIDENCE SUPPLY S CORP | 2026-09-05T11:08:57+00:00 |
+_None._
 
 ## Stale vendors (0)
 
