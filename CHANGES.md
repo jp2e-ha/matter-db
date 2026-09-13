@@ -1,23 +1,19 @@
 # matter-db sync diff
 
-Comparing **run 114** (`2026-09-11T12:03:04+00:00`) to **run 115** (`2026-09-12T11:29:54+00:00`).
+Comparing **run 115** (`2026-09-12T11:29:54+00:00`) to **run 116** (`2026-09-13T12:33:55+00:00`).
 
-**Summary:** +3 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +0 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 3 |
+| new products | 0 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (3)
+## New products (0)
 
-| vendor | product | sw_version | cert_type | timestamp |
-|---|---|---:|---|---|
-| Harbor Breeze | Fan Light | 1 | matter | 2026-09-12T11:29:54+00:00 |
-| Harbor Breeze | Fan Light | 1 | matter | 2026-09-12T11:29:54+00:00 |
-| Harbor Breeze | Fan Light | 1 | matter | 2026-09-12T11:29:54+00:00 |
+_None._
 
 ## Updated products (0)
 

@@ -1,37 +1,9 @@
 {
-  "earlier_run_id": 114,
-  "earlier_started_at": "2026-09-11T12:03:04+00:00",
-  "later_run_id": 115,
-  "later_started_at": "2026-09-12T11:29:54+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 5377,
-      "product_name": "Fan Light",
-      "software_version": 1,
-      "timestamp": "2026-09-12T11:29:54+00:00",
-      "vendor_id": 5770,
-      "vendor_name": "Harbor Breeze"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5633,
-      "product_name": "Fan Light",
-      "software_version": 1,
-      "timestamp": "2026-09-12T11:29:54+00:00",
-      "vendor_id": 5770,
-      "vendor_name": "Harbor Breeze"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5634,
-      "product_name": "Fan Light",
-      "software_version": 1,
-      "timestamp": "2026-09-12T11:29:54+00:00",
-      "vendor_id": 5770,
-      "vendor_name": "Harbor Breeze"
-    }
-  ],
+  "earlier_run_id": 115,
+  "earlier_started_at": "2026-09-12T11:29:54+00:00",
+  "later_run_id": 116,
+  "later_started_at": "2026-09-13T12:33:55+00:00",
+  "new_products": [],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
