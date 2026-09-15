@@ -1,47 +1,48 @@
 {
-  "earlier_run_id": 116,
-  "earlier_started_at": "2026-09-13T12:33:55+00:00",
-  "later_run_id": 117,
-  "later_started_at": "2026-09-14T13:41:49+00:00",
+  "earlier_run_id": 117,
+  "earlier_started_at": "2026-09-14T13:41:49+00:00",
+  "later_run_id": 118,
+  "later_started_at": "2026-09-15T12:29:14+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4275,
-      "product_name": "Linkind Smart Ceiling Light",
-      "software_version": 1,
-      "timestamp": "2026-09-14T13:41:49+00:00",
-      "vendor_id": 5014,
-      "vendor_name": "AiDot"
+      "product_id": 79,
+      "product_name": null,
+      "software_version": 10,
+      "timestamp": "2026-09-15T12:29:14+00:00",
+      "vendor_id": 4442,
+      "vendor_name": "Nanoleaf"
     },
     {
       "certification_type": "matter",
-      "product_id": 34685,
-      "product_name": "Flow",
-      "software_version": 65795,
-      "timestamp": "2026-09-14T13:41:49+00:00",
-      "vendor_id": 5625,
-      "vendor_name": "Narwal"
+      "product_id": 1012,
+      "product_name": null,
+      "software_version": 132352,
+      "timestamp": "2026-09-15T12:29:14+00:00",
+      "vendor_id": 4932,
+      "vendor_name": "Eltako"
     },
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "Matter Blind Motor - 1.1Nm",
-      "software_version": 1,
-      "timestamp": "2026-09-14T13:41:49+00:00",
-      "vendor_id": 5665,
-      "vendor_name": "Ellard Limited"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "M-Hub Matter Bridge",
-      "software_version": 1,
-      "timestamp": "2026-09-14T13:41:49+00:00",
-      "vendor_id": 5665,
-      "vendor_name": "Ellard Limited"
+      "product_id": 1055,
+      "product_name": null,
+      "software_version": 132352,
+      "timestamp": "2026-09-15T12:29:14+00:00",
+      "vendor_id": 4932,
+      "vendor_name": "Eltako"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-15T12:29:14+00:00",
+      "vendor_id": 5848,
+      "vendor_name": "QROMA AG"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
