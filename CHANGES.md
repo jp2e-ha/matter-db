@@ -1,33 +1,36 @@
 # matter-db sync diff
 
-Comparing **run 117** (`2026-09-14T13:41:49+00:00`) to **run 118** (`2026-09-15T12:29:14+00:00`).
+Comparing **run 118** (`2026-09-15T12:29:14+00:00`) to **run 119** (`2026-09-16T12:26:56+00:00`).
 
-**Summary:** +3 products, ~0 updated, +1 vendors, ~0 stale
+**Summary:** +3 products, ~0 updated, +4 vendors, ~0 stale
 
 | change | count |
 |---|---:|
 | new products | 3 |
 | updated products | 0 |
-| new vendors | 1 |
+| new vendors | 4 |
 | stale vendors | 0 |
 
 ## New products (3)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Nanoleaf | 4442/79 | 10 | matter | 2026-09-15T12:29:14+00:00 |
-| Eltako | 4932/1012 | 132352 | matter | 2026-09-15T12:29:14+00:00 |
-| Eltako | 4932/1055 | 132352 | matter | 2026-09-15T12:29:14+00:00 |
+| Nice S.P.A. | Luvra | 103 | matter | 2026-09-16T12:26:56+00:00 |
+| Nice S.P.A. | Rullo AC | 103 | matter | 2026-09-16T12:26:56+00:00 |
+| Nice S.P.A. | Rullo AC | 103 | matter | 2026-09-16T12:26:56+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (1)
+## New vendors (4)
 
 | vendor_id | vendor | timestamp |
 |---:|---|---|
-| 5848 | QROMA AG | 2026-09-15T12:29:14+00:00 |
+| 5545 | Paulo Chainho | 2026-09-16T12:26:56+00:00 |
+| 5849 | Zhejiang Dahua Technology Co., Ltd. | 2026-09-16T12:26:56+00:00 |
+| 5850 | Dongguan Zornher Electronic Technology Co. Ltd | 2026-09-16T12:26:56+00:00 |
+| 5851 | Domus Line S.r.l. | 2026-09-16T12:26:56+00:00 |
 
 ## Stale vendors (0)
 

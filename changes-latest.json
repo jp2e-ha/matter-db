@@ -1,35 +1,35 @@
 {
-  "earlier_run_id": 117,
-  "earlier_started_at": "2026-09-14T13:41:49+00:00",
-  "later_run_id": 118,
-  "later_started_at": "2026-09-15T12:29:14+00:00",
+  "earlier_run_id": 118,
+  "earlier_started_at": "2026-09-15T12:29:14+00:00",
+  "later_run_id": 119,
+  "later_started_at": "2026-09-16T12:26:56+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 79,
-      "product_name": null,
-      "software_version": 10,
-      "timestamp": "2026-09-15T12:29:14+00:00",
-      "vendor_id": 4442,
-      "vendor_name": "Nanoleaf"
+      "product_id": 16,
+      "product_name": "Luvra",
+      "software_version": 103,
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5756,
+      "vendor_name": "Nice S.P.A."
     },
     {
       "certification_type": "matter",
-      "product_id": 1012,
-      "product_name": null,
-      "software_version": 132352,
-      "timestamp": "2026-09-15T12:29:14+00:00",
-      "vendor_id": 4932,
-      "vendor_name": "Eltako"
+      "product_id": 17,
+      "product_name": "Rullo AC",
+      "software_version": 103,
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5756,
+      "vendor_name": "Nice S.P.A."
     },
     {
       "certification_type": "matter",
-      "product_id": 1055,
-      "product_name": null,
-      "software_version": 132352,
-      "timestamp": "2026-09-15T12:29:14+00:00",
-      "vendor_id": 4932,
-      "vendor_name": "Eltako"
+      "product_id": 18,
+      "product_name": "Rullo AC",
+      "software_version": 103,
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5756,
+      "vendor_name": "Nice S.P.A."
     }
   ],
   "new_vendors": [
@@ -38,9 +38,36 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-09-15T12:29:14+00:00",
-      "vendor_id": 5848,
-      "vendor_name": "QROMA AG"
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5545,
+      "vendor_name": "Paulo Chainho"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5849,
+      "vendor_name": "Zhejiang Dahua Technology Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5850,
+      "vendor_name": "Dongguan Zornher Electronic Technology Co. Ltd"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-16T12:26:56+00:00",
+      "vendor_id": 5851,
+      "vendor_name": "Domus Line S.r.l."
     }
   ],
   "stale_vendors": [],
