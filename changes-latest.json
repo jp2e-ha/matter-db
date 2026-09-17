@@ -1,75 +1,20 @@
 {
-  "earlier_run_id": 118,
-  "earlier_started_at": "2026-09-15T12:29:14+00:00",
-  "later_run_id": 119,
-  "later_started_at": "2026-09-16T12:26:56+00:00",
+  "earlier_run_id": 119,
+  "earlier_started_at": "2026-09-16T12:26:56+00:00",
+  "later_run_id": 120,
+  "later_started_at": "2026-09-17T12:26:33+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 16,
-      "product_name": "Luvra",
-      "software_version": 103,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5756,
-      "vendor_name": "Nice S.P.A."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 17,
-      "product_name": "Rullo AC",
-      "software_version": 103,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5756,
-      "vendor_name": "Nice S.P.A."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 18,
-      "product_name": "Rullo AC",
-      "software_version": 103,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5756,
-      "vendor_name": "Nice S.P.A."
+      "product_id": 302,
+      "product_name": "Smart Plug",
+      "software_version": 1,
+      "timestamp": "2026-09-17T12:26:33+00:00",
+      "vendor_id": 4897,
+      "vendor_name": "SONOFF"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5545,
-      "vendor_name": "Paulo Chainho"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5849,
-      "vendor_name": "Zhejiang Dahua Technology Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5850,
-      "vendor_name": "Dongguan Zornher Electronic Technology Co. Ltd"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-16T12:26:56+00:00",
-      "vendor_id": 5851,
-      "vendor_name": "Domus Line S.r.l."
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
