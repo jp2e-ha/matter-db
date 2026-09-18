@@ -1,21 +1,32 @@
 # matter-db sync diff
 
-Comparing **run 119** (`2026-09-16T12:26:56+00:00`) to **run 120** (`2026-09-17T12:26:33+00:00`).
+Comparing **run 120** (`2026-09-17T12:26:33+00:00`) to **run 121** (`2026-09-18T12:05:30+00:00`).
 
-**Summary:** +1 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +12 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 1 |
+| new products | 12 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (1)
+## New products (12)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| SONOFF | Smart Plug | 1 | matter | 2026-09-17T12:26:33+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
+| Tuya | Wi-Fi Light Switch | 1500 | matter | 2026-09-18T12:05:30+00:00 |
 
 ## Updated products (0)
 

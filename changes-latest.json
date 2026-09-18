@@ -1,17 +1,116 @@
 {
-  "earlier_run_id": 119,
-  "earlier_started_at": "2026-09-16T12:26:56+00:00",
-  "later_run_id": 120,
-  "later_started_at": "2026-09-17T12:26:33+00:00",
+  "earlier_run_id": 120,
+  "earlier_started_at": "2026-09-17T12:26:33+00:00",
+  "later_run_id": 121,
+  "later_started_at": "2026-09-18T12:05:30+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 302,
-      "product_name": "Smart Plug",
-      "software_version": 1,
-      "timestamp": "2026-09-17T12:26:33+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "product_id": 3603,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3604,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3605,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3606,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3607,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3608,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3609,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3610,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3611,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3612,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3613,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3614,
+      "product_name": "Wi-Fi Light Switch",
+      "software_version": 1500,
+      "timestamp": "2026-09-18T12:05:30+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
     }
   ],
   "new_vendors": [],
