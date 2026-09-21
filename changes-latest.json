@@ -1,17 +1,71 @@
 {
-  "earlier_run_id": 122,
-  "earlier_started_at": "2026-09-19T11:48:18+00:00",
-  "later_run_id": 123,
-  "later_started_at": "2026-09-20T12:03:09+00:00",
+  "earlier_run_id": 123,
+  "earlier_started_at": "2026-09-20T12:03:09+00:00",
+  "later_run_id": 124,
+  "later_started_at": "2026-09-21T13:40:53+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 251,
-      "product_name": "Power Meter Switch",
+      "product_id": 1,
+      "product_name": "TQ1 Smart Thermostat",
+      "software_version": 168034304,
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4614,
+      "vendor_name": "EME Americas"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "TQ1 Smart Thermostat",
+      "software_version": 168034304,
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4614,
+      "vendor_name": "EME Americas"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3,
+      "product_name": "TQ1 Smart Thermostat",
+      "software_version": 168034304,
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4614,
+      "vendor_name": "EME Americas"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4,
+      "product_name": "TQ1 Smart Thermostat",
+      "software_version": 168034304,
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4614,
+      "vendor_name": "EME Americas"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 17,
+      "product_name": "TQX Smart Thermostat",
+      "software_version": 168034304,
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4614,
+      "vendor_name": "EME Americas"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 340,
+      "product_name": "Human Presence Sensor",
       "software_version": 1,
-      "timestamp": "2026-09-20T12:03:09+00:00",
-      "vendor_id": 4897,
-      "vendor_name": "SONOFF"
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 344,
+      "product_name": "Human Presence Sensor",
+      "software_version": 1,
+      "timestamp": "2026-09-21T13:40:53+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     }
   ],
   "new_vendors": [],
