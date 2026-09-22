@@ -1,71 +1,143 @@
 {
-  "earlier_run_id": 123,
-  "earlier_started_at": "2026-09-20T12:03:09+00:00",
-  "later_run_id": 124,
-  "later_started_at": "2026-09-21T13:40:53+00:00",
+  "earlier_run_id": 124,
+  "earlier_started_at": "2026-09-21T13:40:53+00:00",
+  "later_run_id": 125,
+  "later_started_at": "2026-09-22T12:24:00+00:00",
   "new_products": [
     {
       "certification_type": "matter",
+      "product_id": 4096,
+      "product_name": "GRILLPLATS plug",
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4098,
+      "product_name": "TOFSMYGGA plug black/outdoor",
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4099,
+      "product_name": null,
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4100,
+      "product_name": null,
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4101,
+      "product_name": null,
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4102,
+      "product_name": null,
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4103,
+      "product_name": null,
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4104,
+      "product_name": null,
+      "software_version": 17039372,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5065,
+      "product_name": null,
+      "software_version": 1500,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5452,
+      "vendor_name": "VIZO Technology Corp."
+    },
+    {
+      "certification_type": "matter",
       "product_id": 1,
-      "product_name": "TQ1 Smart Thermostat",
-      "software_version": 168034304,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4614,
-      "vendor_name": "EME Americas"
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5795,
+      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
     },
     {
       "certification_type": "matter",
       "product_id": 2,
-      "product_name": "TQ1 Smart Thermostat",
-      "software_version": 168034304,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4614,
-      "vendor_name": "EME Americas"
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5795,
+      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
     },
     {
       "certification_type": "matter",
       "product_id": 3,
-      "product_name": "TQ1 Smart Thermostat",
-      "software_version": 168034304,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4614,
-      "vendor_name": "EME Americas"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4,
-      "product_name": "TQ1 Smart Thermostat",
-      "software_version": 168034304,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4614,
-      "vendor_name": "EME Americas"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 17,
-      "product_name": "TQX Smart Thermostat",
-      "software_version": 168034304,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4614,
-      "vendor_name": "EME Americas"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 340,
-      "product_name": "Human Presence Sensor",
+      "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5795,
+      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
     },
     {
       "certification_type": "matter",
-      "product_id": 344,
-      "product_name": "Human Presence Sensor",
+      "product_id": 81,
+      "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-09-21T13:40:53+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5795,
+      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 82,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5795,
+      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 83,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-09-22T12:24:00+00:00",
+      "vendor_id": 5795,
+      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
     }
   ],
   "new_vendors": [],
