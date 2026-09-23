@@ -1,146 +1,93 @@
 {
-  "earlier_run_id": 124,
-  "earlier_started_at": "2026-09-21T13:40:53+00:00",
-  "later_run_id": 125,
-  "later_started_at": "2026-09-22T12:24:00+00:00",
+  "earlier_run_id": 125,
+  "earlier_started_at": "2026-09-22T12:24:00+00:00",
+  "later_run_id": 126,
+  "later_started_at": "2026-09-23T12:35:28+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4096,
-      "product_name": "GRILLPLATS plug",
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4098,
-      "product_name": "TOFSMYGGA plug black/outdoor",
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4099,
+      "product_id": 12304,
       "product_name": null,
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "software_version": 30,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 4100,
+      "product_id": 12305,
       "product_name": null,
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "software_version": 30,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 4101,
+      "product_id": 12306,
       "product_name": null,
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "software_version": 30,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 4102,
+      "product_id": 12307,
       "product_name": null,
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "software_version": 30,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 13138,
+      "product_name": null,
+      "software_version": 30,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4357,
+      "product_name": "Home Blind Wi-Fi",
+      "software_version": 33620160,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 5428,
+      "vendor_name": "WAGO"
     },
     {
       "certification_type": "matter",
       "product_id": 4103,
-      "product_name": null,
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
+      "product_name": "Tower Fan",
+      "software_version": 100,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 5672,
+      "vendor_name": "DREO"
     },
     {
       "certification_type": "matter",
-      "product_id": 4104,
-      "product_name": null,
-      "software_version": 17039372,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5065,
-      "product_name": null,
-      "software_version": 1500,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5452,
-      "vendor_name": "VIZO Technology Corp."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5795,
-      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5795,
-      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 3,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5795,
-      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 81,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5795,
-      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 82,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5795,
-      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 83,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-09-22T12:24:00+00:00",
-      "vendor_id": 5795,
-      "vendor_name": "ELEKTRA Industrial China Co., Ltd."
+      "product_id": 4368,
+      "product_name": "Tower Fan",
+      "software_version": 100,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 5672,
+      "vendor_name": "DREO"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-23T12:35:28+00:00",
+      "vendor_id": 5852,
+      "vendor_name": "Hangzhou Meari Technology Co., Ltd."
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
