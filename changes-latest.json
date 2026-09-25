@@ -1,269 +1,71 @@
 {
-  "earlier_run_id": 126,
-  "earlier_started_at": "2026-09-23T12:35:28+00:00",
-  "later_run_id": 127,
-  "later_started_at": "2026-09-24T12:34:08+00:00",
+  "earlier_run_id": 127,
+  "earlier_started_at": "2026-09-24T12:34:08+00:00",
+  "later_run_id": 128,
+  "later_started_at": "2026-09-25T12:35:28+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 24,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
+      "product_id": 512,
+      "product_name": "Smart Bulb Pro A19",
+      "software_version": 202610201,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 4631,
+      "vendor_name": "Alexa Elements"
     },
     {
       "certification_type": "matter",
-      "product_id": 8141,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8142,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8143,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8144,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8145,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8146,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8147,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8148,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8149,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8150,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8151,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8152,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8153,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8154,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8155,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8156,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8157,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8158,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8159,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8160,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8161,
-      "product_name": "HushJet Cool Pure Formaldehyde",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8162,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8163,
-      "product_name": "HushJet Cool Pure Ioniser+UV",
-      "software_version": 4096,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5022,
-      "vendor_name": "Dyson"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 42,
+      "product_id": 513,
       "product_name": null,
-      "software_version": 100010100,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5125,
-      "vendor_name": "Ecovacs"
+      "software_version": 202709301,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 4631,
+      "vendor_name": "Alexa Elements"
     },
     {
       "certification_type": "matter",
-      "product_id": 43,
+      "product_id": 514,
       "product_name": null,
-      "software_version": 100010100,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5125,
-      "vendor_name": "Ecovacs"
+      "software_version": 202709301,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 4631,
+      "vendor_name": "Alexa Elements"
     },
     {
       "certification_type": "matter",
-      "product_id": 51,
+      "product_id": 1,
+      "product_name": "Xeenos Go Aktor Jalousie UP",
+      "software_version": 101030,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 4923,
+      "vendor_name": "WAREMA Renkhoff SE"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "Xeenos Go Aktor Rollladen UP",
+      "software_version": 101030,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 4923,
+      "vendor_name": "WAREMA Renkhoff SE"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4369,
+      "product_name": "Smart Privacy",
+      "software_version": 11,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 5186,
+      "vendor_name": "REHAU"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5106,
       "product_name": null,
-      "software_version": 100010100,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5125,
-      "vendor_name": "Ecovacs"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 40961,
-      "product_name": "Yanmi Plug with Matter",
-      "software_version": 2,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5790,
-      "vendor_name": "Shenzhen Yanmi Technology Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 13,
-      "product_name": "Nest Learning Thermostat 4th gen",
-      "software_version": 2400,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 24582,
-      "vendor_name": "Google LLC"
+      "software_version": 5,
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 5808,
+      "vendor_name": "ZHEJIANG LEPENG ELECTRIC CO LTD"
     }
   ],
   "new_vendors": [
@@ -272,9 +74,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-09-24T12:34:08+00:00",
-      "vendor_id": 5853,
-      "vendor_name": "P.I.E. Intel Sp. z o.o."
+      "timestamp": "2026-09-25T12:35:28+00:00",
+      "vendor_id": 5854,
+      "vendor_name": "Hangzhou Key to the Future Technology Co., Ltd."
     }
   ],
   "stale_vendors": [],
