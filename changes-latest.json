@@ -1,84 +1,10 @@
 {
-  "earlier_run_id": 127,
-  "earlier_started_at": "2026-09-24T12:34:08+00:00",
-  "later_run_id": 128,
-  "later_started_at": "2026-09-25T12:35:28+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 512,
-      "product_name": "Smart Bulb Pro A19",
-      "software_version": 202610201,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 4631,
-      "vendor_name": "Alexa Elements"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 513,
-      "product_name": null,
-      "software_version": 202709301,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 4631,
-      "vendor_name": "Alexa Elements"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 514,
-      "product_name": null,
-      "software_version": 202709301,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 4631,
-      "vendor_name": "Alexa Elements"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "Xeenos Go Aktor Jalousie UP",
-      "software_version": 101030,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 4923,
-      "vendor_name": "WAREMA Renkhoff SE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "Xeenos Go Aktor Rollladen UP",
-      "software_version": 101030,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 4923,
-      "vendor_name": "WAREMA Renkhoff SE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4369,
-      "product_name": "Smart Privacy",
-      "software_version": 11,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 5186,
-      "vendor_name": "REHAU"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5106,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 5808,
-      "vendor_name": "ZHEJIANG LEPENG ELECTRIC CO LTD"
-    }
-  ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-25T12:35:28+00:00",
-      "vendor_id": 5854,
-      "vendor_name": "Hangzhou Key to the Future Technology Co., Ltd."
-    }
-  ],
+  "earlier_run_id": 128,
+  "earlier_started_at": "2026-09-25T12:35:28+00:00",
+  "later_run_id": 129,
+  "later_started_at": "2026-09-26T12:04:36+00:00",
+  "new_products": [],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
