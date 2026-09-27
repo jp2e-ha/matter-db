@@ -1,6 +1,6 @@
 # matter-db sync diff
 
-Comparing **run 128** (`2026-09-25T12:35:28+00:00`) to **run 129** (`2026-09-26T12:04:36+00:00`).
+Comparing **run 129** (`2026-09-26T12:04:36+00:00`) to **run 130** (`2026-09-27T12:49:21+00:00`).
 
 **Summary:** +0 products, ~0 updated, +0 vendors, ~0 stale
 
