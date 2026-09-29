@@ -1,10 +1,66 @@
 {
-  "earlier_run_id": 130,
-  "earlier_started_at": "2026-09-27T12:49:21+00:00",
-  "later_run_id": 131,
-  "later_started_at": "2026-09-28T14:59:46+00:00",
-  "new_products": [],
-  "new_vendors": [],
+  "earlier_run_id": 131,
+  "earlier_started_at": "2026-09-28T14:59:46+00:00",
+  "later_run_id": 132,
+  "later_started_at": "2026-09-29T13:47:28+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 44939,
+      "product_name": null,
+      "software_version": 3,
+      "timestamp": "2026-09-29T13:47:28+00:00",
+      "vendor_id": 5157,
+      "vendor_name": "Hangzhou BroadLink Technology Co., Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 38,
+      "product_name": null,
+      "software_version": 10040000,
+      "timestamp": "2026-09-29T13:47:28+00:00",
+      "vendor_id": 5465,
+      "vendor_name": "tink GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 227,
+      "product_name": "Comet Matter",
+      "software_version": 10040000,
+      "timestamp": "2026-09-29T13:47:28+00:00",
+      "vendor_id": 5489,
+      "vendor_name": "Eurotronic Technology GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": null,
+      "software_version": 10,
+      "timestamp": "2026-09-29T13:47:28+00:00",
+      "vendor_id": 5777,
+      "vendor_name": "Wessel-Licht f\u00fcr M\u00f6bel GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": null,
+      "software_version": 10,
+      "timestamp": "2026-09-29T13:47:28+00:00",
+      "vendor_id": 5777,
+      "vendor_name": "Wessel-Licht f\u00fcr M\u00f6bel GmbH"
+    }
+  ],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-09-29T13:47:28+00:00",
+      "vendor_id": 5855,
+      "vendor_name": "Pura Scents, Inc."
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
