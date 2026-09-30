@@ -1,66 +1,56 @@
 {
-  "earlier_run_id": 131,
-  "earlier_started_at": "2026-09-28T14:59:46+00:00",
-  "later_run_id": 132,
-  "later_started_at": "2026-09-29T13:47:28+00:00",
+  "earlier_run_id": 132,
+  "earlier_started_at": "2026-09-29T13:47:28+00:00",
+  "later_run_id": 133,
+  "later_started_at": "2026-09-30T13:21:56+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 44939,
-      "product_name": null,
-      "software_version": 3,
-      "timestamp": "2026-09-29T13:47:28+00:00",
-      "vendor_id": 5157,
-      "vendor_name": "Hangzhou BroadLink Technology Co., Ltd."
+      "product_id": 14363,
+      "product_name": "Blind Tilt Controller C100",
+      "software_version": 1000,
+      "timestamp": "2026-09-30T13:21:56+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
     },
     {
       "certification_type": "matter",
-      "product_id": 38,
-      "product_name": null,
-      "software_version": 10040000,
-      "timestamp": "2026-09-29T13:47:28+00:00",
-      "vendor_id": 5465,
-      "vendor_name": "tink GmbH"
+      "product_id": 85,
+      "product_name": "Dual Socket Smart Plug",
+      "software_version": 103102,
+      "timestamp": "2026-09-30T13:21:56+00:00",
+      "vendor_id": 4921,
+      "vendor_name": "GE Lighting, a Savant company"
     },
     {
       "certification_type": "matter",
-      "product_id": 227,
-      "product_name": "Comet Matter",
-      "software_version": 10040000,
-      "timestamp": "2026-09-29T13:47:28+00:00",
-      "vendor_id": 5489,
-      "vendor_name": "Eurotronic Technology GmbH"
+      "product_id": 111,
+      "product_name": "Cync Outdoor Plug",
+      "software_version": 103102,
+      "timestamp": "2026-09-30T13:21:56+00:00",
+      "vendor_id": 4921,
+      "vendor_name": "GE Lighting, a Savant company"
     },
     {
       "certification_type": "matter",
       "product_id": 1,
-      "product_name": null,
-      "software_version": 10,
-      "timestamp": "2026-09-29T13:47:28+00:00",
-      "vendor_id": 5777,
-      "vendor_name": "Wessel-Licht f\u00fcr M\u00f6bel GmbH"
+      "product_name": "Le Bridge 14BW",
+      "software_version": 1,
+      "timestamp": "2026-09-30T13:21:56+00:00",
+      "vendor_id": 5235,
+      "vendor_name": "Shenzhen Lelight technology Co.ltd"
     },
     {
       "certification_type": "matter",
-      "product_id": 2,
-      "product_name": null,
-      "software_version": 10,
-      "timestamp": "2026-09-29T13:47:28+00:00",
-      "vendor_id": 5777,
-      "vendor_name": "Wessel-Licht f\u00fcr M\u00f6bel GmbH"
+      "product_id": 267,
+      "product_name": "Gouly Home Controller",
+      "software_version": 1,
+      "timestamp": "2026-09-30T13:21:56+00:00",
+      "vendor_id": 5796,
+      "vendor_name": "GOULY LED LIMITED"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-09-29T13:47:28+00:00",
-      "vendor_id": 5855,
-      "vendor_name": "Pura Scents, Inc."
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
