@@ -1,56 +1,75 @@
 {
-  "earlier_run_id": 132,
-  "earlier_started_at": "2026-09-29T13:47:28+00:00",
-  "later_run_id": 133,
-  "later_started_at": "2026-09-30T13:21:56+00:00",
+  "earlier_run_id": 133,
+  "earlier_started_at": "2026-09-30T13:21:56+00:00",
+  "later_run_id": 134,
+  "later_started_at": "2026-10-01T14:15:50+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 14363,
-      "product_name": "Blind Tilt Controller C100",
-      "software_version": 1000,
-      "timestamp": "2026-09-30T13:21:56+00:00",
-      "vendor_id": 4447,
-      "vendor_name": "Aqara"
+      "product_id": 1767,
+      "product_name": "Carrier Smart Thermostat Advanced",
+      "software_version": 115802376,
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 4334,
+      "vendor_name": "UEI"
     },
     {
       "certification_type": "matter",
-      "product_id": 85,
-      "product_name": "Dual Socket Smart Plug",
-      "software_version": 103102,
-      "timestamp": "2026-09-30T13:21:56+00:00",
-      "vendor_id": 4921,
-      "vendor_name": "GE Lighting, a Savant company"
+      "product_id": 61441,
+      "product_name": "OSRAM MATTER CLASSIC A 60W",
+      "software_version": 202607131,
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 4489,
+      "vendor_name": "LEDVANCE"
     },
     {
       "certification_type": "matter",
-      "product_id": 111,
-      "product_name": "Cync Outdoor Plug",
-      "software_version": 103102,
-      "timestamp": "2026-09-30T13:21:56+00:00",
-      "vendor_id": 4921,
-      "vendor_name": "GE Lighting, a Savant company"
+      "product_id": 61442,
+      "product_name": "OSRAM MATTER CLASSIC A 100W",
+      "software_version": 202607131,
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 4489,
+      "vendor_name": "LEDVANCE"
     },
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "Le Bridge 14BW",
+      "product_id": 4097,
+      "product_name": "HITACHI AirHome",
       "software_version": 1,
-      "timestamp": "2026-09-30T13:21:56+00:00",
-      "vendor_id": 5235,
-      "vendor_name": "Shenzhen Lelight technology Co.ltd"
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 4917,
+      "vendor_name": "Dexatek Technology"
     },
     {
       "certification_type": "matter",
-      "product_id": 267,
-      "product_name": "Gouly Home Controller",
-      "software_version": 1,
-      "timestamp": "2026-09-30T13:21:56+00:00",
-      "vendor_id": 5796,
-      "vendor_name": "GOULY LED LIMITED"
+      "product_id": 5804,
+      "product_name": null,
+      "software_version": 1500,
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 5568,
+      "vendor_name": "DIANXIAOKU"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 5856,
+      "vendor_name": "Xiamen Longstar Lighting Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-10-01T14:15:50+00:00",
+      "vendor_id": 5857,
+      "vendor_name": "Mersian"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
