@@ -1,75 +1,20 @@
 {
-  "earlier_run_id": 133,
-  "earlier_started_at": "2026-09-30T13:21:56+00:00",
-  "later_run_id": 134,
-  "later_started_at": "2026-10-01T14:15:50+00:00",
+  "earlier_run_id": 134,
+  "earlier_started_at": "2026-10-01T14:15:50+00:00",
+  "later_run_id": 135,
+  "later_started_at": "2026-10-02T13:37:44+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 1767,
-      "product_name": "Carrier Smart Thermostat Advanced",
-      "software_version": 115802376,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 4334,
-      "vendor_name": "UEI"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61441,
-      "product_name": "OSRAM MATTER CLASSIC A 60W",
-      "software_version": 202607131,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61442,
-      "product_name": "OSRAM MATTER CLASSIC A 100W",
-      "software_version": 202607131,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4097,
-      "product_name": "HITACHI AirHome",
+      "product_id": 36800,
+      "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 4917,
-      "vendor_name": "Dexatek Technology"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5804,
-      "product_name": null,
-      "software_version": 1500,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 5568,
-      "vendor_name": "DIANXIAOKU"
+      "timestamp": "2026-10-02T13:37:44+00:00",
+      "vendor_id": 5725,
+      "vendor_name": "TREY GmbH"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 5856,
-      "vendor_name": "Xiamen Longstar Lighting Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-01T14:15:50+00:00",
-      "vendor_id": 5857,
-      "vendor_name": "Mersian"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
