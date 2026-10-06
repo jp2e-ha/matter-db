@@ -1,10 +1,30 @@
 {
-  "earlier_run_id": 137,
-  "earlier_started_at": "2026-10-04T13:04:22+00:00",
-  "later_run_id": 138,
-  "later_started_at": "2026-10-05T15:36:10+00:00",
-  "new_products": [],
-  "new_vendors": [],
+  "earlier_run_id": 138,
+  "earlier_started_at": "2026-10-05T15:36:10+00:00",
+  "later_run_id": 139,
+  "later_started_at": "2026-10-06T13:58:37+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 20480,
+      "product_name": "LILJEBAGGE radiator thermostat",
+      "software_version": 16842758,
+      "timestamp": "2026-10-06T13:58:37+00:00",
+      "vendor_id": 4476,
+      "vendor_name": "IKEA of Sweden"
+    }
+  ],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-10-06T13:58:37+00:00",
+      "vendor_id": 5858,
+      "vendor_name": "Moduel AB"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
