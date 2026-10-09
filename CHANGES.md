@@ -1,34 +1,32 @@
 # matter-db sync diff
 
-Comparing **run 140** (`2026-10-07T14:14:56+00:00`) to **run 141** (`2026-10-08T14:24:00+00:00`).
+Comparing **run 141** (`2026-10-08T14:24:00+00:00`) to **run 142** (`2026-10-09T14:09:47+00:00`).
 
-**Summary:** +6 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +0 products, ~0 updated, +4 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 6 |
+| new products | 0 |
 | updated products | 0 |
-| new vendors | 0 |
+| new vendors | 4 |
 | stale vendors | 0 |
 
-## New products (6)
+## New products (0)
 
-| vendor | product | sw_version | cert_type | timestamp |
-|---|---|---:|---|---|
-| Trust International BV | 4724/2716 | 2 | matter | 2026-10-08T14:24:00+00:00 |
-| Trust International BV | 4724/2717 | 2 | matter | 2026-10-08T14:24:00+00:00 |
-| Trust International BV | 4724/2718 | 2 | matter | 2026-10-08T14:24:00+00:00 |
-| Ningbo Zhengxin Intelligent Technology Co., Ltd. | Thread Blind | 1 | matter | 2026-10-08T14:24:00+00:00 |
-| Ningbo Zhengxin Intelligent Technology Co., Ltd. | MBox | 1 | matter | 2026-10-08T14:24:00+00:00 |
-| Liniq (Singapore) Pte. Ltd. | 5837/1 | 1 | matter | 2026-10-08T14:24:00+00:00 |
+_None._
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (0)
+## New vendors (4)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5859 | Boer Smart Technology (Wuxi) Co., Ltd. | 2026-10-09T14:09:47+00:00 |
+| 5860 | Beat The Heat Home Window Tinting LLC | 2026-10-09T14:09:47+00:00 |
+| 5861 | Cheil Electric Co., Ltd. | 2026-10-09T14:09:47+00:00 |
+| 5862 | Shenzhen Fine Offset Electronics Co., Ltd. | 2026-10-09T14:09:47+00:00 |
 
 ## Stale vendors (0)
 

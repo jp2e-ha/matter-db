@@ -1,65 +1,47 @@
 {
-  "earlier_run_id": 140,
-  "earlier_started_at": "2026-10-07T14:14:56+00:00",
-  "later_run_id": 141,
-  "later_started_at": "2026-10-08T14:24:00+00:00",
-  "new_products": [
+  "earlier_run_id": 141,
+  "earlier_started_at": "2026-10-08T14:24:00+00:00",
+  "later_run_id": 142,
+  "later_started_at": "2026-10-09T14:09:47+00:00",
+  "new_products": [],
+  "new_vendors": [
     {
-      "certification_type": "matter",
-      "product_id": 2716,
+      "certification_type": null,
+      "product_id": null,
       "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-10-08T14:24:00+00:00",
-      "vendor_id": 4724,
-      "vendor_name": "Trust International BV"
+      "software_version": null,
+      "timestamp": "2026-10-09T14:09:47+00:00",
+      "vendor_id": 5859,
+      "vendor_name": "Boer Smart Technology (Wuxi) Co., Ltd."
     },
     {
-      "certification_type": "matter",
-      "product_id": 2717,
+      "certification_type": null,
+      "product_id": null,
       "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-10-08T14:24:00+00:00",
-      "vendor_id": 4724,
-      "vendor_name": "Trust International BV"
+      "software_version": null,
+      "timestamp": "2026-10-09T14:09:47+00:00",
+      "vendor_id": 5860,
+      "vendor_name": "Beat The Heat Home Window Tinting LLC"
     },
     {
-      "certification_type": "matter",
-      "product_id": 2718,
+      "certification_type": null,
+      "product_id": null,
       "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-10-08T14:24:00+00:00",
-      "vendor_id": 4724,
-      "vendor_name": "Trust International BV"
+      "software_version": null,
+      "timestamp": "2026-10-09T14:09:47+00:00",
+      "vendor_id": 5861,
+      "vendor_name": "Cheil Electric Co., Ltd."
     },
     {
-      "certification_type": "matter",
-      "product_id": 8449,
-      "product_name": "Thread Blind",
-      "software_version": 1,
-      "timestamp": "2026-10-08T14:24:00+00:00",
-      "vendor_id": 5768,
-      "vendor_name": "Ningbo Zhengxin Intelligent Technology Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 28675,
-      "product_name": "MBox",
-      "software_version": 1,
-      "timestamp": "2026-10-08T14:24:00+00:00",
-      "vendor_id": 5768,
-      "vendor_name": "Ningbo Zhengxin Intelligent Technology Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
+      "certification_type": null,
+      "product_id": null,
       "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-08T14:24:00+00:00",
-      "vendor_id": 5837,
-      "vendor_name": "Liniq (Singapore) Pte. Ltd."
+      "software_version": null,
+      "timestamp": "2026-10-09T14:09:47+00:00",
+      "vendor_id": 5862,
+      "vendor_name": "Shenzhen Fine Offset Electronics Co., Ltd."
     }
   ],
-  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
