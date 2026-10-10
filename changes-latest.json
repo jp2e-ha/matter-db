@@ -1,47 +1,416 @@
 {
-  "earlier_run_id": 141,
-  "earlier_started_at": "2026-10-08T14:24:00+00:00",
-  "later_run_id": 142,
-  "later_started_at": "2026-10-09T14:09:47+00:00",
-  "new_products": [],
-  "new_vendors": [
+  "earlier_run_id": 142,
+  "earlier_started_at": "2026-10-09T14:09:47+00:00",
+  "later_run_id": 143,
+  "later_started_at": "2026-10-10T13:18:49+00:00",
+  "new_products": [
     {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-09T14:09:47+00:00",
-      "vendor_id": 5859,
-      "vendor_name": "Boer Smart Technology (Wuxi) Co., Ltd."
+      "certification_type": "matter",
+      "product_id": 32775,
+      "product_name": "Philips Smart TV",
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
     },
     {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-09T14:09:47+00:00",
-      "vendor_id": 5860,
-      "vendor_name": "Beat The Heat Home Window Tinting LLC"
+      "certification_type": "matter",
+      "product_id": 32777,
+      "product_name": "Philips Smart TV",
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
     },
     {
-      "certification_type": null,
-      "product_id": null,
+      "certification_type": "matter",
+      "product_id": 32791,
       "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-09T14:09:47+00:00",
-      "vendor_id": 5861,
-      "vendor_name": "Cheil Electric Co., Ltd."
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
     },
     {
-      "certification_type": null,
-      "product_id": null,
+      "certification_type": "matter",
+      "product_id": 32793,
       "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-09T14:09:47+00:00",
-      "vendor_id": 5862,
-      "vendor_name": "Shenzhen Fine Offset Electronics Co., Ltd."
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32807,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32809,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32823,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32839,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32855,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32871,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32887,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32903,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32919,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32935,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32951,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32967,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32983,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32999,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33015,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33031,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33047,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33063,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33079,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33095,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33111,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33127,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33143,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33159,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33175,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33191,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33207,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33223,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33239,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33255,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33271,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33287,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33303,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33319,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33335,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33545,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33561,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33577,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33593,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5632,
+      "product_name": null,
+      "software_version": 10040000,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 5770,
+      "vendor_name": "Harbor Breeze"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6401,
+      "product_name": null,
+      "software_version": 10040000,
+      "timestamp": "2026-10-10T13:18:49+00:00",
+      "vendor_id": 5770,
+      "vendor_name": "Harbor Breeze"
     }
   ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
