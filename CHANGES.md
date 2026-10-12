@@ -1,6 +1,6 @@
 # matter-db sync diff
 
-Comparing **run 143** (`2026-10-10T13:18:49+00:00`) to **run 144** (`2026-10-11T13:48:16+00:00`).
+Comparing **run 144** (`2026-10-11T13:48:16+00:00`) to **run 145** (`2026-10-12T16:31:52+00:00`).
 
 **Summary:** +1 products, ~0 updated, +0 vendors, ~0 stale
 
@@ -15,7 +15,7 @@ Comparing **run 143** (`2026-10-10T13:18:49+00:00`) to **run 144** (`2026-10-11T
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Pin Genie,Inc.  | 5212/4 | 16778240 | matter | 2026-10-11T13:48:16+00:00 |
+| Hangzhou Ezviz Network Co., Ltd. | Smart Door Lock | 1 | matter | 2026-10-12T16:31:52+00:00 |
 
 ## Updated products (0)
 
