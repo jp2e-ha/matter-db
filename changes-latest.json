@@ -1,20 +1,75 @@
 {
-  "earlier_run_id": 144,
-  "earlier_started_at": "2026-10-11T13:48:16+00:00",
-  "later_run_id": 145,
-  "later_started_at": "2026-10-12T16:31:52+00:00",
+  "earlier_run_id": 145,
+  "earlier_started_at": "2026-10-12T16:31:52+00:00",
+  "later_run_id": 146,
+  "later_started_at": "2026-10-13T14:49:41+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4608,
+      "product_id": 8201,
+      "product_name": "Aqara Spatial Multi-Sensor FP400",
+      "software_version": 1196,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2498,
       "product_name": "Smart Door Lock",
-      "software_version": 1,
-      "timestamp": "2026-10-12T16:31:52+00:00",
-      "vendor_id": 5172,
-      "vendor_name": "Hangzhou Ezviz Network Co., Ltd."
+      "software_version": 2,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5259,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5353,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 5863,
+      "vendor_name": "Nanjing Lingkemi Intelligent Technology Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 5864,
+      "vendor_name": "Metallixs Fabrication FX LLC"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-10-13T14:49:41+00:00",
+      "vendor_id": 5865,
+      "vendor_name": "Easy Access AS"
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
