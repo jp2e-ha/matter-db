@@ -1,615 +1,119 @@
 {
-  "earlier_run_id": 146,
-  "earlier_started_at": "2026-10-13T14:49:41+00:00",
-  "later_run_id": 147,
-  "later_started_at": "2026-10-14T12:40:31+00:00",
+  "earlier_run_id": 147,
+  "earlier_started_at": "2026-10-14T12:40:31+00:00",
+  "later_run_id": 148,
+  "later_started_at": "2026-10-15T12:28:49+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 5026,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5394,
-      "vendor_name": "Yourlite"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5449,
+      "product_id": 369,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5450,
+      "product_id": 385,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5451,
+      "product_id": 386,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5452,
+      "product_id": 387,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5453,
+      "product_id": 388,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5454,
+      "product_id": 389,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5455,
+      "product_id": 390,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5456,
+      "product_id": 391,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5457,
+      "product_id": 392,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5458,
+      "product_id": 393,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 4742,
+      "vendor_name": "CoolKit"
     },
     {
       "certification_type": "matter",
-      "product_id": 5459,
+      "product_id": 47,
+      "product_name": null,
+      "software_version": 100010100,
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 5125,
+      "vendor_name": "Ecovacs"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
       "product_name": null,
       "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5460,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5461,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5462,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5463,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5477,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5478,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5479,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5480,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5481,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5482,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5483,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5484,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5485,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5486,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5487,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5488,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5489,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5490,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5491,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5492,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5493,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5494,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5495,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5496,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5497,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5498,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5499,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5500,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5501,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5502,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5503,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5504,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5505,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5506,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5507,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5508,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5509,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5510,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5511,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5512,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5513,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5514,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5515,
-      "product_name": "Smart Fan Light Controller",
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5516,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5517,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5518,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5519,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5520,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5521,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5497,
-      "vendor_name": "Hinkley"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6657,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5524,
-      "vendor_name": "What's Matter Inc."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6659,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5524,
-      "vendor_name": "What's Matter Inc."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6660,
-      "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5524,
-      "vendor_name": "What's Matter Inc."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5245,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5651,
-      "vendor_name": "Calex"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5247,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5651,
-      "vendor_name": "Calex"
+      "timestamp": "2026-10-15T12:28:49+00:00",
+      "vendor_id": 5782,
+      "vendor_name": "Naber GmbH"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-14T12:40:31+00:00",
-      "vendor_id": 5866,
-      "vendor_name": "ThreadPod"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }

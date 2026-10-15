@@ -1,52 +1,40 @@
 # matter-db sync diff
 
-Comparing **run 146** (`2026-10-13T14:49:41+00:00`) to **run 147** (`2026-10-14T12:40:31+00:00`).
+Comparing **run 147** (`2026-10-14T12:40:31+00:00`) to **run 148** (`2026-10-15T12:28:49+00:00`).
 
-**Summary:** +66 products, ~0 updated, +1 vendors, ~0 stale
+**Summary:** +12 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 66 |
+| new products | 12 |
 | updated products | 0 |
-| new vendors | 1 |
+| new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (66)
+## New products (12)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Yourlite | 5394/5026 | 5 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5449 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5450 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5451 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5452 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5453 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5454 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5455 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5456 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5457 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5458 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5459 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5460 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5461 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5462 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5463 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5477 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5478 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5479 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-| Hinkley | 5497/5480 | 1 | matter | 2026-10-14T12:40:31+00:00 |
-
-_…and 46 more (showing first 20)._
+| CoolKit | 4742/369 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/385 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/386 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/387 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/388 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/389 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/390 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/391 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/392 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| CoolKit | 4742/393 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| Ecovacs | 5125/47 | 100010100 | matter | 2026-10-15T12:28:49+00:00 |
+| Naber GmbH | 5782/2 | 1 | matter | 2026-10-15T12:28:49+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (1)
+## New vendors (0)
 
-| vendor_id | vendor | timestamp |
-|---:|---|---|
-| 5866 | ThreadPod | 2026-10-14T12:40:31+00:00 |
+_None._
 
 ## Stale vendors (0)
 
