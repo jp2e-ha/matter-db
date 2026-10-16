@@ -1,40 +1,54 @@
 # matter-db sync diff
 
-Comparing **run 147** (`2026-10-14T12:40:31+00:00`) to **run 148** (`2026-10-15T12:28:49+00:00`).
+Comparing **run 148** (`2026-10-15T12:28:49+00:00`) to **run 149** (`2026-10-16T12:07:23+00:00`).
 
-**Summary:** +12 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +2302 products, ~0 updated, +3 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 12 |
+| new products | 2302 |
 | updated products | 0 |
-| new vendors | 0 |
+| new vendors | 3 |
 | stale vendors | 0 |
 
-## New products (12)
+## New products (2302)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| CoolKit | 4742/369 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/385 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/386 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/387 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/388 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/389 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/390 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/391 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/392 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| CoolKit | 4742/393 | 1 | matter | 2026-10-15T12:28:49+00:00 |
-| Ecovacs | 5125/47 | 100010100 | matter | 2026-10-15T12:28:49+00:00 |
-| Naber GmbH | 5782/2 | 1 | matter | 2026-10-15T12:28:49+00:00 |
+| Texas Instruments | 7/32773 | 1 | matter | 2026-10-16T12:07:23+00:00 |
+| Texas Instruments | 7/32774 | 1 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/2048 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/2049 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/2050 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/2051 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8464 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8465 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8466 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8467 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8468 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8469 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8470 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8471 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8472 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8473 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8474 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8493 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8500 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/8501 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+
+_…and 2282 more (showing first 20)._
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (0)
+## New vendors (3)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5867 | Get Lit TX LLC | 2026-10-16T12:07:23+00:00 |
+| 5868 | Reum Technologies Pty Ltd | 2026-10-16T12:07:23+00:00 |
+| 5869 | Midea Group Co., Ltd. | 2026-10-16T12:07:23+00:00 |
 
 ## Stale vendors (0)
 
