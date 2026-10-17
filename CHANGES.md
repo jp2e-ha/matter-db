@@ -1,54 +1,54 @@
 # matter-db sync diff
 
-Comparing **run 148** (`2026-10-15T12:28:49+00:00`) to **run 149** (`2026-10-16T12:07:23+00:00`).
+Comparing **run 149** (`2026-10-16T12:07:23+00:00`) to **run 150** (`2026-10-17T11:25:20+00:00`).
 
-**Summary:** +2302 products, ~0 updated, +3 vendors, ~0 stale
+**Summary:** +6054 products, ~1 updated, +1 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 2302 |
-| updated products | 0 |
-| new vendors | 3 |
+| new products | 6054 |
+| updated products | 1 |
+| new vendors | 1 |
 | stale vendors | 0 |
 
-## New products (2302)
+## New products (6054)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Texas Instruments | 7/32773 | 1 | matter | 2026-10-16T12:07:23+00:00 |
-| Texas Instruments | 7/32774 | 1 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/2048 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/2049 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/2050 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/2051 | 16780032 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8464 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8465 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8466 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8467 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8468 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8469 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8470 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8471 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8472 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8473 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8474 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8493 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8500 | 0 | matter | 2026-10-16T12:07:23+00:00 |
-| Signify | 4107/8501 | 0 | matter | 2026-10-16T12:07:23+00:00 |
+| Signify | 4107/301 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/303 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2052 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2054 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2055 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2056 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2057 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2058 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2059 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2060 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2062 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2064 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2066 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | 4107/2067 | 16777472 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | WiZ Ceiling | 14 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | WiZ Linear | 14 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | WiZ LED Strip | 14 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | WiZ A19 Filament | 14 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | WiZ A60 Filament | 14 | matter | 2026-10-17T11:25:20+00:00 |
+| Signify | WiZ Downlight | 14 | matter | 2026-10-17T11:25:20+00:00 |
 
-_…and 2282 more (showing first 20)._
+_…and 6034 more (showing first 20)._
 
-## Updated products (0)
+## Updated products (1)
 
-_None._
+| vendor | product | sw_version | cert_type | timestamp |
+|---|---|---:|---|---|
+| Aqara | Aqara Smart Lock U200 | 85 | matter | 2026-10-17T11:25:20+00:00 |
 
-## New vendors (3)
+## New vendors (1)
 
 | vendor_id | vendor | timestamp |
 |---:|---|---|
-| 5867 | Get Lit TX LLC | 2026-10-16T12:07:23+00:00 |
-| 5868 | Reum Technologies Pty Ltd | 2026-10-16T12:07:23+00:00 |
-| 5869 | Midea Group Co., Ltd. | 2026-10-16T12:07:23+00:00 |
+| 4246 | Carrier Electronics | 2026-10-17T11:25:20+00:00 |
 
 ## Stale vendors (0)
 
