@@ -1,9 +1,1126 @@
 {
-  "earlier_run_id": 151,
-  "earlier_started_at": "2026-10-18T11:57:19+00:00",
-  "later_run_id": 152,
-  "later_started_at": "2026-10-19T14:23:36+00:00",
-  "new_products": [],
+  "earlier_run_id": 152,
+  "earlier_started_at": "2026-10-19T14:23:36+00:00",
+  "later_run_id": 153,
+  "later_started_at": "2026-10-20T12:33:27+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 297,
+      "product_name": "Philips Hue Light",
+      "software_version": 16781568,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2048,
+      "product_name": null,
+      "software_version": 16781568,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2049,
+      "product_name": null,
+      "software_version": 16781568,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2050,
+      "product_name": null,
+      "software_version": 16781568,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2051,
+      "product_name": null,
+      "software_version": 16781568,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4107,
+      "vendor_name": "Signify"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65000,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65001,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65002,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65003,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65004,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65005,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65006,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65007,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65008,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65009,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 65010,
+      "product_name": "On/Off Output",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4456,
+      "vendor_name": "Leedarson"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4352,
+      "product_name": null,
+      "software_version": 65537,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4619,
+      "vendor_name": "HEIMAN"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 268,
+      "product_name": null,
+      "software_version": 26,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4686,
+      "vendor_name": "L&S Deutschland GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 269,
+      "product_name": null,
+      "software_version": 26,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4686,
+      "vendor_name": "L&S Deutschland GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 270,
+      "product_name": null,
+      "software_version": 26,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4686,
+      "vendor_name": "L&S Deutschland GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 271,
+      "product_name": null,
+      "software_version": 26,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4686,
+      "vendor_name": "L&S Deutschland GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 272,
+      "product_name": null,
+      "software_version": 26,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4686,
+      "vendor_name": "L&S Deutschland GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 273,
+      "product_name": null,
+      "software_version": 26,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4686,
+      "vendor_name": "L&S Deutschland GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4970,
+      "product_name": null,
+      "software_version": 5,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4971,
+      "product_name": null,
+      "software_version": 5,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4972,
+      "product_name": null,
+      "software_version": 5,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4701,
+      "vendor_name": "Tuya"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32768,
+      "product_name": "TCL Dehumidifier",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32769,
+      "product_name": "TCL Dehumidifier",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32771,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32772,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32773,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32774,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32775,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32776,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32777,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32778,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32779,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32780,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32781,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32782,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32783,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32784,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32785,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32786,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32787,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32788,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32789,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32790,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32791,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32792,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32793,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32794,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32795,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32796,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32797,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32798,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32799,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32800,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32801,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32802,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32803,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32804,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32805,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32806,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32807,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32808,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32809,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32810,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32811,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32812,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32813,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32814,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32815,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32816,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32817,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32818,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32819,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32820,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32821,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32822,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32823,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32824,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32825,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32826,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32827,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32828,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32829,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32830,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32831,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32832,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32833,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32834,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32835,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32836,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32837,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4916,
+      "vendor_name": "tcl-vendor"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5,
+      "product_name": "Smart Switch 2CH",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4917,
+      "vendor_name": "Dexatek Technology"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6,
+      "product_name": "Smart Switch 1CH",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4917,
+      "vendor_name": "Dexatek Technology"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 7,
+      "product_name": "Multifunction Meter",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4917,
+      "vendor_name": "Dexatek Technology"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8,
+      "product_name": "Smart Dry Contact",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4917,
+      "vendor_name": "Dexatek Technology"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32769,
+      "product_name": "Philips Smart TV",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32770,
+      "product_name": "Philips Smart TV",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 4952,
+      "vendor_name": "Top Victory Investments Limited"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4245,
+      "product_name": "OREiN Bath Fan OA115",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2055,
+      "product_name": "SwitchBot ViewStation",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5015,
+      "vendor_name": "SwitchBot"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 20,
+      "product_name": null,
+      "software_version": 100010100,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5125,
+      "vendor_name": "Ecovacs"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 31,
+      "product_name": null,
+      "software_version": 100010100,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5125,
+      "vendor_name": "Ecovacs"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33,
+      "product_name": null,
+      "software_version": 100010100,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5125,
+      "vendor_name": "Ecovacs"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 34,
+      "product_name": null,
+      "software_version": 100010100,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5125,
+      "vendor_name": "Ecovacs"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4102,
+      "product_name": "TARUIE 4in1 Smart Presence Sensor",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5151,
+      "vendor_name": "Ductech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": "EcoFlow Smart Plug",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5152,
+      "vendor_name": "EcoFlow Inc."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 2,
+      "product_name": "EcoFlow Smart Plug",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5152,
+      "vendor_name": "EcoFlow Inc."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3,
+      "product_name": "EcoFlow Smart Plug",
+      "software_version": 1,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5152,
+      "vendor_name": "EcoFlow Inc."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 233,
+      "product_name": "Dreame D30 APlus Kit",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 234,
+      "product_name": "Dreame L40 Ultra Gen 3",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 235,
+      "product_name": "Dreame X50 Ultra Max",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 236,
+      "product_name": "Dreame D50 Pro Ultra",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 237,
+      "product_name": "Dreame X60 Pro Ultra Complete V2",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 238,
+      "product_name": "Dreame L40s Max Heat",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 239,
+      "product_name": "Dreame L60s Pro Heat",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 240,
+      "product_name": "Dreame X60 True Clean",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 241,
+      "product_name": "Dreame X60 Ultra V2",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 242,
+      "product_name": "Dreame X60 Ultra S",
+      "software_version": 2,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5420,
+      "vendor_name": "Dreame"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32792,
+      "product_name": "HR-M06",
+      "software_version": 16908288,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5529,
+      "vendor_name": "Guangdong Huarui Lock Industry"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4121,
+      "product_name": "Smart Button",
+      "software_version": 211,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5530,
+      "vendor_name": "HAOJAI"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1,
+      "product_name": "Sch\u00fcco Funksensor",
+      "software_version": 16777216,
+      "timestamp": "2026-10-20T12:33:27+00:00",
+      "vendor_id": 5580,
+      "vendor_name": "Sch\u00fcco"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
