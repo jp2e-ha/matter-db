@@ -1,50 +1,34 @@
 # matter-db sync diff
 
-Comparing **run 152** (`2026-10-19T14:23:36+00:00`) to **run 153** (`2026-10-20T12:33:27+00:00`).
+Comparing **run 153** (`2026-10-20T12:33:27+00:00`) to **run 154** (`2026-10-21T12:44:52+00:00`).
 
-**Summary:** +124 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +4 products, ~0 updated, +1 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 124 |
+| new products | 4 |
 | updated products | 0 |
-| new vendors | 0 |
+| new vendors | 1 |
 | stale vendors | 0 |
 
-## New products (124)
+## New products (4)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Signify | Philips Hue Light | 16781568 | matter | 2026-10-20T12:33:27+00:00 |
-| Signify | 4107/2048 | 16781568 | matter | 2026-10-20T12:33:27+00:00 |
-| Signify | 4107/2049 | 16781568 | matter | 2026-10-20T12:33:27+00:00 |
-| Signify | 4107/2050 | 16781568 | matter | 2026-10-20T12:33:27+00:00 |
-| Signify | 4107/2051 | 16781568 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| Leedarson | On/Off Output | 1 | matter | 2026-10-20T12:33:27+00:00 |
-| HEIMAN | 4619/4352 | 65537 | matter | 2026-10-20T12:33:27+00:00 |
-| L&S Deutschland GmbH | 4686/268 | 26 | matter | 2026-10-20T12:33:27+00:00 |
-| L&S Deutschland GmbH | 4686/269 | 26 | matter | 2026-10-20T12:33:27+00:00 |
-| L&S Deutschland GmbH | 4686/270 | 26 | matter | 2026-10-20T12:33:27+00:00 |
-
-_…and 104 more (showing first 20)._
+| Jasco Products Company LLC | 4388/5753 | 5 | matter | 2026-10-21T12:44:52+00:00 |
+| EGLO | 4751/5799 | 5 | matter | 2026-10-21T12:44:52+00:00 |
+| Espressif Systems | 4891/16645 | 10040000 | matter | 2026-10-21T12:44:52+00:00 |
+| Rev-A-Shelf LLC | 5810/258 | 82 | matter | 2026-10-21T12:44:52+00:00 |
 
 ## Updated products (0)
 
 _None._
 
-## New vendors (0)
+## New vendors (1)
 
-_None._
+| vendor_id | vendor | timestamp |
+|---:|---|---|
+| 5871 | EDF R&D | 2026-10-21T12:44:52+00:00 |
 
 ## Stale vendors (0)
 
