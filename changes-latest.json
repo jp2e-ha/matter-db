@@ -1,44 +1,35 @@
 {
-  "earlier_run_id": 153,
-  "earlier_started_at": "2026-10-20T12:33:27+00:00",
-  "later_run_id": 154,
-  "later_started_at": "2026-10-21T12:44:52+00:00",
+  "earlier_run_id": 154,
+  "earlier_started_at": "2026-10-21T12:44:52+00:00",
+  "later_run_id": 155,
+  "later_started_at": "2026-10-22T12:48:19+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 5753,
+      "product_id": 5755,
       "product_name": null,
       "software_version": 5,
-      "timestamp": "2026-10-21T12:44:52+00:00",
+      "timestamp": "2026-10-22T12:48:19+00:00",
       "vendor_id": 4388,
       "vendor_name": "Jasco Products Company LLC"
     },
     {
       "certification_type": "matter",
-      "product_id": 5799,
+      "product_id": 2077,
       "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-21T12:44:52+00:00",
-      "vendor_id": 4751,
-      "vendor_name": "EGLO"
+      "software_version": 1,
+      "timestamp": "2026-10-22T12:48:19+00:00",
+      "vendor_id": 5015,
+      "vendor_name": "SwitchBot"
     },
     {
       "certification_type": "matter",
-      "product_id": 16645,
-      "product_name": null,
-      "software_version": 10040000,
-      "timestamp": "2026-10-21T12:44:52+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 258,
-      "product_name": null,
-      "software_version": 82,
-      "timestamp": "2026-10-21T12:44:52+00:00",
-      "vendor_id": 5810,
-      "vendor_name": "Rev-A-Shelf LLC"
+      "product_id": 44070,
+      "product_name": "Zemismart iFi Smart Switch",
+      "software_version": 1,
+      "timestamp": "2026-10-22T12:48:19+00:00",
+      "vendor_id": 5020,
+      "vendor_name": "Zemismart Technology Limited"
     }
   ],
   "new_vendors": [
@@ -47,9 +38,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-10-21T12:44:52+00:00",
-      "vendor_id": 5871,
-      "vendor_name": "EDF R&D"
+      "timestamp": "2026-10-22T12:48:19+00:00",
+      "vendor_id": 5872,
+      "vendor_name": "Reolink Technology Pte. Ltd."
     }
   ],
   "stale_vendors": [],
