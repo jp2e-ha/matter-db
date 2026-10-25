@@ -1,30 +1,10 @@
 {
-  "earlier_run_id": 156,
-  "earlier_started_at": "2026-10-23T12:26:33+00:00",
-  "later_run_id": 157,
-  "later_started_at": "2026-10-24T11:52:17+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 456,
-      "product_name": "Matter PIR Motion Sensor",
-      "software_version": 3,
-      "timestamp": "2026-10-24T11:52:17+00:00",
-      "vendor_id": 4701,
-      "vendor_name": "Tuya"
-    }
-  ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-24T11:52:17+00:00",
-      "vendor_id": 5877,
-      "vendor_name": "Gallagher Group Limited"
-    }
-  ],
+  "earlier_run_id": 157,
+  "earlier_started_at": "2026-10-24T11:52:17+00:00",
+  "later_run_id": 158,
+  "later_started_at": "2026-10-25T12:22:03+00:00",
+  "new_products": [],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
