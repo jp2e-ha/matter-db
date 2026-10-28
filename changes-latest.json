@@ -1,143 +1,17 @@
 {
-  "earlier_run_id": 159,
-  "earlier_started_at": "2026-10-26T13:56:00+00:00",
-  "later_run_id": 160,
-  "later_started_at": "2026-10-27T12:59:59+00:00",
+  "earlier_run_id": 160,
+  "earlier_started_at": "2026-10-27T12:59:59+00:00",
+  "later_run_id": 161,
+  "later_started_at": "2026-10-28T13:51:07+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 4179,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4192,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4201,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4836,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5368,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5369,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5370,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 4489,
-      "vendor_name": "LEDVANCE"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5465,
-      "product_name": null,
-      "software_version": 5,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5568,
-      "vendor_name": "DIANXIAOKU"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4660,
-      "product_name": null,
-      "software_version": 10010000,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5590,
-      "vendor_name": "Shenzhen Furrykid Technology Co., Ltd."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 37888,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 37889,
-      "product_name": null,
-      "software_version": 66052,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 37889,
-      "product_name": null,
-      "software_version": 66053,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 37890,
-      "product_name": null,
-      "software_version": 66052,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 37890,
-      "product_name": null,
-      "software_version": 66053,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 37891,
-      "product_name": null,
-      "software_version": 66052,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
+      "product_id": 8,
+      "product_name": "Netatmo Thermo Hub",
+      "software_version": 1400,
+      "timestamp": "2026-10-28T13:51:07+00:00",
+      "vendor_id": 4129,
+      "vendor_name": "Legrand Group"
     }
   ],
   "new_vendors": [
@@ -146,18 +20,18 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5878,
-      "vendor_name": "Sysgrok"
+      "timestamp": "2026-10-28T13:51:07+00:00",
+      "vendor_id": 5880,
+      "vendor_name": "Zhongshan Zhimima Technology Co., Ltd."
     },
     {
       "certification_type": null,
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-10-27T12:59:59+00:00",
-      "vendor_id": 5879,
-      "vendor_name": "Nanjing Shangjingtian Technology Co., Ltd."
+      "timestamp": "2026-10-28T13:51:07+00:00",
+      "vendor_id": 5881,
+      "vendor_name": "Midea Group Co., Ltd."
     }
   ],
   "stale_vendors": [],
