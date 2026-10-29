@@ -1,17 +1,98 @@
 {
-  "earlier_run_id": 160,
-  "earlier_started_at": "2026-10-27T12:59:59+00:00",
-  "later_run_id": 161,
-  "later_started_at": "2026-10-28T13:51:07+00:00",
+  "earlier_run_id": 161,
+  "earlier_started_at": "2026-10-28T13:51:07+00:00",
+  "later_run_id": 162,
+  "later_started_at": "2026-10-29T13:57:19+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 8,
-      "product_name": "Netatmo Thermo Hub",
-      "software_version": 1400,
-      "timestamp": "2026-10-28T13:51:07+00:00",
-      "vendor_id": 4129,
-      "vendor_name": "Legrand Group"
+      "product_id": 8197,
+      "product_name": "Presence Multi-Sensor FP300",
+      "software_version": 1138,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8206,
+      "product_name": "Presence Multi-Sensor FP310",
+      "software_version": 1040,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4161,
+      "product_name": null,
+      "software_version": 16777728,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5410,
+      "vendor_name": "Zimi"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4162,
+      "product_name": null,
+      "software_version": 16777728,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5410,
+      "vendor_name": "Zimi"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4164,
+      "product_name": null,
+      "software_version": 16777728,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5410,
+      "vendor_name": "Zimi"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4166,
+      "product_name": null,
+      "software_version": 16777728,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5410,
+      "vendor_name": "Zimi"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4419,
+      "product_name": null,
+      "software_version": 16777728,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5410,
+      "vendor_name": "Zimi"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5376,
+      "product_name": null,
+      "software_version": 202609102,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5770,
+      "vendor_name": "Harbor Breeze"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6400,
+      "product_name": null,
+      "software_version": 202609102,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5770,
+      "vendor_name": "Harbor Breeze"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6403,
+      "product_name": null,
+      "software_version": 202609102,
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5770,
+      "vendor_name": "Harbor Breeze"
     }
   ],
   "new_vendors": [
@@ -20,18 +101,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-10-28T13:51:07+00:00",
-      "vendor_id": 5880,
-      "vendor_name": "Zhongshan Zhimima Technology Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-28T13:51:07+00:00",
-      "vendor_id": 5881,
-      "vendor_name": "Midea Group Co., Ltd."
+      "timestamp": "2026-10-29T13:57:19+00:00",
+      "vendor_id": 5882,
+      "vendor_name": "Leading Edge Smart Homes, LLC"
     }
   ],
   "stale_vendors": [],
