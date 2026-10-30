@@ -1,111 +1,110 @@
 {
-  "earlier_run_id": 161,
-  "earlier_started_at": "2026-10-28T13:51:07+00:00",
-  "later_run_id": 162,
-  "later_started_at": "2026-10-29T13:57:19+00:00",
+  "earlier_run_id": 162,
+  "earlier_started_at": "2026-10-29T13:57:19+00:00",
+  "later_run_id": 163,
+  "later_started_at": "2026-10-30T13:52:15+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 8197,
-      "product_name": "Presence Multi-Sensor FP300",
-      "software_version": 1138,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 4447,
-      "vendor_name": "Aqara"
+      "product_id": 4976,
+      "product_name": "Govee Bladeless Ceiling Fan",
+      "software_version": 30,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 4999,
+      "vendor_name": "Govee"
     },
     {
       "certification_type": "matter",
-      "product_id": 8206,
-      "product_name": "Presence Multi-Sensor FP310",
-      "software_version": 1040,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 4447,
-      "vendor_name": "Aqara"
+      "product_id": 4097,
+      "product_name": "OREiN Bath Fan OL05S",
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 4161,
+      "product_id": 4245,
+      "product_name": "OREiN Bath Fan OA115",
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4246,
+      "product_name": "OREiN Bath Fan OL182",
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4247,
+      "product_name": "OREiN Bath Fan OL282",
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 4248,
       "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 4162,
+      "product_id": 4249,
       "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 4164,
+      "product_id": 4250,
       "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 4166,
+      "product_id": 4251,
       "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 4419,
+      "product_id": 4252,
       "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
+      "software_version": 3,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5014,
+      "vendor_name": "AiDot"
     },
     {
       "certification_type": "matter",
-      "product_id": 5376,
-      "product_name": null,
-      "software_version": 202609102,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5770,
-      "vendor_name": "Harbor Breeze"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6400,
-      "product_name": null,
-      "software_version": 202609102,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5770,
-      "vendor_name": "Harbor Breeze"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6403,
-      "product_name": null,
-      "software_version": 202609102,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5770,
-      "vendor_name": "Harbor Breeze"
+      "product_id": 5331,
+      "product_name": "Floodlight Camera",
+      "software_version": 1,
+      "timestamp": "2026-10-30T13:52:15+00:00",
+      "vendor_id": 5502,
+      "vendor_name": "APICAL"
     }
   ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-10-29T13:57:19+00:00",
-      "vendor_id": 5882,
-      "vendor_name": "Leading Edge Smart Homes, LLC"
-    }
-  ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
