@@ -1,89 +1,17 @@
 {
-  "earlier_run_id": 164,
-  "earlier_started_at": "2026-10-31T13:22:05+00:00",
-  "later_run_id": 165,
-  "later_started_at": "2026-11-01T14:04:16+00:00",
+  "earlier_run_id": 165,
+  "earlier_started_at": "2026-11-01T14:04:16+00:00",
+  "later_run_id": 166,
+  "later_started_at": "2026-11-02T16:51:19+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "Smart Plug-in Unit",
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 3,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 6,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 7,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 8,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 9,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-01T14:04:16+00:00",
-      "vendor_id": 4742,
-      "vendor_name": "CoolKit"
+      "product_id": 5151,
+      "product_name": "HUAYAN WIFI SMART SWITCH",
+      "software_version": 1500,
+      "timestamp": "2026-11-02T16:51:19+00:00",
+      "vendor_id": 5739,
+      "vendor_name": "ZHEJIANG HUAYAN ELECTRIC CO.,LTD"
     }
   ],
   "new_vendors": [],

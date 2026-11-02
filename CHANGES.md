@@ -1,29 +1,21 @@
 # matter-db sync diff
 
-Comparing **run 164** (`2026-10-31T13:22:05+00:00`) to **run 165** (`2026-11-01T14:04:16+00:00`).
+Comparing **run 165** (`2026-11-01T14:04:16+00:00`) to **run 166** (`2026-11-02T16:51:19+00:00`).
 
-**Summary:** +9 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +1 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 9 |
+| new products | 1 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (9)
+## New products (1)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| CoolKit | Smart Plug-in Unit | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/3 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/4 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/5 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/6 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/7 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/8 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/9 | 2 | matter | 2026-11-01T14:04:16+00:00 |
-| CoolKit | 4742/10 | 2 | matter | 2026-11-01T14:04:16+00:00 |
+| ZHEJIANG HUAYAN ELECTRIC CO.,LTD | HUAYAN WIFI SMART SWITCH | 1500 | matter | 2026-11-02T16:51:19+00:00 |
 
 ## Updated products (0)
 
