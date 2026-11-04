@@ -1,188 +1,26 @@
 {
-  "earlier_run_id": 166,
-  "earlier_started_at": "2026-11-02T16:51:19+00:00",
-  "later_run_id": 167,
-  "later_started_at": "2026-11-03T14:52:02+00:00",
+  "earlier_run_id": 167,
+  "earlier_started_at": "2026-11-03T14:52:02+00:00",
+  "later_run_id": 168,
+  "later_started_at": "2026-11-04T15:09:32+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 10244,
-      "product_name": "Aqara Smart Lock U400",
-      "software_version": 3114,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4447,
-      "vendor_name": "Aqara"
+      "product_id": 208,
+      "product_name": "Nuki Smart Module",
+      "software_version": 1004001,
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 4957,
+      "vendor_name": "Nuki"
     },
     {
       "certification_type": "matter",
-      "product_id": 61441,
-      "product_name": "MRS105",
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61442,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61443,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61444,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61445,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61446,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61447,
-      "product_name": "MRS200",
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61448,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61449,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61450,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61451,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61452,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61453,
-      "product_name": "MRS100",
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61454,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61455,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 61456,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4933,
-      "vendor_name": "Meross"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": "Smart Thermostat X",
-      "software_version": 289,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4942,
-      "vendor_name": "tado"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10,
-      "product_name": "Smart Thermostat X UFH",
-      "software_version": 289,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 4942,
-      "vendor_name": "tado"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 18227,
-      "product_name": "Temp & RH Monitor T",
-      "software_version": 100,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 5711,
-      "vendor_name": "Qingping"
+      "product_id": 1114,
+      "product_name": "SmartHomePlug",
+      "software_version": 202609091,
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 5120,
+      "vendor_name": "Uascent"
     }
   ],
   "new_vendors": [
@@ -191,9 +29,45 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-11-03T14:52:02+00:00",
-      "vendor_id": 5883,
-      "vendor_name": "Tstar Technology Co., Ltd."
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 5885,
+      "vendor_name": "Groupe LIEBOT"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 5886,
+      "vendor_name": "Shenzhen You Lai Mi Technology Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 5887,
+      "vendor_name": "Starsg Technology Pte. Limited"
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 5888,
+      "vendor_name": "Lifud Technology Co., Ltd."
+    },
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-11-04T15:09:32+00:00",
+      "vendor_id": 5889,
+      "vendor_name": "Voxo Smart Technologies LLC"
     }
   ],
   "stale_vendors": [],
