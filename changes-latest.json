@@ -1,26 +1,836 @@
 {
-  "earlier_run_id": 167,
-  "earlier_started_at": "2026-11-03T14:52:02+00:00",
-  "later_run_id": 168,
-  "later_started_at": "2026-11-04T15:09:32+00:00",
+  "earlier_run_id": 168,
+  "earlier_started_at": "2026-11-04T15:09:32+00:00",
+  "later_run_id": 169,
+  "later_started_at": "2026-11-05T15:12:10+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 208,
-      "product_name": "Nuki Smart Module",
-      "software_version": 1004001,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 4957,
-      "vendor_name": "Nuki"
+      "product_id": 6300,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
     },
     {
       "certification_type": "matter",
-      "product_id": 1114,
-      "product_name": "SmartHomePlug",
-      "software_version": 202609091,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 5120,
-      "vendor_name": "Uascent"
+      "product_id": 6301,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6307,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6308,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6309,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6310,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6311,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6312,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6313,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6314,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6315,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6316,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6317,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6318,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6319,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6320,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6321,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6322,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6323,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6324,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6325,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6326,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6327,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6328,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6329,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6330,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6331,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6332,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6333,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6334,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6335,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6336,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6337,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6338,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6339,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6340,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6341,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6342,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6343,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6344,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6345,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6346,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6347,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6348,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6349,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6350,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6351,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6352,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6353,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6354,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6355,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6356,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6357,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6358,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6359,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6360,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6361,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6362,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6363,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6364,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6365,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6366,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6367,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6368,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6369,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6370,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6371,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6372,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6373,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6374,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6375,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6376,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6377,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6378,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6379,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6380,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6381,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 4447,
+      "vendor_name": "Aqara"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1027,
+      "product_name": "Smart HomeBase",
+      "software_version": 66817,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5010,
+      "vendor_name": "Tapo"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1031,
+      "product_name": null,
+      "software_version": 66817,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5010,
+      "vendor_name": "Tapo"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5375,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5379,
+      "vendor_name": "RM"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33792,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33793,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33794,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33795,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33796,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33797,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33798,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 33799,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3841,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5809,
+      "vendor_name": "Refoss"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6812,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5814,
+      "vendor_name": "Adhara Lighting"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 5748,
+      "product_name": "Vibrance",
+      "software_version": 5,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5843,
+      "vendor_name": "Reliance Worldwide Corporation (Aust.) Pty. Ltd."
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 81,
+      "product_name": null,
+      "software_version": 10000,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5862,
+      "vendor_name": "Shenzhen Fine Offset Electronics Co., Ltd."
     }
   ],
   "new_vendors": [
@@ -29,47 +839,21 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 5885,
-      "vendor_name": "Groupe LIEBOT"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 5886,
-      "vendor_name": "Shenzhen You Lai Mi Technology Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 5887,
-      "vendor_name": "Starsg Technology Pte. Limited"
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 5888,
-      "vendor_name": "Lifud Technology Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-04T15:09:32+00:00",
-      "vendor_id": 5889,
-      "vendor_name": "Voxo Smart Technologies LLC"
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5891,
+      "vendor_name": "Fluxrite AB"
     }
   ],
   "stale_vendors": [],
-  "updated_products": []
+  "updated_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 36800,
+      "product_name": "TREYone",
+      "software_version": 1,
+      "timestamp": "2026-11-05T15:12:10+00:00",
+      "vendor_id": 5725,
+      "vendor_name": "TREY GmbH"
+    }
+  ]
 }
