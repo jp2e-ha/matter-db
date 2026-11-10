@@ -1,9 +1,145 @@
 {
-  "earlier_run_id": 172,
-  "earlier_started_at": "2026-11-08T14:05:52+00:00",
-  "later_run_id": 173,
-  "later_started_at": "2026-11-09T17:12:24+00:00",
-  "new_products": [],
+  "earlier_run_id": 173,
+  "earlier_started_at": "2026-11-09T17:12:24+00:00",
+  "later_run_id": 174,
+  "later_started_at": "2026-11-10T15:25:49+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 32789,
+      "product_name": null,
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32848,
+      "product_name": "Climate 6200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32849,
+      "product_name": "Climate 6200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32850,
+      "product_name": "Climate 6200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32851,
+      "product_name": "Climate 6200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32852,
+      "product_name": "Climate 6200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32864,
+      "product_name": "Climate 2200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32865,
+      "product_name": "Climate 2200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32866,
+      "product_name": "Climate 2200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32867,
+      "product_name": "Climate 2200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32868,
+      "product_name": "Climate 2200i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32869,
+      "product_name": "Climate 2201i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32870,
+      "product_name": "Climate 2201i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32871,
+      "product_name": "Climate 2201i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 32872,
+      "product_name": "Climate 2201i",
+      "software_version": 10100,
+      "timestamp": "2026-11-10T15:25:49+00:00",
+      "vendor_id": 4617,
+      "vendor_name": "Bosch"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
