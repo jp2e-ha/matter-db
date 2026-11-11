@@ -1,146 +1,120 @@
 {
-  "earlier_run_id": 173,
-  "earlier_started_at": "2026-11-09T17:12:24+00:00",
-  "later_run_id": 174,
-  "later_started_at": "2026-11-10T15:25:49+00:00",
+  "earlier_run_id": 174,
+  "earlier_started_at": "2026-11-10T15:25:49+00:00",
+  "later_run_id": 175,
+  "later_started_at": "2026-11-11T14:56:15+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 32789,
+      "product_id": 1,
       "product_name": null,
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "software_version": 2,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5616,
+      "vendor_name": "NETGEAR, Inc."
     },
     {
       "certification_type": "matter",
-      "product_id": 32848,
-      "product_name": "Climate 6200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35840,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32849,
-      "product_name": "Climate 6200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35841,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32850,
-      "product_name": "Climate 6200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35842,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32851,
-      "product_name": "Climate 6200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35843,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32852,
-      "product_name": "Climate 6200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35844,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32864,
-      "product_name": "Climate 2200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35845,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32865,
-      "product_name": "Climate 2200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35846,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32866,
-      "product_name": "Climate 2200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35847,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32867,
-      "product_name": "Climate 2200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 35848,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
     },
     {
       "certification_type": "matter",
-      "product_id": 32868,
-      "product_name": "Climate 2200i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32869,
-      "product_name": "Climate 2201i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32870,
-      "product_name": "Climate 2201i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32871,
-      "product_name": "Climate 2201i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 32872,
-      "product_name": "Climate 2201i",
-      "software_version": 10100,
-      "timestamp": "2026-11-10T15:25:49+00:00",
-      "vendor_id": 4617,
-      "vendor_name": "Bosch"
+      "product_id": 8192,
+      "product_name": "Surplife Smart Light",
+      "software_version": 1,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5825,
+      "vendor_name": "Surplife"
     }
   ],
-  "new_vendors": [],
+  "new_vendors": [
+    {
+      "certification_type": null,
+      "product_id": null,
+      "product_name": null,
+      "software_version": null,
+      "timestamp": "2026-11-11T14:56:15+00:00",
+      "vendor_id": 5894,
+      "vendor_name": "2644508 Alberta Inc."
+    }
+  ],
   "stale_vendors": [],
   "updated_products": []
 }
