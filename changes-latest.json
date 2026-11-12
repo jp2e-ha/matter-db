@@ -1,107 +1,26 @@
 {
-  "earlier_run_id": 174,
-  "earlier_started_at": "2026-11-10T15:25:49+00:00",
-  "later_run_id": 175,
-  "later_started_at": "2026-11-11T14:56:15+00:00",
+  "earlier_run_id": 175,
+  "earlier_started_at": "2026-11-11T14:56:15+00:00",
+  "later_run_id": 176,
+  "later_started_at": "2026-11-12T15:47:34+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 1,
-      "product_name": null,
-      "software_version": 2,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5616,
-      "vendor_name": "NETGEAR, Inc."
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35840,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35841,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35842,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35843,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35844,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35845,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35846,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35847,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 35848,
-      "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
-    },
-    {
-      "certification_type": "matter",
       "product_id": 8192,
-      "product_name": "Surplife Smart Light",
-      "software_version": 1,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5825,
-      "vendor_name": "Surplife"
+      "product_name": null,
+      "software_version": 10040000,
+      "timestamp": "2026-11-12T15:47:34+00:00",
+      "vendor_id": 4891,
+      "vendor_name": "Espressif Systems"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 8195,
+      "product_name": null,
+      "software_version": 10040000,
+      "timestamp": "2026-11-12T15:47:34+00:00",
+      "vendor_id": 4891,
+      "vendor_name": "Espressif Systems"
     }
   ],
   "new_vendors": [
@@ -110,9 +29,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-11-11T14:56:15+00:00",
-      "vendor_id": 5894,
-      "vendor_name": "2644508 Alberta Inc."
+      "timestamp": "2026-11-12T15:47:34+00:00",
+      "vendor_id": 5893,
+      "vendor_name": "Shenzhen Lite IoT Innovation Technology Co., Ltd."
     }
   ],
   "stale_vendors": [],
