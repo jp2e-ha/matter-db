@@ -1,26 +1,134 @@
 {
-  "earlier_run_id": 175,
-  "earlier_started_at": "2026-11-11T14:56:15+00:00",
-  "later_run_id": 176,
-  "later_started_at": "2026-11-12T15:47:34+00:00",
+  "earlier_run_id": 176,
+  "earlier_started_at": "2026-11-12T15:47:34+00:00",
+  "later_run_id": 177,
+  "later_started_at": "2026-11-13T15:08:05+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 8192,
-      "product_name": null,
-      "software_version": 10040000,
-      "timestamp": "2026-11-12T15:47:34+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
+      "product_id": 1153,
+      "product_name": "UA-SmartLight",
+      "software_version": 202607131,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5120,
+      "vendor_name": "Uascent"
     },
     {
       "certification_type": "matter",
-      "product_id": 8195,
+      "product_id": 1154,
+      "product_name": "UA-SmartLight",
+      "software_version": 202607131,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5120,
+      "vendor_name": "Uascent"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 515,
+      "product_name": "Bweetech",
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 516,
       "product_name": null,
-      "software_version": 10040000,
-      "timestamp": "2026-11-12T15:47:34+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 517,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 771,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 772,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 773,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1027,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1028,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1029,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6147,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6148,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 6149,
+      "product_name": null,
+      "software_version": 202609281,
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5383,
+      "vendor_name": "Bweetech"
     }
   ],
   "new_vendors": [
@@ -29,9 +137,9 @@
       "product_id": null,
       "product_name": null,
       "software_version": null,
-      "timestamp": "2026-11-12T15:47:34+00:00",
-      "vendor_id": 5893,
-      "vendor_name": "Shenzhen Lite IoT Innovation Technology Co., Ltd."
+      "timestamp": "2026-11-13T15:08:05+00:00",
+      "vendor_id": 5895,
+      "vendor_name": "Gebr. Kemper GmbH + Co. KG"
     }
   ],
   "stale_vendors": [],
