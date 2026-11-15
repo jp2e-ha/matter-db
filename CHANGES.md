@@ -1,21 +1,19 @@
 # matter-db sync diff
 
-Comparing **run 177** (`2026-11-13T15:08:05+00:00`) to **run 178** (`2026-11-14T13:57:45+00:00`).
+Comparing **run 178** (`2026-11-14T13:57:45+00:00`) to **run 179** (`2026-11-15T14:32:16+00:00`).
 
-**Summary:** +1 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +0 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 1 |
+| new products | 0 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (1)
+## New products (0)
 
-| vendor | product | sw_version | cert_type | timestamp |
-|---|---|---:|---|---|
-| Zhongshan Gamder Electric Appliance Co., Ltd. | 5780/5360 | 1500 | matter | 2026-11-14T13:57:45+00:00 |
+_None._
 
 ## Updated products (0)
 
