@@ -1,36 +1,38 @@
 # matter-db sync diff
 
-Comparing **run 180** (`2026-11-16T16:47:30+00:00`) to **run 181** (`2026-11-17T16:43:25+00:00`).
+Comparing **run 181** (`2026-11-17T16:43:25+00:00`) to **run 182** (`2026-11-18T16:13:56+00:00`).
 
-**Summary:** +16 products, ~0 updated, +0 vendors, ~0 stale
+**Summary:** +18 products, ~0 updated, +0 vendors, ~0 stale
 
 | change | count |
 |---|---:|
-| new products | 16 |
+| new products | 18 |
 | updated products | 0 |
 | new vendors | 0 |
 | stale vendors | 0 |
 
-## New products (16)
+## New products (18)
 
 | vendor | product | sw_version | cert_type | timestamp |
 |---|---|---:|---|---|
-| Dyson | 5022/20 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8201 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8202 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8203 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8204 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8205 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8206 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8207 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8208 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8209 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8210 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8211 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8212 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8213 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8214 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
-| Dyson | 5022/8215 | 4096 | matter | 2026-11-17T16:43:25+00:00 |
+| IKEA of Sweden | TIMMERFLOTTE temp/hmd sensor | 16908290 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10254 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10255 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10256 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10257 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10258 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10259 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10260 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10261 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10262 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10263 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10264 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Espressif Systems | 4891/10265 | 10050000 | matter | 2026-11-18T16:13:56+00:00 |
+| Yale | Yale Connect Plus Hub 2 | 20413 | matter | 2026-11-18T16:13:56+00:00 |
+| Zimi | 5410/4113 | 16777728 | matter | 2026-11-18T16:13:56+00:00 |
+| Zimi | 5410/4114 | 16777728 | matter | 2026-11-18T16:13:56+00:00 |
+| Zimi | 5410/4369 | 16777728 | matter | 2026-11-18T16:13:56+00:00 |
+| Ecosense, Inc. | EcoQube Apex | 1 | matter | 2026-11-18T16:13:56+00:00 |
 
 ## Updated products (0)
 
