@@ -1,173 +1,20 @@
 {
-  "earlier_run_id": 181,
-  "earlier_started_at": "2026-11-17T16:43:25+00:00",
-  "later_run_id": 182,
-  "later_started_at": "2026-11-18T16:13:56+00:00",
-  "new_products": [
+  "earlier_run_id": 182,
+  "earlier_started_at": "2026-11-18T16:13:56+00:00",
+  "later_run_id": 183,
+  "later_started_at": "2026-11-19T16:21:34+00:00",
+  "new_products": [],
+  "new_vendors": [
     {
-      "certification_type": "matter",
-      "product_id": 32773,
-      "product_name": "TIMMERFLOTTE temp/hmd sensor",
-      "software_version": 16908290,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4476,
-      "vendor_name": "IKEA of Sweden"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10254,
+      "certification_type": null,
+      "product_id": null,
       "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10255,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10256,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10257,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10258,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10259,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10260,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10261,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10262,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10263,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10264,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 10265,
-      "product_name": null,
-      "software_version": 10050000,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 4891,
-      "vendor_name": "Espressif Systems"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 59394,
-      "product_name": "Yale Connect Plus Hub 2",
-      "software_version": 20413,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 5199,
-      "vendor_name": "Yale"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4113,
-      "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4114,
-      "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4369,
-      "product_name": null,
-      "software_version": 16777728,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 5410,
-      "vendor_name": "Zimi"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 1,
-      "product_name": "EcoQube Apex",
-      "software_version": 1,
-      "timestamp": "2026-11-18T16:13:56+00:00",
-      "vendor_id": 5779,
-      "vendor_name": "Ecosense, Inc."
+      "software_version": null,
+      "timestamp": "2026-11-19T16:21:34+00:00",
+      "vendor_id": 5896,
+      "vendor_name": "Nanjing Huifeng Intelligent Control Technology Co., Ltd."
     }
   ],
-  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
