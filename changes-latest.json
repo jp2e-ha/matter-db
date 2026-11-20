@@ -1,20 +1,38 @@
 {
-  "earlier_run_id": 182,
-  "earlier_started_at": "2026-11-18T16:13:56+00:00",
-  "later_run_id": 183,
-  "later_started_at": "2026-11-19T16:21:34+00:00",
-  "new_products": [],
-  "new_vendors": [
+  "earlier_run_id": 183,
+  "earlier_started_at": "2026-11-19T16:21:34+00:00",
+  "later_run_id": 184,
+  "later_started_at": "2026-11-20T15:55:54+00:00",
+  "new_products": [
     {
-      "certification_type": null,
-      "product_id": null,
+      "certification_type": "matter",
+      "product_id": 4100,
+      "product_name": "DUC Cozy",
+      "software_version": 1,
+      "timestamp": "2026-11-20T15:55:54+00:00",
+      "vendor_id": 5151,
+      "vendor_name": "Ductech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 39,
       "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-19T16:21:34+00:00",
-      "vendor_id": 5896,
-      "vendor_name": "Nanjing Huifeng Intelligent Control Technology Co., Ltd."
+      "software_version": 10050000,
+      "timestamp": "2026-11-20T15:55:54+00:00",
+      "vendor_id": 5465,
+      "vendor_name": "tink GmbH"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 3842,
+      "product_name": null,
+      "software_version": 2,
+      "timestamp": "2026-11-20T15:55:54+00:00",
+      "vendor_id": 5809,
+      "vendor_name": "Refoss"
     }
   ],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
