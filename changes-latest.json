@@ -1,57 +1,10 @@
 {
-  "earlier_run_id": 184,
-  "earlier_started_at": "2026-11-20T15:55:54+00:00",
-  "later_run_id": 185,
-  "later_started_at": "2026-11-21T15:07:14+00:00",
-  "new_products": [
-    {
-      "certification_type": "matter",
-      "product_id": 11,
-      "product_name": null,
-      "software_version": 65541,
-      "timestamp": "2026-11-21T15:07:14+00:00",
-      "vendor_id": 4741,
-      "vendor_name": "Hager Group"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5137,
-      "product_name": null,
-      "software_version": 30,
-      "timestamp": "2026-11-21T15:07:14+00:00",
-      "vendor_id": 4999,
-      "vendor_name": "Govee"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 42818,
-      "product_name": null,
-      "software_version": 30,
-      "timestamp": "2026-11-21T15:07:14+00:00",
-      "vendor_id": 4999,
-      "vendor_name": "Govee"
-    }
-  ],
-  "new_vendors": [
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-21T15:07:14+00:00",
-      "vendor_id": 5897,
-      "vendor_name": "Shenzhen Comnect Smarthome Co., Ltd."
-    },
-    {
-      "certification_type": null,
-      "product_id": null,
-      "product_name": null,
-      "software_version": null,
-      "timestamp": "2026-11-21T15:07:14+00:00",
-      "vendor_id": 5898,
-      "vendor_name": "Lumi United Technology Co., Ltd."
-    }
-  ],
+  "earlier_run_id": 185,
+  "earlier_started_at": "2026-11-21T15:07:14+00:00",
+  "later_run_id": 186,
+  "later_started_at": "2026-11-22T15:04:44+00:00",
+  "new_products": [],
+  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
