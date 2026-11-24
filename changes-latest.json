@@ -1,9 +1,55 @@
 {
-  "earlier_run_id": 186,
-  "earlier_started_at": "2026-11-22T15:04:44+00:00",
-  "later_run_id": 187,
-  "later_started_at": "2026-11-23T18:59:56+00:00",
-  "new_products": [],
+  "earlier_run_id": 187,
+  "earlier_started_at": "2026-11-23T18:59:56+00:00",
+  "later_run_id": 188,
+  "later_started_at": "2026-11-24T18:40:38+00:00",
+  "new_products": [
+    {
+      "certification_type": "matter",
+      "product_id": 36864,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-24T18:40:38+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 36865,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-24T18:40:38+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 36866,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-24T18:40:38+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 36867,
+      "product_name": null,
+      "software_version": 65536,
+      "timestamp": "2026-11-24T18:40:38+00:00",
+      "vendor_id": 5788,
+      "vendor_name": "Morelinks"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 1028,
+      "product_name": null,
+      "software_version": 1,
+      "timestamp": "2026-11-24T18:40:38+00:00",
+      "vendor_id": 5867,
+      "vendor_name": "Get Lit TX LLC"
+    }
+  ],
   "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
