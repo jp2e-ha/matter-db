@@ -1,53 +1,170 @@
 {
-  "earlier_run_id": 187,
-  "earlier_started_at": "2026-11-23T18:59:56+00:00",
-  "later_run_id": 188,
-  "later_started_at": "2026-11-24T18:40:38+00:00",
+  "earlier_run_id": 188,
+  "earlier_started_at": "2026-11-24T18:40:38+00:00",
+  "later_run_id": 189,
+  "later_started_at": "2026-11-25T17:49:51+00:00",
   "new_products": [
     {
       "certification_type": "matter",
-      "product_id": 36864,
+      "product_id": 8896,
       "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-24T18:40:38+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
+      "software_version": 1101,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 4142,
+      "vendor_name": "LG Electronics"
     },
     {
       "certification_type": "matter",
-      "product_id": 36865,
+      "product_id": 2,
       "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-24T18:40:38+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
+      "software_version": 3,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5235,
+      "vendor_name": "Shenzhen Lelight technology Co.ltd"
     },
     {
       "certification_type": "matter",
-      "product_id": 36866,
+      "product_id": 3,
       "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-24T18:40:38+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
+      "software_version": 3,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5235,
+      "vendor_name": "Shenzhen Lelight technology Co.ltd"
     },
     {
       "certification_type": "matter",
-      "product_id": 36867,
+      "product_id": 4,
       "product_name": null,
-      "software_version": 65536,
-      "timestamp": "2026-11-24T18:40:38+00:00",
-      "vendor_id": 5788,
-      "vendor_name": "Morelinks"
+      "software_version": 3,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5235,
+      "vendor_name": "Shenzhen Lelight technology Co.ltd"
     },
     {
       "certification_type": "matter",
-      "product_id": 1028,
+      "product_id": 5,
       "product_name": null,
-      "software_version": 1,
-      "timestamp": "2026-11-24T18:40:38+00:00",
-      "vendor_id": 5867,
-      "vendor_name": "Get Lit TX LLC"
+      "software_version": 3,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5235,
+      "vendor_name": "Shenzhen Lelight technology Co.ltd"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49153,
+      "product_name": "MK4",
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49154,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49155,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49156,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49157,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49158,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49159,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49160,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49161,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49162,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49163,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49164,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
+    },
+    {
+      "certification_type": "matter",
+      "product_id": 49165,
+      "product_name": null,
+      "software_version": 1000,
+      "timestamp": "2026-11-25T17:49:51+00:00",
+      "vendor_id": 5535,
+      "vendor_name": "Ltech"
     }
   ],
   "new_vendors": [],
