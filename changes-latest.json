@@ -1,173 +1,20 @@
 {
-  "earlier_run_id": 188,
-  "earlier_started_at": "2026-11-24T18:40:38+00:00",
-  "later_run_id": 189,
-  "later_started_at": "2026-11-25T17:49:51+00:00",
-  "new_products": [
+  "earlier_run_id": 189,
+  "earlier_started_at": "2026-11-25T17:49:51+00:00",
+  "later_run_id": 190,
+  "later_started_at": "2026-11-26T17:33:16+00:00",
+  "new_products": [],
+  "new_vendors": [
     {
-      "certification_type": "matter",
-      "product_id": 8896,
+      "certification_type": null,
+      "product_id": null,
       "product_name": null,
-      "software_version": 1101,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 4142,
-      "vendor_name": "LG Electronics"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 2,
-      "product_name": null,
-      "software_version": 3,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5235,
-      "vendor_name": "Shenzhen Lelight technology Co.ltd"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 3,
-      "product_name": null,
-      "software_version": 3,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5235,
-      "vendor_name": "Shenzhen Lelight technology Co.ltd"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 4,
-      "product_name": null,
-      "software_version": 3,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5235,
-      "vendor_name": "Shenzhen Lelight technology Co.ltd"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 5,
-      "product_name": null,
-      "software_version": 3,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5235,
-      "vendor_name": "Shenzhen Lelight technology Co.ltd"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49153,
-      "product_name": "MK4",
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49154,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49155,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49156,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49157,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49158,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49159,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49160,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49161,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49162,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49163,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49164,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
-    },
-    {
-      "certification_type": "matter",
-      "product_id": 49165,
-      "product_name": null,
-      "software_version": 1000,
-      "timestamp": "2026-11-25T17:49:51+00:00",
-      "vendor_id": 5535,
-      "vendor_name": "Ltech"
+      "software_version": null,
+      "timestamp": "2026-11-26T17:33:16+00:00",
+      "vendor_id": 5899,
+      "vendor_name": "AM Conservation Group, Inc."
     }
   ],
-  "new_vendors": [],
   "stale_vendors": [],
   "updated_products": []
 }
